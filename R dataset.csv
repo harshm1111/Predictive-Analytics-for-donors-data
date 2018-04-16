@@ -1,0 +1,2001 @@
+CONSTITUENT_ID,AGE,GENDER,CITY,STATE,COUNTRY,ZIPCODE,EMAIL,PHONE,MARRIED,CONSTITUENT_ID,No of Events Attended,CONSTITUENT_ID,Total Amount donated,Donated (yes/no)
+1001716,63,Female,Dallas,Texas,USA,75243,1,0,0,NULL,0,NULL,0,0
+1001807,63,Female,Milwaukee,Wisconsin,USA,53211,0,1,1,NULL,0,NULL,0,0
+1001853,65,Female,Warrensburg,Illinois,USA,62573,1,1,0,1001853,1,NULL,0,0
+1001919,63,Male,Springfield,Virginia,USA,22153,1,1,1,NULL,0,NULL,0,0
+1001958,62,Female,Mesa,Arizona,USA,85206,1,1,0,NULL,0,NULL,0,0
+1001993,62,Female,Cave Creek,Arizona,USA,85331,0,1,0,NULL,0,NULL,0,0
+1002014,71,Female,Dekalb,Illinois,USA,60115,0,1,0,NULL,0,NULL,0,0
+1002044,62,Female,Batavia,Illinois,USA,60510,1,1,1,NULL,0,NULL,0,0
+1002074,63,Female,San Mateo,California,USA,94402,0,1,0,NULL,0,NULL,0,0
+1003160,87,Male,Mount Pleasant,South Carolina,USA,29464,0,1,0,NULL,0,NULL,0,0
+1005388,26,Female,Mahomet,Illinois,USA,61853,1,1,0,NULL,0,NULL,0,0
+1007556,23,Female,Buffalo Grove,Illinois,USA,60089,1,1,0,NULL,0,NULL,0,0
+1007582,24,Female,Paxton,Illinois,USA,60957,1,1,0,NULL,0,NULL,0,0
+1007723,24,Female,Arlington Heights,Illinois,USA,60005,1,1,0,NULL,0,NULL,0,0
+1007796,22,Female,Champaign,Illinois,USA,61820,1,1,0,NULL,0,1007796,20,1
+1007873,49,Female,Mapleton,Illinois,USA,61547,1,1,0,NULL,0,NULL,0,0
+1018043,66,Female,Trenton,Illinois,USA,62293,0,1,0,NULL,0,NULL,0,0
+1018106,69,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1018195,65,Female,Madison,Wisconsin,USA,53703,0,1,1,NULL,0,NULL,0,0
+1018371,68,Male,Springfield,Ohio,USA,45502,0,1,1,NULL,0,NULL,0,0
+1018473,66,Male,Camano Island,Washington,USA,98282,1,1,1,NULL,0,NULL,0,0
+1018483,66,Female,Orland Park,Illinois,USA,60462,0,1,1,NULL,0,NULL,0,0
+1018551,61,Female,Lafayette,Louisiana,USA,70508,1,1,0,NULL,0,NULL,0,0
+1018568,64,Male,Northbrook,Illinois,USA,60062,1,1,0,NULL,0,NULL,0,0
+1018578,61,Female,Wilmette,Illinois,USA,60091,0,1,0,NULL,0,NULL,0,0
+1018672,64,Male,Kennett Square,Pennsylvania,USA,19348,1,1,0,NULL,0,NULL,0,0
+1018682,69,Female,Pekin,Illinois,USA,61554,1,1,0,NULL,0,NULL,0,0
+1018697,68,Female,Moline,Illinois,USA,61265,1,1,0,NULL,0,NULL,0,0
+102461,29,Female,Schaumburg,Illinois,USA,60193,1,1,0,NULL,0,NULL,0,0
+102533,45,Female,Sherman,Illinois,USA,62684,1,1,0,NULL,0,102533,60,1
+102535,30,Female,Lexington,Kentucky,USA,40514,1,0,0,NULL,0,NULL,0,0
+1033897,68,Male,Henderson,Nevada,USA,89052,1,1,1,NULL,0,NULL,0,0
+1033898,66,Female,Temple,Texas,USA,76501,0,1,0,NULL,0,NULL,0,0
+1033963,65,Male,Angel Fire,New Mexico,USA,87710,1,1,0,1033963,1,1033963,45,1
+1034020,70,Female,Richmond,Texas,USA,77469,0,1,0,NULL,0,NULL,0,0
+1034088,70,Female,Palo Alto,California,USA,94306,1,1,0,NULL,0,NULL,0,0
+1035734,65,Female,Decatur,Georgia,USA,30034,0,1,0,NULL,0,NULL,0,0
+1035811,71,Male,Tucson,Arizona,USA,85712,0,1,0,NULL,0,NULL,0,0
+103593,30,Female,Tolono,Illinois,USA,61880,1,0,0,NULL,0,NULL,0,0
+103595,29,Female,Kankakee,Illinois,USA,60901,1,1,0,NULL,0,NULL,0,0
+103596,36,Female,Effingham,Illinois,USA,62401,0,1,0,NULL,0,NULL,0,0
+103604,36,Male,Springfield,Illinois,USA,62704,1,1,0,NULL,0,NULL,0,0
+103606,30,Female,Effingham,Illinois,USA,62401,1,1,0,NULL,0,NULL,0,0
+103723,44,Female,Browning,Illinois,USA,62624,1,1,0,NULL,0,NULL,0,0
+103724,30,Female,Mahomet,Illinois,USA,61853,1,1,0,NULL,0,NULL,0,0
+103750,29,Female,Normal,Illinois,USA,61761,1,1,0,NULL,0,NULL,0,0
+103751,44,Male,Champaign,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+103752,31,Female,Saint Louis,Missouri,USA,63109,1,1,0,NULL,0,NULL,0,0
+103758,37,Female,Hunnewell,Missouri,USA,63443,1,1,0,NULL,0,NULL,0,0
+1040640,24,Female,Urbana,Illinois,USA,61801,1,1,0,NULL,0,NULL,0,0
+1041837,25,Male,Urbana,Illinois,USA,61801,1,1,0,NULL,0,NULL,0,0
+1051138,63,Male,Roswell,Georgia,USA,30075,0,1,0,NULL,0,NULL,0,0
+1051280,67,Female,Houston,Texas,USA,77083,1,1,0,NULL,0,NULL,0,0
+1051333,65,Male,Arvada,Colorado,USA,80007,1,1,1,NULL,0,NULL,0,0
+105156,40,Female,Albuquerque,New Mexico,USA,87112,1,1,1,NULL,0,NULL,0,0
+105220,51,Female,Champaign           ,Illinois,USA,61820,1,1,0,NULL,0,NULL,0,0
+1052642,66,Female,Madison,Wisconsin,USA,53717,1,1,1,1052642,1,NULL,0,0
+1052648,69,Male,Tomball,Texas,USA,77377,1,1,1,NULL,0,NULL,0,0
+1052654,62,Male,Chicago,Illinois,USA,60631,1,1,0,NULL,0,NULL,0,0
+1052721,61,Female,Winchester,Illinois,USA,62694,0,1,1,NULL,0,NULL,0,0
+1052725,65,Male,Chatham,Illinois,USA,62629,1,1,0,1052725,1,NULL,0,0
+1052761,66,Female,Littleton,Colorado,USA,80127,0,1,1,NULL,0,NULL,0,0
+1052840,62,Female,Wheaton,Illinois,USA,60187,0,1,0,NULL,0,NULL,0,0
+105347,41,Female,Urbana,Illinois,USA,61802,1,1,0,NULL,0,NULL,0,0
+105360,57,Female,Northfield,Illinois,USA,60093,1,1,0,105360,6,105360,27450,1
+1058592,94,Female,Skillman,New Jersey,USA,8558,0,1,1,1058592,1,1058592,320,1
+1059041,63,Female,Highland Park,Illinois,USA,60035,1,1,0,NULL,0,NULL,0,0
+1059091,65,Female,Lake Forest,Illinois,USA,60045,0,1,1,NULL,0,NULL,0,0
+1059248,77,Male,Rivers State        ,No State,NG,     ,0,0,1,NULL,0,NULL,0,0
+1059281,74,Female,Aurora,Colorado,USA,80014,0,1,0,NULL,0,NULL,0,0
+1059400,62,Female,Delavan,Illinois,USA,61734,0,1,1,NULL,0,NULL,0,0
+1059824,62,Male,Longmont,Colorado,USA,80501,0,1,0,NULL,0,NULL,0,0
+1059907,64,Female,Edwards,Illinois,USA,61528,1,1,1,NULL,0,NULL,0,0
+1059909,74,Female,Yucaipa,California,USA,92399,0,1,0,NULL,0,NULL,0,0
+1059922,59,Female,Durham,North Carolina,USA,27712,0,1,0,NULL,0,NULL,0,0
+1060956,107,Female,,No State,USA,,0,1,0,NULL,0,1060956,20,1
+1061968,61,Female,North Aurora,Illinois,USA,60542,0,1,0,NULL,0,NULL,0,0
+1061991,70,Female,Champaign,Illinois,USA,61822,1,1,0,NULL,0,NULL,0,0
+1062023,64,Male,Chicago,Illinois,USA,60660,1,1,0,NULL,0,NULL,0,0
+1062068,60,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+1062120,65,Female,Oviedo,Florida,USA,32765,1,1,0,NULL,0,NULL,0,0
+1062132,65,Female,Aspen,Colorado,USA,81612,0,1,0,NULL,0,NULL,0,0
+1062138,66,Female,Barrington,Illinois,USA,60010,0,1,0,NULL,0,NULL,0,0
+1062144,60,Female,Hudsonville,Michigan,USA,49426,0,0,0,NULL,0,NULL,0,0
+1062151,58,Female,Chicago,Illinois,USA,60656,1,1,1,1062151,1,NULL,0,0
+1062156,59,Female,Evanston,Illinois,USA,60202,0,1,0,NULL,0,NULL,0,0
+1063400,60,Female,Johnstown,Colorado,USA,80534,1,1,0,NULL,0,NULL,0,0
+1063428,58,Female,Deerfield,Illinois,USA,60015,1,1,1,NULL,0,NULL,0,0
+1063465,68,Male,Quincy,Illinois,USA,62301,1,1,1,NULL,0,NULL,0,0
+1063502,60,Female,Roseville,California,USA,95747,1,1,1,NULL,0,NULL,0,0
+1064331,38,Female,Sullivan,Illinois,USA,61951,1,1,0,NULL,0,NULL,0,0
+1064448,24,Female,Rockford,Illinois,USA,61114,1,1,0,NULL,0,NULL,0,0
+1065305,97,Female,Des Plaines,Illinois,USA,60016,0,1,0,1065305,2,1065305,10,1
+1067251,0,Male,,No State,USA,,0,1,0,NULL,0,1067251,40,1
+1068016,60,Female,Carlsbad,California,USA,92010,1,1,1,NULL,0,NULL,0,0
+1068071,60,Female,Libertyville,Illinois,USA,60048,0,1,1,NULL,0,NULL,0,0
+1068078,0,Female,Machias,Maine,USA,4654,1,1,0,NULL,0,NULL,0,0
+1068231,65,Male,Plainfield,Illinois,USA,60586,0,1,0,NULL,0,NULL,0,0
+1068265,60,Female,Colorado Springs,Colorado,USA,80921,1,1,0,NULL,0,NULL,0,0
+1068328,61,Female,Northbrook,Illinois,USA,60062,0,1,0,NULL,0,NULL,0,0
+1068400,60,Female,Bloomington,Illinois,USA,61704,0,1,1,NULL,0,NULL,0,0
+1068578,73,Female,Buchanan,Michigan,USA,49107,1,1,0,NULL,0,NULL,0,0
+1068613,62,Male,Hortonville,Wisconsin,USA,54944,0,1,0,NULL,0,NULL,0,0
+1068711,63,Female,Holiday Hills,Illinois,USA,60050,1,1,0,NULL,0,NULL,0,0
+1068757,58,Female,Chicago,Illinois,USA,60640,1,1,0,NULL,0,NULL,0,0
+1070521,62,Male,Collinsville,Illinois,USA,62234,1,1,1,NULL,0,NULL,0,0
+1070581,59,Female,Huntsville,Alabama,USA,35801,0,1,0,NULL,0,NULL,0,0
+1070592,66,Female,Bayside,New York,USA,11364,0,1,0,NULL,0,NULL,0,0
+1070600,61,Female,Rantoul,Illinois,USA,61866,1,1,0,NULL,0,NULL,0,0
+1070627,68,Female,Galesburg,Illinois,USA,61401,0,1,0,NULL,0,1070627,50,1
+1070866,62,Female,Phoenix,Arizona,USA,85028,1,1,0,NULL,0,NULL,0,0
+1072044,0,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1072101,88,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1072751,23,Female,Ridge Farm,Illinois,USA,61870,1,1,0,NULL,0,NULL,0,0
+1072824,24,Female,Oak Park,Illinois,USA,60302,1,1,0,NULL,0,NULL,0,0
+1074130,93,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1074984,60,Female,Fort Collins,Colorado,USA,80525,1,1,1,1074984,3,NULL,0,0
+1075101,60,Female,Eugene,Oregon,USA,97405,0,1,0,NULL,0,NULL,0,0
+1075244,67,Male,Frankfort,Illinois,USA,60423,0,1,1,1075244,1,NULL,0,0
+1075255,58,Female,Urbana,Illinois,USA,61801,0,1,0,NULL,0,NULL,0,0
+1075260,64,Female,Farmer City,Illinois,USA,61842,1,0,1,1075260,1,NULL,0,0
+1075410,62,Female,Decatur,Illinois,USA,62521,1,1,0,1075410,2,NULL,0,0
+1075526,63,Female,Taylorville,Illinois,USA,62568,1,1,1,NULL,0,NULL,0,0
+107564,78,Female,Los Angeles,California,USA,90027,1,1,1,107564,1,107564,33177,1
+107669,43,Female,Lock Haven,Pennsylvania,USA,17745,0,1,0,NULL,0,NULL,0,0
+1076830,62,Female,Sugar Grove,Illinois,USA,60554,1,1,1,NULL,0,NULL,0,0
+1076831,61,Female,Atlanta,Georgia,USA,30328,1,1,0,NULL,0,NULL,0,0
+107692,41,Female,Carlock,Illinois,USA,61725,1,1,1,NULL,0,NULL,0,0
+1076961,66,Female,Dixon,Illinois,USA,61021,1,1,1,NULL,0,NULL,0,0
+1077062,66,Male,Crystal Lake,Illinois,USA,60012,1,1,0,NULL,0,NULL,0,0
+1077177,60,Female,Peoria,Illinois,USA,61603,0,1,0,NULL,0,NULL,0,0
+1077183,59,Female,Fort Mill,South Carolina,USA,29715,1,1,0,NULL,0,NULL,0,0
+107719,40,Female,Mt Zion,Illinois,USA,62549,1,1,1,NULL,0,NULL,0,0
+1077223,64,Female,Petersburg,Illinois,USA,62675,1,1,0,NULL,0,NULL,0,0
+1077283,57,Female,Bethesda,Maryland,USA,20817,0,1,0,NULL,0,NULL,0,0
+1077316,59,Female,Highland Park,Illinois,USA,60035,1,1,0,NULL,0,NULL,0,0
+1077317,62,Female,Fort Atkinson,Wisconsin,USA,53538,0,1,0,NULL,0,1077317,75,1
+1077324,60,Female,Mahomet,Illinois,USA,61853,1,1,0,NULL,0,NULL,0,0
+1077492,62,Male,Chicago,Illinois,USA,60660,1,1,0,NULL,0,NULL,0,0
+1077493,59,Female,Fayetteville,Arkansas,USA,72701,0,0,0,NULL,0,NULL,0,0
+1077514,58,Female,Champaign,Illinois,USA,61821,0,1,0,NULL,0,NULL,0,0
+1077626,40,Male,Lovington,Illinois,USA,61937,1,1,0,NULL,0,NULL,0,0
+1077672,23,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+1077700,24,Female,Bath,Michigan,USA,48808,1,1,0,NULL,0,NULL,0,0
+1077862,32,Female,Urbana,Illinois,USA,61801,1,1,0,NULL,0,NULL,0,0
+1079083,23,Female,River Forest,Illinois,USA,60305,1,0,0,NULL,0,NULL,0,0
+1079248,27,Female,Aurora,Illinois,USA,60505,1,1,0,NULL,0,NULL,0,0
+1079548,24,Female,Urbana,Illinois,USA,61802,1,1,0,NULL,0,NULL,0,0
+1079585,33,Male,Dixon,Illinois,USA,61021,1,1,0,NULL,0,NULL,0,0
+1079595,24,Female,Brooklyn,Connecticut,USA,6234,1,1,0,NULL,0,NULL,0,0
+1079611,23,Female,Decatur,Illinois,USA,62526,1,1,0,NULL,0,NULL,0,0
+1079626,58,Female,Solana Beach,California,USA,92075,0,1,1,NULL,0,NULL,0,0
+1080955,86,Male,,No State,USA,,1,1,1,NULL,0,1080955,204,1
+1081067,98,Female,Houston,Texas,USA,77210,0,0,0,NULL,0,1081067,14.70000005,1
+1081183,0,Female,Downey,California,USA,90240,0,0,0,NULL,0,NULL,0,0
+1082194,82,Male,Cape Elizabeth,Maine,USA,4107,0,1,1,NULL,0,NULL,0,0
+1082207,56,Female,Fillmore,California,USA,93015,1,1,1,NULL,0,NULL,0,0
+1083690,83,Female,Hoffman Estates,Illinois,USA,60169,0,1,0,NULL,0,NULL,0,0
+1083715,60,Female,Champaign,Illinois,USA,61822,1,1,1,1083715,1,NULL,0,0
+1083757,57,Female,Forest Park,Illinois,USA,60130,0,1,0,NULL,0,NULL,0,0
+1084650,0,Female,Shaker Heights,Ohio,USA,44122,0,0,0,NULL,0,NULL,0,0
+1086102,23,Female,Wasco,Illinois,USA,60183,1,1,0,NULL,0,NULL,0,0
+108611,35,Female,Champaign,Illinois,USA,61820,1,1,0,108611,1,NULL,0,0
+1086127,23,Female,Warrenville,Illinois,USA,60555,1,1,0,NULL,0,NULL,0,0
+108615,33,Female,Charleston,Illinois,USA,61920,1,1,0,108615,1,NULL,0,0
+108621,30,Female,Chapin,Illinois,USA,62628,1,1,1,NULL,0,NULL,0,0
+1086366,34,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+1086386,24,Female,Vernon Hills,Illinois,USA,60061,1,1,0,NULL,0,NULL,0,0
+1086433,23,Female,Aurora,Illinois,USA,60505,1,1,0,NULL,0,NULL,0,0
+1086459,25,Female,Savoy,Illinois,USA,61874,1,1,0,NULL,0,NULL,0,0
+108646,30,Female,Chicago,Illinois,USA,60626,1,1,0,108646,3,NULL,0,0
+1086471,55,Female,Clementon,New Jersey,USA,8021,1,1,0,NULL,0,NULL,0,0
+1086503,24,Female,Arlington Hts,Illinois,USA,60005,1,1,0,NULL,0,NULL,0,0
+1086566,25,Female,Carol Stream,Illinois,USA,60188,1,1,0,NULL,0,NULL,0,0
+1086797,99,Male,,No State,USA,,0,1,0,NULL,0,1086797,20,1
+108681,29,Female,Aurora,Illinois,USA,60507,1,1,0,NULL,0,NULL,0,0
+108700,33,Female,Champaign,Illinois,USA,61822,1,1,0,NULL,0,108700,900,1
+108721,30,Female,East Moline,Illinois,USA,61244,1,1,0,NULL,0,NULL,0,0
+108730,32,Female,Champaign           ,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+108777,30,Female,Springfield,Illinois,USA,62703,1,1,0,NULL,0,NULL,0,0
+1087840,57,Female,Germantown,Tennessee,USA,38139,0,1,0,NULL,0,NULL,0,0
+1087879,61,Male,Palm Coast,Florida,USA,32137,1,1,0,NULL,0,NULL,0,0
+1087901,56,Female,Blacksburg,Virginia,USA,24060,0,1,0,NULL,0,NULL,0,0
+1087965,60,Female,Colona,Illinois,USA,61241,0,1,0,NULL,0,NULL,0,0
+1088246,77,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1088285,59,Female,Chicago,Illinois,USA,60614,0,1,0,NULL,0,NULL,0,0
+1088319,61,Female,St Thomas,Virgin Islands,USA,801,1,0,0,NULL,0,NULL,0,0
+1088451,59,Female,Phoenix,Arizona,USA,85022,0,1,0,NULL,0,NULL,0,0
+1088487,66,Male,Belleville,Illinois,USA,62221,1,1,0,NULL,0,NULL,0,0
+1088495,58,Female,Los Angeles,California,USA,90028,1,1,1,NULL,0,NULL,0,0
+1088695,59,Female,Barrington,Illinois,USA,60010,0,1,1,NULL,0,NULL,0,0
+1088755,69,Female,Tuscaloosa,Alabama,USA,35406,0,1,1,NULL,0,NULL,0,0
+1088790,0,Male,San Antonio,Texas,USA,78207,1,1,0,NULL,0,1088790,250,1
+1088856,60,Male,Oak Park,Illinois,USA,60302,1,1,0,NULL,0,NULL,0,0
+1088873,58,Female,Lindale,Texas,USA,75771,1,1,1,NULL,0,NULL,0,0
+1090012,72,Male,Dunsmuir,California,USA,96025,0,1,0,NULL,0,NULL,0,0
+1090015,62,Male,Bethalto,Illinois,USA,62010,1,1,1,NULL,0,NULL,0,0
+1090225,63,Female,Broomfield,Colorado,USA,80020,0,1,0,NULL,0,1090225,300,1
+1090239,61,Male,Sunman,Indiana,USA,47041,0,1,0,NULL,0,NULL,0,0
+1090303,64,Female,Chatham,Massachusetts,USA,2633,0,1,1,NULL,0,NULL,0,0
+1090344,76,Female,Ventura,California,USA,93003,0,1,1,NULL,0,NULL,0,0
+1090362,63,Female,Rancho Santa Margarita,California,USA,92688,0,1,0,NULL,0,NULL,0,0
+1090394,59,Female,Glencoe,Illinois,USA,60022,1,1,1,NULL,0,NULL,0,0
+1090395,59,Female,Los Angeles,California,USA,90024,0,1,0,NULL,0,NULL,0,0
+1090402,65,Male,Carmi,Illinois,USA,62821,1,1,1,NULL,0,NULL,0,0
+1090417,68,Male,Duluth,Minnesota,USA,55812,1,1,0,NULL,0,NULL,0,0
+1090426,58,Female,Pacifica,California,USA,94044,0,1,1,NULL,0,NULL,0,0
+1090463,59,Female,Los Angeles,California,USA,90067,0,1,0,NULL,0,NULL,0,0
+1090490,57,Female,Menlo Park,California,USA,94025,0,1,0,NULL,0,NULL,0,0
+1090503,61,Female,Durham,North Carolina,USA,27713,1,1,1,NULL,0,NULL,0,0
+1090511,63,Female,Albuquerque,New Mexico,USA,87105,0,1,0,NULL,0,NULL,0,0
+1090550,69,Female,Denver,Colorado,USA,80206,0,1,0,NULL,0,NULL,0,0
+1090573,62,Female,Waukesha,Wisconsin,USA,53189,0,1,0,NULL,0,NULL,0,0
+1090682,57,Female,Wilmette,Illinois,USA,60091,1,1,1,NULL,0,NULL,0,0
+1092753,60,Female,Taylorville,Illinois,USA,62568,0,1,0,NULL,0,NULL,0,0
+1092763,60,Female,Germantown Hills,Illinois,USA,61548,1,1,0,NULL,0,NULL,0,0
+1092940,64,Female,Marion,Illinois,USA,62959,1,1,0,NULL,0,NULL,0,0
+1092999,58,Female,Berwyn,Illinois,USA,60402,1,1,1,NULL,0,NULL,0,0
+1093055,0,Male,Excelsior Springs,Missouri,USA,64024,1,1,0,NULL,0,NULL,0,0
+1093108,62,Female,Peoria,Illinois,USA,61614,1,1,0,NULL,0,NULL,0,0
+1093112,59,Female,Saint Louis,Missouri,USA,63119,0,1,0,NULL,0,NULL,0,0
+1093114,64,Female,Tucson,Arizona,USA,85749,1,1,0,NULL,0,NULL,0,0
+1093170,58,Female,Shorewood,Illinois,USA,60404,0,1,0,NULL,0,NULL,0,0
+1093223,82,Female,Sarasota,Florida,USA,34236,0,1,1,1093223,1,NULL,0,0
+1097601,0,Male,Salem,Illinois,USA,62881,0,1,0,NULL,0,NULL,0,0
+109795,41,Female,Berwyn,Illinois,USA,60402,0,1,0,NULL,0,NULL,0,0
+1098740,60,Female,Mount Prospect,Illinois,USA,60056,1,1,0,NULL,0,NULL,0,0
+109885,46,Male,Heyworth,Illinois,USA,61745,1,1,0,NULL,0,NULL,0,0
+1099190,58,Female,Willowbrook,Illinois,USA,60527,1,1,0,NULL,0,1099190,160,1
+1099266,58,Female,Bradenton,Florida,USA,34202,1,1,1,NULL,0,NULL,0,0
+1099267,59,Female,Houston,Texas,USA,77095,1,1,1,NULL,0,NULL,0,0
+1099276,61,Female,Houston,Texas,USA,77039,0,1,0,NULL,0,NULL,0,0
+1099394,61,Female,Topeka,Kansas,USA,66614,0,1,1,NULL,0,NULL,0,0
+1099477,63,Female,Aurora,Illinois,USA,60502,0,1,0,NULL,0,NULL,0,0
+1099488,59,Female,Sunnyvale,California,USA,94087,1,1,1,NULL,0,NULL,0,0
+1099499,59,Female,Schaumburg,Illinois,USA,60193,0,1,0,NULL,0,NULL,0,0
+1099509,58,Female,Erie,Pennsylvania,USA,16507,0,0,0,NULL,0,NULL,0,0
+1099715,56,Female,Burr Ridge,Illinois,USA,60527,0,1,0,NULL,0,NULL,0,0
+1099742,57,Female,Fitchburg,Wisconsin,USA,53711,1,1,1,NULL,0,NULL,0,0
+1099760,55,Female,Stockton,Illinois,USA,61085,1,1,1,NULL,0,NULL,0,0
+1099815,57,Female,Lincolnshire,Illinois,USA,60069,1,1,0,NULL,0,NULL,0,0
+1099826,57,Female,Chicago,Illinois,USA,60625,1,1,1,NULL,0,NULL,0,0
+1101210,62,Male,Sebastopol,California,USA,95472,0,1,1,NULL,0,NULL,0,0
+1101250,56,Female,River Forest,Illinois,USA,60305,0,1,0,NULL,0,NULL,0,0
+110127,82,Female,Fremont,California,USA,94539,0,1,1,NULL,0,110127,25,1
+1101342,71,Male,,No State,USA,,1,1,0,1101342,1,NULL,0,0
+110157,83,Female,Evanston,Illinois,USA,60202,0,1,1,NULL,0,110157,110,1
+110161,64,Female,Bloomington,Illinois,USA,61701,1,1,1,NULL,0,110161,110,1
+110238,55,Female,Louisville,Kentucky,USA,40205,0,1,1,NULL,0,110238,25,1
+110285,69,Female,Rockford,Illinois,USA,61108,1,1,1,110285,1,110285,750,1
+1103746,64,Female,Arlington,Virginia,USA,22201,0,1,0,NULL,0,NULL,0,0
+1103765,63,Female,East Palo Alto,California,USA,94303,1,1,0,NULL,0,NULL,0,0
+1103803,55,Female,Aurora,Illinois,USA,60502,1,1,1,1103803,1,NULL,0,0
+1103859,61,Female,Colorado Springs,Colorado,USA,80917,0,1,0,NULL,0,NULL,0,0
+1103893,60,Female,Olathe,Kansas,USA,66062,0,1,0,NULL,0,NULL,0,0
+1103941,67,Male,Shatin NT,No State,HK,,0,1,0,NULL,0,NULL,0,0
+1103945,72,Female,Anna,Illinois,USA,62906,0,1,0,NULL,0,NULL,0,0
+1104065,59,Female,Peoria,Illinois,USA,61615,1,0,0,NULL,0,NULL,0,0
+1104167,67,Female,Ponce,Puerto Rico,USA,732,0,0,0,NULL,0,NULL,0,0
+1104220,55,Female,Terre Haute,Indiana,USA,47803,0,1,1,NULL,0,NULL,0,0
+1104282,61,Female,Decatur,Georgia,USA,30034,0,1,0,NULL,0,NULL,0,0
+1104344,53,Female,Grand Junction,Colorado,USA,81505,1,1,1,NULL,0,NULL,0,0
+1104398,75,Female,Lexington,Illinois,USA,61753,1,1,0,NULL,0,NULL,0,0
+1104942,0,Female,San Francisco,California,USA,94111,0,1,1,NULL,0,NULL,0,0
+1104987,96,Female,,No State,USA,,0,1,1,NULL,0,NULL,0,0
+1105536,58,Female,Rushville,Illinois,USA,62681,0,1,0,NULL,0,NULL,0,0
+1106553,60,Male,Rockford,Illinois,USA,61107,0,1,1,NULL,0,1106553,50,1
+1107828,54,Female,Chicago,Illinois,USA,60628,0,1,0,NULL,0,NULL,0,0
+1107937,78,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1107961,68,Female,Murphysboro,Illinois,USA,62966,0,1,0,NULL,0,NULL,0,0
+1107975,60,Female,Peoria,Illinois,USA,61601,0,1,0,1107975,1,NULL,0,0
+1108041,60,Male,Longmont,Colorado,USA,80501,1,1,0,NULL,0,NULL,0,0
+1108075,66,Female,Irvine,California,USA,92697,0,1,0,NULL,0,NULL,0,0
+1108146,61,Male,Greensboro,North Carolina,USA,27410,0,1,0,NULL,0,NULL,0,0
+1108154,83,Female,Springfield,Illinois,USA,62704,1,1,0,1108154,1,NULL,0,0
+1108162,58,Female,Schaumburg,Illinois,USA,60173,0,1,0,NULL,0,NULL,0,0
+1108286,71,Female,Baltimore,Maryland,USA,21230,0,1,0,NULL,0,NULL,0,0
+1108292,64,Male,Peoria,Illinois,USA,61603,1,1,0,NULL,0,NULL,0,0
+1108334,56,Female,Libertyville,Illinois,USA,60048,1,1,0,NULL,0,NULL,0,0
+1108355,76,Male,Richfield,Minnesota,USA,55423,1,1,0,NULL,0,NULL,0,0
+1112383,64,Female,Eastport,Maine,USA,4631,0,1,1,NULL,0,NULL,0,0
+1112386,57,Female,Maryville,Tennessee,USA,37803,1,1,1,NULL,0,NULL,0,0
+1112521,57,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+1112525,65,Male,Shoreline,Washington,USA,98155,0,1,0,NULL,0,NULL,0,0
+1112632,60,Female,Minneapolis,Minnesota,USA,55410,0,1,0,NULL,0,NULL,0,0
+1112775,57,Female,Tinley Park,Illinois,USA,60477,1,1,0,NULL,0,NULL,0,0
+1112992,63,Female,Creve Coeur,Missouri,USA,63141,0,1,0,NULL,0,NULL,0,0
+1113000,65,Female,Chicago,Illinois,USA,60611,0,0,0,NULL,0,NULL,0,0
+1113033,57,Female,Centennial,Colorado,USA,80016,1,1,0,NULL,0,NULL,0,0
+111307,29,Female,Plymouth,Michigan,USA,48170,1,1,0,NULL,0,NULL,0,0
+111309,29,Female,Thawville,Illinois,USA,60968,1,1,0,NULL,0,NULL,0,0
+1113093,56,Female,Centennial,Colorado,USA,80121,0,1,0,NULL,0,NULL,0,0
+1113167,53,Female,Deerfield,Illinois,USA,60015,1,1,1,NULL,0,1113167,25,1
+1113583,0,Male,Berkeley,California,USA,94708,0,1,0,NULL,0,1113583,100,1
+1114288,53,Female,Peoria,Illinois,USA,61615,1,1,1,NULL,0,1114288,40,1
+111458,60,Female,Rockford,Illinois,USA,61103,1,1,0,NULL,0,NULL,0,0
+1114610,73,Female,Saint Louis,Missouri,USA,63129,1,1,0,NULL,0,1114610,50,1
+1114625,53,Female,Portland,Oregon,USA,97202,0,1,0,NULL,0,NULL,0,0
+1114760,67,Female,Bloomington,Illinois,USA,61701,0,1,0,NULL,0,NULL,0,0
+1114961,66,Female,Nekoosa,Wisconsin,USA,54457,1,1,0,1114961,1,NULL,0,0
+1115134,85,Female,Van Nuys,California,USA,91401,1,1,0,NULL,0,NULL,0,0
+1115229,53,Female,Bloomington,Illinois,USA,61704,0,1,1,NULL,0,NULL,0,0
+1115718,91,Female,,No State,USA,,0,1,0,NULL,0,1115718,75,1
+1117738,0,Male,Northbrook,Illinois,USA,60062,0,1,1,NULL,0,NULL,0,0
+111834,45,Female,"Kangnam Ku, Seoul",No State,KR,135 8,0,1,0,NULL,0,NULL,0,0
+1119260,57,Female,Hillsboro,Missouri,USA,63050,0,0,0,NULL,0,NULL,0,0
+111928,74,Female,Penfield,Illinois,USA,61862,0,1,1,111928,2,111928,875,1
+111929,75,Male,Frederick,Maryland,USA,21702,1,1,1,NULL,0,111929,125,1
+1119345,53,Female,Fort Wayne,Indiana,USA,46816,1,1,1,NULL,0,NULL,0,0
+1119621,61,Female,Champaign,Illinois,USA,61820,1,1,1,NULL,0,NULL,0,0
+1119700,53,Female,Davis,California,USA,95618,1,1,1,NULL,0,NULL,0,0
+1119756,58,Male,Rockford,Illinois,USA,61114,0,1,0,NULL,0,NULL,0,0
+1120789,0,Male,Deerfield,Illinois,USA,60015,0,1,0,NULL,0,1120789,50,1
+1121078,65,Female,Spring,Texas,USA,77379,1,1,0,NULL,0,NULL,0,0
+1122735,97,Female,Northbrook,Illinois,USA,60062,0,1,0,NULL,0,1122735,10,1
+1123293,60,Female,Eau Claire,Wisconsin,USA,54701,0,1,0,NULL,0,NULL,0,0
+1123297,60,Female,Vista,California,USA,92084,0,1,0,NULL,0,NULL,0,0
+1123468,52,Female,Downers Grove,Illinois,USA,60515,1,1,1,NULL,0,NULL,0,0
+1123563,51,Female,West Chicago,Illinois,USA,60185,1,1,1,NULL,0,NULL,0,0
+1123579,74,Male,Poplar Grove        ,Illinois,USA,61065,0,1,0,NULL,0,NULL,0,0
+1123590,54,Male,Lunenburg,Massachusetts,USA,1462,0,1,0,NULL,0,NULL,0,0
+1123610,51,Female,Tinley Park,Illinois,USA,60477,1,1,0,NULL,0,NULL,0,0
+1123752,55,Male,Mundelein,Illinois,USA,60060,1,1,1,NULL,0,NULL,0,0
+1123761,60,Female,Monticello,Indiana,USA,47960,1,1,1,NULL,0,NULL,0,0
+112415,50,Male,Tampa,Florida,USA,33609,1,1,1,112415,1,112415,25,1
+1125067,79,Female,San Jose,California,USA,95132,1,1,1,NULL,0,1125067,2150,1
+1127071,81,Male,Indianapolis,Indiana,USA,46203,0,1,0,NULL,0,NULL,0,0
+113208,32,Female,Wheeling,Illinois,USA,60090,1,1,0,113208,1,NULL,0,0
+1132183,57,Female,Peoria,Illinois,USA,61614,0,1,0,1132183,1,NULL,0,0
+1132188,58,Female,Kalispell,Montana,USA,59901,0,1,0,NULL,0,NULL,0,0
+1132373,52,Female,West Chester,Ohio,USA,45069,0,1,0,NULL,0,NULL,0,0
+1132389,65,Female,Baltimore,Maryland,USA,21239,1,1,0,NULL,0,NULL,0,0
+1132609,59,Female,Fort Collins,Colorado,USA,80525,1,1,1,NULL,0,NULL,0,0
+1132676,57,Female,Riverdale,Georgia,USA,30274,1,1,1,NULL,0,NULL,0,0
+1132696,57,Female,Bremerton,Washington,USA,98312,0,1,0,NULL,0,NULL,0,0
+113272,34,Female,Indianapolis,Indiana,USA,46240,1,1,0,NULL,0,NULL,0,0
+1132878,67,Female,Pekin,Illinois,USA,61554,1,1,0,NULL,0,1132878,10,1
+113290,31,Female,Verona,Wisconsin,USA,53593,1,0,0,NULL,0,NULL,0,0
+1134121,54,Female,Wheaton,Illinois,USA,60189,0,1,0,NULL,0,NULL,0,0
+1135245,90,Male,,No State,USA,,0,1,1,NULL,0,NULL,0,0
+1135432,0,Male,San Jose,California,USA,95123,0,1,0,NULL,0,NULL,0,0
+113719,63,Female,Highland Park,New Jersey,USA,8904,1,1,1,113719,1,113719,1450,1
+113735,74,Female,Corona,California,USA,92879,1,1,1,113735,1,113735,25,1
+1139003,69,Female,East Peoria,Illinois,USA,61611,0,1,0,NULL,0,NULL,0,0
+1139076,88,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1139077,69,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1139087,61,Female,Los Angeles,California,USA,90007,0,1,0,NULL,0,NULL,0,0
+1139159,58,Male,Visalia,California,USA,93291,1,1,0,NULL,0,NULL,0,0
+1139175,57,Female,Fayetteville,Georgia,USA,30214,1,1,0,NULL,0,NULL,0,0
+1139182,68,Male,Mesa,Arizona,USA,85207,0,1,1,NULL,0,NULL,0,0
+1139199,57,Male,Scottsdale,Arizona,USA,85259,1,1,0,NULL,0,NULL,0,0
+1139208,67,Female,Clermont,Florida,USA,34711,0,1,0,NULL,0,NULL,0,0
+1139248,69,Male,Columbus,Ohio,USA,43214,1,1,0,1139248,2,1139248,100,1
+1139263,56,Male,Oxford,Michigan,USA,48370,0,1,0,NULL,0,NULL,0,0
+1139391,54,Female,Columbus,Ohio,USA,43212,0,1,0,NULL,0,NULL,0,0
+1139401,60,Female,Boulder,Colorado,USA,80301,1,1,1,NULL,0,NULL,0,0
+1139429,55,Female,Buffalo Grove,Illinois,USA,60089,1,1,1,1139429,1,NULL,0,0
+1139475,54,Female,Wyckoff,New Jersey,USA,7481,0,1,0,NULL,0,NULL,0,0
+1140667,75,Male,Urbana              ,Illinois,USA,61801,0,0,1,NULL,0,NULL,0,0
+1140690,57,Male,Lexington,Illinois,USA,61753,1,1,0,NULL,0,NULL,0,0
+1140836,65,Male,Bloomington,Illinois,USA,61701,1,1,0,NULL,0,1140836,115,1
+1140837,68,Female,Marion,Illinois,USA,62959,0,1,0,NULL,0,NULL,0,0
+1140970,58,Female,Decatur,Illinois,USA,62526,0,1,1,NULL,0,NULL,0,0
+1140990,66,Female,Avondale,Arizona,USA,85392,0,1,0,NULL,0,NULL,0,0
+1141012,70,Male,Westerly,Rhode Island,USA,2891,0,1,0,NULL,0,NULL,0,0
+1147221,57,Male,South Elgin,Illinois,USA,60177,0,1,0,NULL,0,NULL,0,0
+1147256,80,Female,Michigan City,Indiana,USA,46360,1,1,0,NULL,0,NULL,0,0
+1147487,56,Female,Vandalia            ,Illinois,USA,62471,0,1,0,NULL,0,NULL,0,0
+1147518,61,Male,Rockford,Illinois,USA,61103,1,1,0,NULL,0,NULL,0,0
+1147520,60,Male,"Taichung, Taiwan",No State,TW,400,0,0,1,1147520,1,NULL,0,0
+1147656,64,Female,Bloomington,Illinois,USA,61704,0,1,0,1147656,1,NULL,0,0
+1147663,54,Female,Corinth,Texas,USA,76210,0,1,0,NULL,0,NULL,0,0
+1147749,60,Female,Prairie Du Sac,Wisconsin,USA,53578,1,1,1,NULL,0,NULL,0,0
+1147820,68,Female,Arcola,Illinois,USA,61910,1,1,1,1147820,1,NULL,0,0
+1147831,62,Female,Los Alamos,New Mexico,USA,87544,0,1,1,NULL,0,NULL,0,0
+1147844,58,Male,Scottsdale,Arizona,USA,85258,0,1,0,NULL,0,NULL,0,0
+1148620,0,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1148671,94,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1148762,93,Male,,No State,USA,,0,1,0,NULL,0,1148762,170,1
+1149894,68,Male,APO,Armed Forces Europe/Canada/Middle East/Africa,USA,9096,1,1,1,NULL,0,NULL,0,0
+1149900,59,Female,Groveland,Illinois,USA,61535,1,1,1,NULL,0,NULL,0,0
+1149965,64,Male,Chicago,Illinois,USA,60614,0,1,1,NULL,0,NULL,0,0
+1149972,59,Male,Tell City,Indiana,USA,47586,1,1,0,NULL,0,NULL,0,0
+1150045,72,Female,Boerne,Texas,USA,78006,1,1,0,1150045,2,NULL,0,0
+1150656,0,Male,Santa Fe,New Mexico,USA,87501,0,0,0,NULL,0,NULL,0,0
+1151643,53,Female,Oak Park,Illinois,USA,60302,0,1,0,NULL,0,NULL,0,0
+1151879,60,Female,Algonquin,Illinois,USA,60102,0,1,0,NULL,0,NULL,0,0
+1155811,90,Female,,No State,USA,,0,1,1,NULL,0,NULL,0,0
+1159449,82,Female,Tokyo,No State,JP,166,0,0,0,NULL,0,NULL,0,0
+1160701,58,Female,Bloomington,Illinois,USA,61701,1,1,0,NULL,0,NULL,0,0
+1160799,61,Female,Saint Petersburg,Florida,USA,33704,1,1,0,NULL,0,NULL,0,0
+1160803,55,Female,Algonquin,Illinois,USA,60102,0,1,0,NULL,0,NULL,0,0
+1160853,55,Female,Palm Beach Gardens,Florida,USA,33418,0,1,0,NULL,0,NULL,0,0
+1160864,79,Female,Dubuque,Iowa,USA,52001,0,1,0,NULL,0,NULL,0,0
+1160872,66,Male,Murphysboro,Illinois,USA,62966,0,1,0,NULL,0,1160872,225,1
+1160873,58,Male,Portland,Oregon,USA,97236,0,1,0,NULL,0,NULL,0,0
+1160878,56,Female,Saint Petersburg,Florida,USA,33712,1,1,0,NULL,0,NULL,0,0
+1160887,62,Male,Mount Vernon,Illinois,USA,62864,0,1,0,NULL,0,NULL,0,0
+1161223,54,Female,Springfield,Illinois,USA,62704,0,1,0,NULL,0,NULL,0,0
+1161516,0,Male,Los Angeles,California,USA,90066,0,1,0,NULL,0,NULL,0,0
+1162437,60,Female,Peru,Illinois,USA,61354,0,1,0,NULL,0,NULL,0,0
+1162443,67,Male,Houston,Texas,USA,77008,0,1,0,NULL,0,NULL,0,0
+1162463,67,Female,Danville,Illinois,USA,61832,1,1,0,NULL,0,NULL,0,0
+1162495,55,Male,White Heath,Illinois,USA,61884,1,1,1,1162495,2,NULL,0,0
+1162550,53,Female,Denver,Colorado,USA,80218,0,0,0,NULL,0,NULL,0,0
+1162650,57,Female,Greensboro,North Carolina,USA,27406,1,1,0,NULL,0,1162650,20,1
+1162687,51,Female,Swansea,Illinois,USA,62226,1,1,0,NULL,0,NULL,0,0
+1162848,60,Female,Boyds,Maryland,USA,20841,1,1,1,NULL,0,1162848,790,1
+1162876,51,Female,Medinah,Illinois,USA,60157,0,1,0,NULL,0,NULL,0,0
+1163130,50,Female,Normal,Illinois,USA,61761,1,1,1,NULL,0,NULL,0,0
+1163244,51,Female,Alexandria          ,Virginia,USA,22307,0,1,0,NULL,0,NULL,0,0
+1163247,56,Female,Springfield,Illinois,USA,62707,0,1,1,1163247,1,NULL,0,0
+1163269,67,Male,Mahomet,Illinois,USA,61853,0,1,1,1163269,1,NULL,0,0
+1163404,58,Male,Mahomet,Illinois,USA,61853,0,1,0,1163404,1,NULL,0,0
+1163523,72,Female,Streator,Illinois,USA,61364,0,1,0,NULL,0,NULL,0,0
+1163883,88,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1164215,0,Female,Huntington Beach,California,USA,92648,0,1,0,NULL,0,NULL,0,0
+1164222,90,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1166458,88,Female,Bloomfield,New Jersey,USA,7003,1,1,0,NULL,0,1166458,100,1
+1171843,55,Female,Flagstaff,Arizona,USA,86005,1,1,1,NULL,0,1171843,40,1
+1171893,56,Female,Caledonia,Illinois,USA,61011,1,1,1,NULL,0,1171893,50,1
+1171913,57,Male,East Peoria,Illinois,USA,61611,0,1,0,NULL,0,NULL,0,0
+1171922,53,Female,Mahomet,Illinois,USA,61853,1,1,0,NULL,0,NULL,0,0
+1172301,62,Female,Taipei              ,No State,TW,     ,0,0,1,NULL,0,NULL,0,0
+1172310,64,Female,Santa Barbara,California,USA,93109,0,1,0,NULL,0,NULL,0,0
+1172325,51,Female,Trabuco Canyon,California,USA,92679,0,1,0,NULL,0,NULL,0,0
+1172340,65,Female,"Thunder Bay, Ontario",No State,CA,P7E 5,0,0,0,NULL,0,NULL,0,0
+1172439,63,Female,Elm Mott,Texas,USA,76640,0,1,1,NULL,0,NULL,0,0
+1172471,78,Female,Champaign,Illinois,USA,61822,0,1,0,NULL,0,NULL,0,0
+1172945,92,Male,Snellville,Georgia,USA,30078,1,0,0,NULL,0,NULL,0,0
+1173175,0,Female,Topeka,Kansas,USA,66614,0,0,1,NULL,0,NULL,0,0
+1173630,50,Female,Normal,Illinois,USA,61761,0,1,0,NULL,0,NULL,0,0
+1174597,49,Female,New Lenox,Illinois,USA,60451,0,1,1,NULL,0,NULL,0,0
+1175926,59,Female,Vinton,Iowa,USA,52349,1,1,0,NULL,0,NULL,0,0
+1176049,66,Female,Decatur,Illinois,USA,62526,0,1,0,NULL,0,NULL,0,0
+1176065,52,Female,Glen Allen,Virginia,USA,23059,0,1,0,NULL,0,NULL,0,0
+1176092,59,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1176198,64,Female,Normal,Illinois,USA,61761,1,1,1,NULL,0,NULL,0,0
+1176252,49,Female,Issaquah,Washington,USA,98027,0,1,1,NULL,0,NULL,0,0
+1176255,49,Female,Evanston,Illinois,USA,60202,0,1,0,NULL,0,NULL,0,0
+1177367,89,Male,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1177632,92,Female,Scottsdale,Arizona,USA,85255,0,1,1,NULL,0,NULL,0,0
+1177672,85,Male,Phoenix,Arizona,USA,85067,0,1,1,NULL,0,NULL,0,0
+1177715,0,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1180013,0,Female,Bloomington,Illinois,USA,61701,0,0,1,NULL,0,NULL,0,0
+1182088,94,Male,,No State,USA,,1,1,0,1182088,2,1182088,1500,1
+1182193,92,Female,,No State,USA,,0,1,1,NULL,0,1182193,65,1
+1182958,49,Female,Aurora,Illinois,USA,60506,0,1,0,NULL,0,NULL,0,0
+1183351,63,Male,Hudson,Illinois,USA,61748,1,0,0,NULL,0,NULL,0,0
+1183352,52,Female,Caledonia,Illinois,USA,61011,1,1,1,NULL,0,1183352,25,1
+1183354,71,Male,Valparaiso,Indiana,USA,46385,0,1,0,NULL,0,NULL,0,0
+1183398,52,Male,Kankakee,Illinois,USA,60901,1,1,0,NULL,0,NULL,0,0
+1183538,54,Female,Ypsilanti           ,Michigan,USA,48197,1,1,1,NULL,0,NULL,0,0
+1183569,66,Female,Springfield,Illinois,USA,62711,1,1,1,NULL,0,NULL,0,0
+1184398,0,Female,Schenectady,New York,USA,12309,0,0,0,NULL,0,NULL,0,0
+1184503,109,Male,,No State,USA,,0,1,1,1184503,2,NULL,0,0
+1184621,83,Female,Ithaca,New York,USA,14850,0,1,0,NULL,0,NULL,0,0
+1187733,48,Female,Fishers,Indiana,USA,46038,0,1,0,NULL,0,NULL,0,0
+1187792,51,Male,Effingham,Illinois,USA,62401,1,1,0,NULL,0,NULL,0,0
+1188036,54,Female,Mendota,Illinois,USA,61342,0,1,0,NULL,0,NULL,0,0
+1188038,52,Female,Pekin,Illinois,USA,61554,1,1,1,NULL,0,1188038,100,1
+1189414,60,Female,Chicago,Illinois,USA,60649,1,1,1,NULL,0,NULL,0,0
+1189607,51,Female,Lodi,Wisconsin,USA,53555,1,1,1,NULL,0,NULL,0,0
+1189724,50,Female,Houston,Texas,USA,77083,0,1,0,NULL,0,NULL,0,0
+1189766,51,Female,Decatur,Illinois,USA,62524,0,1,0,NULL,0,NULL,0,0
+1195076,89,Male,Evanston,Illinois,USA,60201,0,1,1,NULL,0,1195076,20,1
+1195237,93,Male,,No State,USA,,0,1,1,NULL,0,1195237,80,1
+1195860,0,Female,Mendota Heights,Minnesota,USA,55118,0,1,0,NULL,0,1195860,20,1
+1196135,48,Female,Batavia,Illinois,USA,60510,0,0,0,NULL,0,NULL,0,0
+1196230,49,Female,Burr Ridge,Illinois,USA,60527,0,0,0,NULL,0,NULL,0,0
+1196241,49,Female,Hawthorn Woods      ,Illinois,USA,60047,1,1,0,NULL,0,NULL,0,0
+1196293,48,Female,Deerfield,Illinois,USA,60015,0,1,0,NULL,0,NULL,0,0
+1196342,48,Female,Momence,Illinois,USA,60954,0,1,0,NULL,0,NULL,0,0
+1196479,49,Female,Madison,Wisconsin,USA,53711,0,1,0,NULL,0,NULL,0,0
+1196568,54,Female,Glenshaw,Pennsylvania,USA,15116,1,1,1,NULL,0,NULL,0,0
+1196761,65,Female,Fairbanks,Alaska,USA,99775,0,1,1,1196761,1,NULL,0,0
+119684,34,Female,Pendleton,Oregon,USA,97801,1,1,0,NULL,0,NULL,0,0
+1196890,60,Female,Decatur,Illinois,USA,62526,1,1,1,NULL,0,NULL,0,0
+1197495,0,Female,Chicago,Illinois,USA,60637,1,1,0,NULL,0,1197495,25,1
+1197569,0,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1197678,94,Male,Milwaukee,Wisconsin,USA,53208,0,1,0,NULL,0,NULL,0,0
+1199098,48,Female,Sycamore,Illinois,USA,60178,1,1,1,1199098,1,NULL,0,0
+1199135,59,Female,Dexter,Missouri,USA,63841,0,1,0,NULL,0,NULL,0,0
+1199256,53,Male,Bloomington,Illinois,USA,61704,0,1,1,NULL,0,NULL,0,0
+1199318,48,Female,Pleasant Hill,California,USA,94523,1,1,0,NULL,0,NULL,0,0
+1199319,54,Female,Decatur,Illinois,USA,62526,1,1,0,1199319,1,1199319,225,1
+1199320,47,Female,Edwardsville,Illinois,USA,62025,0,1,0,NULL,0,NULL,0,0
+1200034,0,Male,Lehigh Acres,Florida,USA,33973,0,1,0,NULL,0,NULL,0,0
+1200161,84,Female,Surprise,Arizona,USA,85374,1,1,0,1200161,1,NULL,0,0
+1200270,100,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1200544,52,Male,Burke,Virginia,USA,22015,1,1,0,NULL,0,NULL,0,0
+1200588,60,Female,Spokane,Washington,USA,99217,0,1,0,NULL,0,NULL,0,0
+1200679,59,Female,Korea 151           ,No State,KR,     ,0,0,0,NULL,0,NULL,0,0
+1200753,48,Female,Frisco,Texas,USA,75034,0,1,0,NULL,0,NULL,0,0
+1200971,54,Female,West Lafayette,Indiana,USA,47906,1,1,1,NULL,0,NULL,0,0
+1201768,76,Female,San Rafael,California,USA,94901,0,1,0,NULL,0,NULL,0,0
+1201793,0,Male,Lake Saint Louis,Missouri,USA,63367,0,1,0,NULL,0,NULL,0,0
+1201810,0,Female,Surprise,Arizona,USA,85387,0,1,0,1201810,1,1201810,25,1
+1201839,0,Male,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1204443,76,Female,Glendale,Arizona,USA,85308,0,1,0,NULL,0,NULL,0,0
+1204474,86,Female,,No State,USA,,0,1,0,NULL,0,1204474,25,1
+1205119,55,Male,Kenmore,Washington,USA,98028,1,1,0,NULL,0,1205119,20,1
+1205136,49,Female,Grand Junction,Colorado,USA,81507,0,1,0,NULL,0,NULL,0,0
+1206292,0,Female,Athens,Georgia,USA,30606,0,1,0,NULL,0,NULL,0,0
+120676,50,Female,Pendleton,Kentucky,USA,40055,0,1,1,NULL,0,120676,125,1
+120699,68,Male,Bellaire,Texas,USA,77401,1,1,0,120699,1,120699,25,1
+1207086,81,Male,Ashland,Missouri,USA,65010,0,1,0,NULL,0,NULL,0,0
+1207443,48,Male,Champaign,Illinois,USA,61820,1,1,1,NULL,0,NULL,0,0
+1207714,50,Female,Winnebago,Illinois,USA,61088,0,1,0,NULL,0,NULL,0,0
+1207787,66,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1207798,63,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1207967,60,Female,Baileyville,Illinois,USA,61007,0,1,0,NULL,0,NULL,0,0
+1207976,46,Male,Vernon Hills,Illinois,USA,60061,0,1,0,NULL,0,NULL,0,0
+120901,79,Female,Rockford,Illinois,USA,61114,1,1,0,120901,19,120901,150,1
+1209387,95,Male,Monroe,Wisconsin,USA,53566,0,1,0,NULL,0,NULL,0,0
+120970,66,Male,Springdale,Arkansas,USA,72764,0,1,1,NULL,0,120970,25,1
+120998,50,Male,Seattle,Washington,USA,98118,1,1,1,NULL,0,120998,75,1
+121013,68,Male,Oakland,California,USA,94609,1,1,0,NULL,0,121013,725,1
+121320,62,Female,La Grange,Illinois,USA,60525,1,1,1,NULL,0,121320,25,1
+1213225,0,Male,Broadview,Illinois,USA,60155,0,0,0,NULL,0,NULL,0,0
+1213290,0,Male,San Francisco,California,USA,94112,0,1,0,NULL,0,NULL,0,0
+1214224,52,Female,Downs,Illinois,USA,61736,0,1,1,NULL,0,1214224,55,1
+121431,86,Male,Palm Harbor,Florida,USA,34683,1,1,1,NULL,0,121431,150,1
+1214313,46,Female,Oak Park,Illinois,USA,60302,0,1,1,NULL,0,NULL,0,0
+1214337,46,Female,Windsor,Colorado,USA,80550,0,1,0,NULL,0,NULL,0,0
+1214373,68,Female,Omaha,Nebraska,USA,68154,0,1,0,1214373,2,NULL,0,0
+1214679,48,Female,Dearborn,Michigan,USA,48124,0,1,1,NULL,0,NULL,0,0
+1214989,49,Female,Edwardsville,Illinois,USA,62025,0,1,0,NULL,0,NULL,0,0
+1215502,0,Male,Chicago,Illinois,USA,60657,0,0,0,NULL,0,NULL,0,0
+1215553,0,Female,Evanston,Illinois,USA,60202,0,0,0,NULL,0,NULL,0,0
+1215555,0,Female,Chicago,Illinois,USA,60612,0,0,0,NULL,0,NULL,0,0
+1217830,0,Female,Joliet,Illinois,USA,60433,1,1,1,NULL,0,1217830,125,1
+1219309,51,Female,Arlington Heights,Illinois,USA,60004,0,0,0,NULL,0,NULL,0,0
+1220182,0,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1220221,0,Female,Urbana,Illinois,USA,61801,0,1,0,NULL,0,NULL,0,0
+1220373,0,Male,Panorama City       ,California,USA,91402,0,0,0,NULL,0,NULL,0,0
+1220382,0,Female,San Diego,California,USA,92106,0,1,1,NULL,0,1220382,400,1
+1220696,56,Female,Evans,Colorado,USA,80620,1,1,0,NULL,0,NULL,0,0
+1220863,52,Female,Wilmington,Illinois,USA,60481,1,1,0,NULL,0,NULL,0,0
+1220951,62,Female,Creal Springs,Illinois,USA,62922,1,1,0,NULL,0,NULL,0,0
+1221014,61,Female,,No State,USA,,1,1,1,NULL,0,NULL,0,0
+1221028,79,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1221029,86,Female,,No State,USA,,0,1,1,NULL,0,NULL,0,0
+1221030,76,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1224336,77,Female,Loveland,Colorado,USA,80538,0,1,1,NULL,0,1224336,755,1
+1224458,0,Male,Kansas City,Missouri,USA,64131,0,0,1,NULL,0,NULL,0,0
+1224472,0,Female,Bensenville,Illinois,USA,60106,0,1,0,NULL,0,NULL,0,0
+1224673,0,Female,Flagstaff,Arizona,USA,86004,0,1,0,NULL,0,NULL,0,0
+1225291,0,Female,Flossmoor,Illinois,USA,60422,0,0,0,NULL,0,NULL,0,0
+1225373,50,Female,Chicago,Illinois,USA,60625,1,1,0,NULL,0,NULL,0,0
+1225375,67,Female,Rantoul,Illinois,USA,61866,1,1,1,1225375,2,NULL,0,0
+1225406,47,Female,Normal,Illinois,USA,61761,0,1,1,NULL,0,NULL,0,0
+1225477,46,Female,Chicago,Illinois,USA,60614,0,1,1,NULL,0,NULL,0,0
+1225595,59,Female,East Peoria,Illinois,USA,61611,1,1,0,NULL,0,NULL,0,0
+1226555,76,Female,,No State,USA,,1,1,0,1226555,1,1226555,40,1
+1226690,0,Male,Holiday Hills,Illinois,USA,60050,0,0,0,NULL,0,NULL,0,0
+1226757,0,Female,Oak Park,Illinois,USA,60302,0,1,0,NULL,0,NULL,0,0
+1226793,83,Male,Hattiesburg,Mississippi,USA,39402,0,1,1,NULL,0,NULL,0,0
+1226794,0,Female,Denver,Colorado,USA,80209,0,0,0,NULL,0,NULL,0,0
+1226799,0,Female,Chicago,Illinois,USA,60626,0,0,0,NULL,0,NULL,0,0
+1227192,71,Female,Glen Ellyn,Illinois,USA,60137,1,1,0,1227192,1,NULL,0,0
+1227299,0,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1227301,0,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1227379,0,Female,Saint Louis,Missouri,USA,63109,0,0,1,NULL,0,NULL,0,0
+1227389,70,Female,Enfield,New Hampshire,USA,3748,1,1,1,NULL,0,1227389,180,1
+1227591,0,Female,Princeton,Massachusetts,USA,1541,0,1,0,NULL,0,NULL,0,0
+1227592,0,Female,Lake Oswego,Oregon,USA,97035,0,1,0,NULL,0,NULL,0,0
+1227593,0,Male,Springfield,Illinois,USA,62702,1,1,0,1227593,1,NULL,0,0
+1227615,0,Male,Chicago,Illinois,USA,60660,1,1,1,NULL,0,1227615,25,1
+1227616,75,Male,Chicago,Illinois,USA,60617,1,1,1,1227616,1,1227616,2550,1
+1227617,0,Male,Chicago,Illinois,USA,60626,1,1,0,NULL,0,1227617,50,1
+1227618,0,Female,Phoenix,Arizona,USA,85053,0,0,0,NULL,0,NULL,0,0
+1227619,81,Female,Virginia Beach,Virginia,USA,23451,1,1,0,NULL,0,1227619,100,1
+1227909,58,Female,Charleston,Illinois,USA,61920,0,1,1,NULL,0,NULL,0,0
+1228090,51,Female,Lexington,Massachusetts,USA,2421,0,1,0,NULL,0,NULL,0,0
+1228231,79,Female,Champaign,Illinois,USA,61821,1,1,1,1228231,2,NULL,0,0
+1228836,0,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1231548,98,Female,,No State,USA,,1,1,0,NULL,0,1231548,160,1
+1231889,0,Female,Portage,Michigan,USA,49024,0,1,1,NULL,0,NULL,0,0
+1231934,79,Female,Brooklyn,New York,USA,11203,0,1,0,NULL,0,NULL,0,0
+1232111,64,Female,Frankfort,Illinois,USA,60423,1,1,1,NULL,0,NULL,0,0
+1232137,64,Female,O Fallon,Illinois,USA,62269,1,1,0,NULL,0,NULL,0,0
+1232322,63,Female,Springfield,Illinois,USA,62707,1,1,0,NULL,0,NULL,0,0
+1232357,63,Female,Champaign,Illinois,USA,61820,1,1,0,NULL,0,NULL,0,0
+1232598,45,Female,Peoria,Illinois,USA,61603,0,1,0,NULL,0,NULL,0,0
+1232615,46,Female,Coppell,Texas,USA,75019,1,1,0,NULL,0,NULL,0,0
+1232641,51,Female,East Peoria,Illinois,USA,61611,0,0,0,NULL,0,NULL,0,0
+1232687,49,Female,Rockford,Illinois,USA,61108,1,1,0,1232687,1,NULL,0,0
+1232743,63,Female,Valley Park,Missouri,USA,63088,1,1,1,NULL,0,NULL,0,0
+1232783,48,Female,Mundelein,Illinois,USA,60060,0,1,0,NULL,0,NULL,0,0
+1232785,68,Male,Gettysburg,Pennsylvania,USA,17325,0,1,1,NULL,0,NULL,0,0
+1232797,59,Female,Kenosha,Wisconsin,USA,53142,0,1,0,NULL,0,NULL,0,0
+1232851,48,Female,Lincoln,Illinois,USA,62656,1,1,0,NULL,0,NULL,0,0
+1232894,70,Female,Mount Vernon,Illinois,USA,62864,1,1,0,NULL,0,NULL,0,0
+1233001,71,Female,Peoria,Illinois,USA,61614,0,1,0,NULL,0,NULL,0,0
+1233035,47,Female,Olympia,Washington,USA,98506,0,1,1,NULL,0,NULL,0,0
+1233044,60,Female,Midland City,Alabama,USA,36350,0,1,0,NULL,0,NULL,0,0
+1233045,48,Female,Ashton,Maryland,USA,20861,0,1,0,NULL,0,NULL,0,0
+1233048,52,Female,Davenport,Iowa,USA,52804,1,1,0,NULL,0,NULL,0,0
+1233138,50,Female,Ocean Springs,Mississippi,USA,39564,0,1,0,NULL,0,NULL,0,0
+1233150,66,Female,Tremont,Illinois,USA,61568,0,1,1,NULL,0,NULL,0,0
+1233454,0,Female,,No State,USA,,0,0,1,NULL,0,NULL,0,0
+1233541,61,Female,Granville,Ohio,USA,43023,0,1,1,NULL,0,NULL,0,0
+1233828,0,Female,Evanston,Illinois,USA,60202,0,0,1,NULL,0,NULL,0,0
+1234277,75,Female,Schaumburg,Illinois,USA,60193,0,1,1,NULL,0,1234277,85,1
+1244723,50,Female,Fort Worth,Texas,USA,76109,1,1,1,NULL,0,1244723,550,1
+1244726,54,Female,Champaign,Illinois,USA,61822,1,1,1,NULL,0,1244726,110,1
+1244796,61,Female,Yona,Guam,USA,96915,0,1,1,NULL,0,NULL,0,0
+1244825,64,Female,Decatur,Illinois,USA,62526,1,1,0,1244825,1,NULL,0,0
+1244841,47,Female,Freeport,Illinois,USA,61032,0,1,1,NULL,0,NULL,0,0
+1244939,46,Female,Kernersville,North Carolina,USA,27284,0,0,0,NULL,0,NULL,0,0
+1246432,57,Female,Brandon,Mississippi,USA,39047,0,1,0,NULL,0,NULL,0,0
+1246440,50,Male,Yuma,Arizona,USA,85365,1,1,0,NULL,0,NULL,0,0
+1246605,47,Female,Sidney,Illinois,USA,61877,1,1,0,1246605,1,NULL,0,0
+1248728,46,Female,Seattle,Washington,USA,98118,1,1,1,NULL,0,NULL,0,0
+1248729,47,Female,Champaign           ,Illinois,USA,61821,0,1,0,NULL,0,NULL,0,0
+1248756,45,Female,Western Springs,Illinois,USA,60558,0,1,0,NULL,0,NULL,0,0
+1251928,45,Female,Joliet,Illinois,USA,60431,0,1,0,NULL,0,NULL,0,0
+1251996,47,Female,Park Forest,Illinois,USA,60466,0,1,0,NULL,0,NULL,0,0
+1253147,61,Female,Vernon Hills,Illinois,USA,60061,1,1,1,NULL,0,NULL,0,0
+1253193,0,Female,Deerfield,Illinois,USA,60015,1,1,0,NULL,0,1253193,355,1
+1253289,44,Female,Montgomery,Illinois,USA,60538,0,1,0,NULL,0,NULL,0,0
+1253324,49,Male,Marietta,Georgia,USA,30064,1,1,1,NULL,0,NULL,0,0
+1253325,46,Female,Independence,Missouri,USA,64052,0,1,0,NULL,0,NULL,0,0
+1253326,47,Male,Chicago             ,Illinois,USA,60646,0,1,1,1253326,1,1253326,75,1
+1253327,45,Female,Oglesby,Illinois,USA,61348,0,1,0,NULL,0,NULL,0,0
+1253328,46,Female,Charleston,Illinois,USA,61920,1,1,0,NULL,0,1253328,75,1
+1253329,75,Female,Bend,Oregon,USA,97703,0,1,0,1253329,2,NULL,0,0
+1253342,48,Female,Silver Spring,Maryland,USA,20906,1,1,0,1253342,1,NULL,0,0
+1253347,49,Female,Byron,Illinois,USA,61010,0,1,0,NULL,0,NULL,0,0
+1253358,49,Male,Las Vegas,Nevada,USA,89142,0,1,0,NULL,0,NULL,0,0
+1253390,51,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1253406,50,Female,Dix,Illinois,USA,62830,0,1,1,NULL,0,NULL,0,0
+1253472,48,Female,London,No State,GB,W92PB,0,1,0,NULL,0,NULL,0,0
+1253503,46,Female,Downers Grove,Illinois,USA,60516,0,1,0,NULL,0,NULL,0,0
+1253504,45,Female,Frankfort,Illinois,USA,60423,1,1,0,NULL,0,NULL,0,0
+1253540,60,Female,Bremerton,Washington,USA,98311,0,1,1,NULL,0,NULL,0,0
+1253575,46,Female,South Jacksonville,Illinois,USA,62650,1,1,0,NULL,0,NULL,0,0
+1253616,57,Female,Rockford,Illinois,USA,61109,0,0,0,NULL,0,NULL,0,0
+1253694,60,Female,Texico,Illinois,USA,62889,0,0,0,NULL,0,NULL,0,0
+1253695,50,Female,Gilson,Illinois,USA,61436,0,1,0,NULL,0,NULL,0,0
+1253916,45,Female,New Lenox,Illinois,USA,60451,0,1,0,NULL,0,NULL,0,0
+1253917,52,Female,San Jose,California,USA,95136,1,1,0,1253917,1,1253917,1050,1
+1253918,58,Female,Lakeland,Florida,USA,33809,0,1,0,NULL,0,NULL,0,0
+1253919,46,Female,Chicago,Illinois,USA,60629,1,1,0,NULL,0,NULL,0,0
+1253988,53,Female,Edelstein,Illinois,USA,61526,1,1,0,NULL,0,NULL,0,0
+1253998,56,Male,Champaign           ,Illinois,USA,61820,1,1,0,1253998,1,1253998,350,1
+1254003,55,Female,Rockford,Illinois,USA,61107,0,1,0,1254003,1,NULL,0,0
+1254007,59,Female,Blandinsville,Illinois,USA,61420,1,1,0,NULL,0,1254007,225,1
+1254485,0,Female,Glen Ellyn,Illinois,USA,60137,0,1,1,NULL,0,1254485,45,1
+1254496,0,Female,Saint Louis,Missouri,USA,63130,0,0,1,NULL,0,NULL,0,0
+1254573,90,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1254736,72,Female,Manchaca,Texas,USA,78652,0,1,1,NULL,0,NULL,0,0
+1254945,65,Female,Peoria,Illinois,USA,61603,1,1,1,1254945,1,1254945,50,1
+1255509,0,Female,Chicago,Illinois,USA,60645,0,0,0,NULL,0,NULL,0,0
+1256144,51,Male,Sandpoint,Idaho,USA,83864,0,1,0,NULL,0,NULL,0,0
+1256424,55,Male,Saudi,No State,SA,,0,0,0,NULL,0,NULL,0,0
+1256481,46,Female,Lincoln,Illinois,USA,62656,1,1,1,1256481,1,1256481,25,1
+1256598,48,Female,Decatur,Illinois,USA,62526,0,1,0,NULL,0,NULL,0,0
+1256608,48,Female,Mattoon,Illinois,USA,61938,1,1,0,NULL,0,NULL,0,0
+1257973,46,Female,Bloomingdale,Illinois,USA,60108,1,1,0,NULL,0,NULL,0,0
+1258013,50,Female,Lafayette,Colorado,USA,80026,0,1,0,NULL,0,NULL,0,0
+1258026,46,Female,Liberty Twp,Ohio,USA,45011,1,1,1,NULL,0,NULL,0,0
+1258060,48,Female,Winnebago,Illinois,USA,61088,1,1,0,NULL,0,NULL,0,0
+1258081,56,Female,Freeport,Illinois,USA,61032,0,1,0,NULL,0,NULL,0,0
+1258111,49,Female,Beloit,Wisconsin,USA,53511,0,1,0,NULL,0,NULL,0,0
+1258128,49,Female,Mattoon,Illinois,USA,61938,0,1,0,1258128,1,NULL,0,0
+1258135,47,Male,Sycamore,Illinois,USA,60178,0,1,0,NULL,0,NULL,0,0
+1258150,46,Female,Carterville,Illinois,USA,62918,1,1,1,NULL,0,NULL,0,0
+1258159,73,Male,Tempe,Arizona,USA,85282,0,1,0,NULL,0,NULL,0,0
+1258175,45,Female,Springfield,Illinois,USA,62711,0,1,0,1258175,1,NULL,0,0
+1260380,55,Female,Hanna City,Illinois,USA,61536,0,1,0,NULL,0,NULL,0,0
+1260387,49,Female,Lindenhurst,Illinois,USA,60046,0,1,0,NULL,0,NULL,0,0
+1260389,45,Female,Lexington,Mississippi,USA,39095,1,1,0,NULL,0,NULL,0,0
+1260406,45,Male,Cove City,North Carolina,USA,28523,1,1,0,NULL,0,NULL,0,0
+1260425,46,Female,Lexington,Illinois,USA,61753,1,1,1,NULL,0,NULL,0,0
+1260459,46,Female,Mokena,Illinois,USA,60448,0,1,1,NULL,0,NULL,0,0
+1260524,47,Female,Altamont,Illinois,USA,62411,1,1,0,NULL,0,1260524,50,1
+1260573,60,Male,Tarrytown,New York,USA,10591,0,1,0,NULL,0,NULL,0,0
+1260578,65,Female,Salisbury,North Carolina,USA,28146,1,1,1,1260578,2,1260578,820,1
+1260580,57,Female,Paxton,Illinois,USA,60957,1,1,0,NULL,0,NULL,0,0
+1260584,52,Female,Peoria,Illinois,USA,61614,1,1,1,NULL,0,1260584,140,1
+1260592,62,Female,Terre Haute,Indiana,USA,47805,0,0,0,NULL,0,NULL,0,0
+1260739,65,Female,Taylorville,Illinois,USA,62568,1,1,1,NULL,0,NULL,0,0
+1260911,48,Female,Springfield,Illinois,USA,62702,1,1,0,NULL,0,NULL,0,0
+1260917,46,Female,Loves Park,Illinois,USA,61111,1,1,0,NULL,0,1260917,20,1
+1260920,55,Female,Caledonia,Illinois,USA,61011,0,1,0,NULL,0,NULL,0,0
+1261036,45,Female,O Fallon,Illinois,USA,62269,0,1,0,NULL,0,NULL,0,0
+1261037,44,Female,Tinley Park,Illinois,USA,60487,1,1,0,NULL,0,NULL,0,0
+1261038,44,Female,Highlands Ranch,Colorado,USA,80126,0,1,0,NULL,0,NULL,0,0
+1261063,62,Female,Urbana,Illinois,USA,61801,1,1,0,NULL,0,NULL,0,0
+1261064,44,Male,San Francisco,California,USA,94122,1,1,0,NULL,0,NULL,0,0
+1261138,66,Female,Peoria,Illinois,USA,61615,0,1,0,NULL,0,NULL,0,0
+126386,32,Female,New Lenox,Illinois,USA,60451,1,1,0,NULL,0,NULL,0,0
+126464,31,Male,Champaign,Illinois,USA,61820,1,1,0,NULL,0,NULL,0,0
+1265497,64,Female,Ames,Iowa,USA,50010,0,1,0,1265497,1,NULL,0,0
+1265506,62,Female,Rockford,Illinois,USA,61107,1,1,0,NULL,0,NULL,0,0
+1265514,46,Female,Mahomet,Illinois,USA,61853,1,1,1,NULL,0,NULL,0,0
+1265524,62,Male,New Lenox,Illinois,USA,60451,1,1,1,NULL,0,NULL,0,0
+1265634,62,Female,Rockford,Illinois,USA,61107,0,1,0,NULL,0,NULL,0,0
+1265639,77,Male,Beloit,Wisconsin,USA,53511,1,1,0,NULL,0,NULL,0,0
+1265840,43,Female,Lindenhurst,Illinois,USA,60046,1,1,0,NULL,0,NULL,0,0
+1265841,43,Female,Downers Grove,Illinois,USA,60516,0,1,0,NULL,0,NULL,0,0
+1265850,43,Male,New Lenox,Illinois,USA,60451,1,1,0,NULL,0,NULL,0,0
+1265901,50,Female,Gibson City,Illinois,USA,60936,1,1,1,1265901,2,1265901,100,1
+1265940,61,Female,Heyworth,Illinois,USA,61745,1,1,0,NULL,0,NULL,0,0
+1266071,46,Female,Denver,Colorado,USA,80212,1,1,1,NULL,0,NULL,0,0
+126739,31,Female,Danville,Illinois,USA,61832,1,1,0,NULL,0,NULL,0,0
+1276997,48,Female,Charleston,Illinois,USA,61920,0,1,0,NULL,0,NULL,0,0
+1277001,50,Female,Watseka,Illinois,USA,60970,1,1,0,NULL,0,NULL,0,0
+1277030,45,Female,Palos Park,Illinois,USA,60464,0,0,0,NULL,0,NULL,0,0
+1277035,46,Female,Seattle,Washington,USA,98112,0,0,0,NULL,0,NULL,0,0
+1277044,45,Female,Ogden,Illinois,USA,61859,1,1,1,1277044,1,NULL,0,0
+1277045,46,Female,Shelby,North Carolina,USA,28150,0,1,0,NULL,0,NULL,0,0
+1277050,45,Female,West Chicago,Illinois,USA,60185,0,1,0,NULL,0,NULL,0,0
+1277051,47,Female,Hannibal,Missouri,USA,63401,0,1,0,NULL,0,NULL,0,0
+1277054,58,Male,Stockton,Illinois,USA,61085,0,1,0,NULL,0,NULL,0,0
+1277058,49,Female,Chicago,Illinois,USA,60643,1,1,0,NULL,0,NULL,0,0
+1277217,44,Female,Paoli,Pennsylvania,USA,19301,0,1,1,NULL,0,NULL,0,0
+1277239,49,Female,Mokena,Illinois,USA,60448,0,1,0,NULL,0,NULL,0,0
+1277247,48,Female,Orland Park,Illinois,USA,60467,0,1,0,NULL,0,NULL,0,0
+1277252,77,Female,Monticello,Illinois,USA,61856,0,1,0,NULL,0,NULL,0,0
+1277383,51,Female,Raleigh,North Carolina,USA,27603,0,1,0,NULL,0,NULL,0,0
+1277553,44,Female,Fishers,Indiana,USA,46037,1,0,0,NULL,0,NULL,0,0
+1277554,43,Female,Morton Grove,Illinois,USA,60053,0,1,0,NULL,0,NULL,0,0
+1277555,43,Female,San Diego,California,USA,92128,1,1,1,NULL,0,NULL,0,0
+1277650,54,Female,Jersey City,New Jersey,USA,7302,1,1,1,NULL,0,NULL,0,0
+1287393,89,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1288472,44,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,NULL,0,0
+1288822,64,Female,Aurora,Colorado,USA,80047,0,1,0,NULL,0,NULL,0,0
+1288935,60,Female,Harrogate,Tennessee,USA,37752,1,1,0,NULL,0,NULL,0,0
+1289109,43,Female,Dyer,Indiana,USA,46311,0,1,1,1289109,2,NULL,0,0
+1290730,81,Female,Summit,Illinois,USA,60501,0,1,0,NULL,0,NULL,0,0
+1295114,79,Male,Elmhurst,Illinois,USA,60126,1,1,0,1295114,1,NULL,0,0
+129680,77,Female,Charlottesville,Virginia,USA,22901,0,1,1,NULL,0,129680,315,1
+129770,73,Female,Northville,Michigan,USA,48168,0,1,1,NULL,0,NULL,0,0
+129778,71,Male,Rochester,New York,USA,14619,1,0,0,NULL,0,129778,270,1
+129874,74,Female,Springfield,Illinois,USA,62702,1,1,1,NULL,0,NULL,0,0
+130038,62,Female,Marion,Indiana,USA,46953,1,1,0,NULL,0,NULL,0,0
+130054,65,Female,Harrisville,Pennsylvania,USA,16038,1,1,1,NULL,0,130054,1050,1
+130084,83,Female,Bloomington,Illinois,USA,61704,0,1,0,NULL,0,130084,100,1
+1300992,46,Female,Tucson,Arizona,USA,85748,0,1,1,NULL,0,NULL,0,0
+1301036,52,Female,Springfield,Illinois,USA,62711,1,1,1,1301036,1,NULL,0,0
+1301074,52,Female,Reno,Nevada,USA,89521,1,1,1,NULL,0,NULL,0,0
+1301088,66,Female,Springfield,Illinois,USA,62704,0,1,0,NULL,0,NULL,0,0
+1301135,49,Female,Orange,California,USA,92867,1,1,0,1301135,1,NULL,0,0
+1301136,60,Female,Rock Island,Illinois,USA,61201,1,1,0,NULL,0,NULL,0,0
+1301200,42,Female,Bloomington,Illinois,USA,61705,1,1,1,1301200,1,NULL,0,0
+1301238,62,Female,Springfield,Illinois,USA,62704,1,1,0,NULL,0,NULL,0,0
+1302298,79,Female,Flossmoor,Illinois,USA,60422,0,1,1,NULL,0,NULL,0,0
+1306153,87,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1308785,79,Female,Calumet City,Illinois,USA,60409,0,1,0,NULL,0,NULL,0,0
+1308990,83,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1311569,100,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1313170,77,Male,Oak Lawn,Illinois,USA,60453,0,1,0,NULL,0,NULL,0,0
+1313714,75,Female,East Syracuse,New York,USA,13057,1,1,1,NULL,0,1313714,3290,1
+1314054,74,Female,Media,Pennsylvania,USA,19063,0,1,0,NULL,0,NULL,0,0
+1314056,74,Male,Daytona Beach,Florida,USA,32118,0,1,0,NULL,0,NULL,0,0
+131416,77,Female,Terre Haute,Indiana,USA,47803,1,1,0,NULL,0,NULL,0,0
+1315206,44,Female,Richmond,Texas,USA,77407,0,1,0,NULL,0,NULL,0,0
+1315364,82,Female,Tryon,North Carolina,USA,28782,0,1,0,NULL,0,NULL,0,0
+1315727,83,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1315890,76,Male,Springfield,Illinois,USA,62704,0,0,0,NULL,0,NULL,0,0
+1315921,93,Female,,No State,USA,,0,1,0,NULL,0,1315921,10,1
+131602,64,Female,Greenville,South Carolina,USA,29607,0,1,1,NULL,0,131602,45,1
+1316306,98,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+131632,74,Female,Milwaukee,Wisconsin,USA,53209,0,1,1,NULL,0,131632,25,1
+1316372,76,Female,Cottonwood,Arizona,USA,86326,0,1,0,NULL,0,1316372,55,1
+1316607,45,Female,Sandy,Utah,USA,84092,0,1,0,NULL,0,NULL,0,0
+1316687,70,Female,Machesney Park,Illinois,USA,61115,1,1,0,NULL,0,NULL,0,0
+1316780,48,Female,Menlo Park,California,USA,94025,0,1,1,NULL,0,NULL,0,0
+1316817,47,Male,East Peoria,Illinois,USA,61611,1,1,0,NULL,0,NULL,0,0
+1316989,46,Female,Warsaw,Indiana,USA,46581,0,1,0,NULL,0,NULL,0,0
+1317004,51,Female,Troy,Illinois,USA,62294,0,1,1,NULL,0,NULL,0,0
+1317078,44,Female,Springfield,Illinois,USA,62704,0,1,1,NULL,0,NULL,0,0
+1327717,79,Female,Chicago,Illinois,USA,60649,0,0,0,NULL,0,NULL,0,0
+1329943,82,Male,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1330184,79,Male,Tacoma,Washington,USA,98408,1,1,0,NULL,0,NULL,0,0
+1331855,78,Male,Libertyville,Illinois,USA,60048,1,1,1,NULL,0,NULL,0,0
+1331864,60,Female,Champaign,Illinois,USA,61821,1,1,1,NULL,0,1331864,400,1
+1333041,44,Female,Springfield,Illinois,USA,62704,1,1,1,NULL,0,NULL,0,0
+1333402,44,Female,Champaign,Illinois,USA,61822,1,1,0,NULL,0,NULL,0,0
+1334236,80,Male,,No State,USA,,0,1,0,NULL,0,1334236,55,1
+1334676,105,Female,San Francisco,California,USA,94114,0,0,0,NULL,0,NULL,0,0
+1336493,81,Male,Jensen Beach,Florida,USA,34957,0,1,0,NULL,0,NULL,0,0
+1338315,76,Female,Springfield,Illinois,USA,62702,1,1,0,NULL,0,NULL,0,0
+1338696,44,Male,Edwardsville,Illinois,USA,62025,0,1,0,NULL,0,NULL,0,0
+1339007,82,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1339666,79,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1339773,103,Female,,No State,USA,,0,0,0,NULL,0,NULL,0,0
+1339774,93,Female,,No State,USA,,0,1,0,NULL,0,1339774,75,1
+1339855,76,Male,Shoreview,Minnesota,USA,55126,1,1,0,NULL,0,1339855,150,1
+1339863,76,Female,Roseburg,Oregon,USA,97470,0,1,0,NULL,0,NULL,0,0
+1343198,63,Female,Dawson,Illinois,USA,62520,0,1,1,NULL,0,NULL,0,0
+1343243,44,Female,Northbrook,Illinois,USA,60062,0,1,0,NULL,0,NULL,0,0
+1343365,43,Female,Champaign,Illinois,USA,61822,1,1,1,NULL,0,1343365,125,1
+1343366,42,Female,Champaign,Illinois,USA,61820,0,1,0,NULL,0,NULL,0,0
+1343871,74,Male,Goshen,Indiana,USA,46526,0,0,0,NULL,0,NULL,0,0
+1343873,74,Female,West Bend,Wisconsin,USA,53095,0,1,1,NULL,0,1343873,50,1
+1344275,75,Male,Mundelein,Illinois,USA,60060,0,1,1,NULL,0,NULL,0,0
+1344293,74,Female,Pillager,Minnesota,USA,56473,0,1,0,NULL,0,NULL,0,0
+1344639,48,Female,West Peoria,Illinois,USA,61604,0,0,0,NULL,0,NULL,0,0
+1344928,65,Female,Decatur,Illinois,USA,62521,1,1,0,NULL,0,NULL,0,0
+1345056,53,Female,Quincy,Illinois,USA,62305,1,1,0,NULL,0,NULL,0,0
+1345057,61,Male,Spring Grove,Illinois,USA,60081,1,1,0,NULL,0,NULL,0,0
+1347254,62,Female,Peoria,Illinois,USA,61615,0,1,1,NULL,0,NULL,0,0
+1347292,51,Female,Seattle,Washington,USA,98109,0,1,1,1347292,2,NULL,0,0
+1347368,42,Female,Champaign,Illinois,USA,61822,0,1,0,NULL,0,NULL,0,0
+1347488,46,Female,Fort Myers,Florida,USA,33907,0,1,0,NULL,0,NULL,0,0
+1347782,53,Female,Memphis,Tennessee,USA,38119,1,1,0,NULL,0,NULL,0,0
+1347943,49,Female,Streator,Illinois,USA,61364,1,0,0,NULL,0,NULL,0,0
+1348088,62,Female,,No State,USA,,1,1,0,NULL,0,NULL,0,0
+1349021,55,Female,Philo,Illinois,USA,61864,1,1,1,1349021,11,NULL,0,0
+1350289,44,Female,Chicago,Illinois,USA,60649,0,1,0,NULL,0,NULL,0,0
+1351756,42,Female,Frisco,Texas,USA,75035,1,1,1,NULL,0,NULL,0,0
+1351797,46,Male,Chicago,Illinois,USA,60611,0,1,0,NULL,0,NULL,0,0
+1351890,54,Female,La Grange,Illinois,USA,60525,1,1,0,NULL,0,NULL,0,0
+1351891,44,Female,Hainesville,Illinois,USA,60030,0,1,0,NULL,0,NULL,0,0
+1351965,44,Female,Winfield,Illinois,USA,60190,0,1,0,NULL,0,NULL,0,0
+1352057,43,Female,Ogden,Illinois,USA,61859,1,1,0,NULL,0,NULL,0,0
+1352222,56,Female,Pontiac,Illinois,USA,61764,1,1,0,NULL,0,NULL,0,0
+1354447,82,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1354762,65,Female,Kuna,Idaho,USA,83634,0,1,0,NULL,0,NULL,0,0
+1354794,46,Female,Cypress,Texas,USA,77433,0,1,0,NULL,0,NULL,0,0
+1354805,66,Female,Dekalb,Illinois,USA,60115,1,1,0,NULL,0,NULL,0,0
+1354959,46,Female,Plainfield,New Jersey,USA,7062,1,1,1,NULL,0,NULL,0,0
+1355002,46,Female,China Grove,North Carolina,USA,28023,1,1,0,NULL,0,NULL,0,0
+1355372,75,Male,Indianapolis,Indiana,USA,46237,1,1,0,NULL,0,NULL,0,0
+1355854,74,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1356378,47,Male,Rockford,Illinois,USA,61108,1,1,0,NULL,0,NULL,0,0
+1356381,45,Female,Channahon,Illinois,USA,60410,1,1,1,NULL,0,NULL,0,0
+1356513,48,Female,Rockford,Illinois,USA,61107,0,1,0,NULL,0,NULL,0,0
+1356518,56,Female,Bloomington,Illinois,USA,61701,0,1,0,1356518,1,NULL,0,0
+1356520,44,Female,Lafayette,Colorado,USA,80026,1,1,1,NULL,0,NULL,0,0
+1357893,76,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1358612,76,Female,Fort Walton Beach,Florida,USA,32548,0,0,0,NULL,0,NULL,0,0
+1358709,54,Female,Rockford,Illinois,USA,61114,1,1,1,NULL,0,NULL,0,0
+1359195,67,Female,Tybee Island,Georgia,USA,31328,0,1,0,NULL,0,1359195,25,1
+1359350,37,Female,Seattle,Washington,USA,98122,1,1,1,NULL,0,NULL,0,0
+1360423,28,Female,Carbondale,Illinois,USA,62901,1,1,0,NULL,0,NULL,0,0
+1363832,38,Male,Champaign,Illinois,USA,61820,1,1,0,1363832,2,1363832,175,1
+1364144,54,Female,Beloit,Wisconsin,USA,53511,0,1,0,NULL,0,NULL,0,0
+1364153,53,Female,Nora,Indiana,USA,46240,0,1,0,NULL,0,NULL,0,0
+1364176,56,Female,Redwood City,California,USA,94063,0,1,0,NULL,0,NULL,0,0
+1364189,54,Female,Chicago,Illinois,USA,60646,0,1,0,NULL,0,NULL,0,0
+1364194,70,Female,Jacksonville,Florida,USA,32256,0,1,1,NULL,0,NULL,0,0
+1364233,79,Female,Long Beach,California,USA,90802,1,1,0,NULL,0,NULL,0,0
+1364237,74,Female,Mattoon,Illinois,USA,61938,1,1,0,NULL,0,NULL,0,0
+1364275,93,Male,Mount Vernon,Illinois,USA,62864,1,1,0,NULL,0,NULL,0,0
+1364295,66,Female,Monticello,Illinois,USA,61856,1,1,0,NULL,0,NULL,0,0
+1364332,57,Female,Peru,Illinois,USA,61354,1,1,0,NULL,0,NULL,0,0
+1364338,53,Female,Naperville,Illinois,USA,60564,1,1,0,NULL,0,NULL,0,0
+1364386,57,Male,Albion,Illinois,USA,62806,0,1,0,NULL,0,NULL,0,0
+1364434,55,Female,Champaign,Illinois,USA,61820,1,1,1,NULL,0,NULL,0,0
+1364507,55,Female,Skokie,Illinois,USA,60076,0,1,0,NULL,0,NULL,0,0
+1365859,55,Male,Channahon,Illinois,USA,60410,0,1,1,NULL,0,NULL,0,0
+136659,74,Male,Livingston,Texas,USA,77399,0,1,1,NULL,0,136659,400,1
+136678,77,Female,Summerfield,Florida,USA,34491,1,1,1,136678,1,136678,85,1
+136713,47,Female,Champaign,Illinois,USA,61820,1,1,0,NULL,0,NULL,0,0
+136722,93,Female,Sterling,Illinois,USA,61081,0,1,1,NULL,0,136722,290,1
+1367727,0,Female,,No State,,,0,0,0,NULL,0,NULL,0,0
+1368352,56,Female,Edwards,Illinois,USA,61528,0,1,0,NULL,0,NULL,0,0
+1368356,59,Female,Wentzville,Missouri,USA,63385,0,1,1,NULL,0,NULL,0,0
+1368470,55,Female,Dekalb,Illinois,USA,60115,1,1,1,NULL,0,1368470,105,1
+1368527,53,Male,Chicago,Illinois,USA,60622,0,1,0,NULL,0,NULL,0,0
+1368532,59,Female,Rockaway,New Jersey,USA,7866,0,0,0,NULL,0,NULL,0,0
+1368622,65,Male,Des Plaines,Illinois,USA,60016,1,1,0,NULL,0,NULL,0,0
+1368698,57,Female,Bloomington,Illinois,USA,61701,1,1,0,NULL,0,NULL,0,0
+1368851,62,Female,Denver,Colorado,USA,80231,1,1,0,NULL,0,NULL,0,0
+1368876,93,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1368928,52,Female,Del Mar,California,USA,92014,0,1,0,NULL,0,NULL,0,0
+1368975,79,Female,Sarasota,Florida,USA,34231,0,1,0,NULL,0,NULL,0,0
+1369874,33,Female,Pingree Grove,Illinois,USA,60140,0,1,1,NULL,0,1369874,20,1
+1371132,52,Female,Gurnee,Illinois,USA,60031,0,1,0,NULL,0,NULL,0,0
+1371144,56,Female,Tempe,Arizona,USA,85284,1,1,0,NULL,0,NULL,0,0
+1371158,81,Male,Columbia,Missouri,USA,65203,1,1,0,1371158,1,NULL,0,0
+1371216,71,Female,Knoxville,Tennessee,USA,37922,0,1,1,1371216,1,NULL,0,0
+1371220,53,Female,Winchester,Virginia,USA,22601,0,1,0,NULL,0,NULL,0,0
+1371255,55,Female,Neffsville,Pennsylvania,USA,17601,0,1,0,NULL,0,NULL,0,0
+1371328,52,Female,Urbana,Illinois,USA,61802,1,1,0,NULL,0,NULL,0,0
+1372792,53,Female,San Jose,California,USA,95124,0,1,0,NULL,0,NULL,0,0
+1372851,59,Male,Naperville,Illinois,USA,60563,1,1,1,NULL,0,NULL,0,0
+1372872,59,Female,Charleston,South Carolina,USA,29412,1,1,0,NULL,0,NULL,0,0
+1372933,63,Female,Huntsville,Alabama,USA,35803,0,1,0,NULL,0,NULL,0,0
+1372986,60,Female,West Frankfort,Illinois,USA,62896,1,1,0,NULL,0,NULL,0,0
+1372988,67,Male,Canton,Illinois,USA,61520,1,1,0,NULL,0,NULL,0,0
+1373058,54,Female,Springfield,Illinois,USA,62704,0,1,0,NULL,0,NULL,0,0
+13766,27,Female,Chicago,Illinois,USA,60653,1,1,0,NULL,0,NULL,0,0
+137859,58,Female,South Whitley,Indiana,USA,46787,1,1,1,NULL,0,137859,150,1
+137875,72,Female,Rockford            ,Illinois,USA,61114,1,1,1,NULL,0,137875,100,1
+137943,67,Male,Tempe,Arizona,USA,85282,1,1,1,137943,5,137943,26615,1
+137954,58,Female,Goshen,Indiana,USA,46528,1,1,1,NULL,0,137954,575,1
+138093,67,Male,Columbus,Indiana,USA,47203,1,1,1,NULL,0,138093,285,1
+138112,57,Female,Sacramento,California,USA,95864,1,1,0,NULL,0,138112,25,1
+138206,47,Female,Riverdale,Georgia,USA,30274,1,1,0,NULL,0,138206,25,1
+138272,67,Male,Surfside,Florida,USA,33154,1,1,1,138272,5,138272,3300,1
+138294,60,Female,Amherst,Ohio,USA,44001,0,1,1,NULL,0,138294,25,1
+138538,45,Male,Chicago,Illinois,USA,60647,1,1,0,NULL,0,NULL,0,0
+138560,68,Female,Coatesville,Pennsylvania,USA,19320,1,1,0,NULL,0,138560,150,1
+1387964,30,Female,Oswego,Illinois,USA,60543,1,1,0,NULL,0,NULL,0,0
+1390027,51,Female,Plainfield,Illinois,USA,60586,1,0,0,NULL,0,NULL,0,0
+1390047,59,Female,Lake In the Hills,Illinois,USA,60156,0,0,0,NULL,0,NULL,0,0
+1390174,52,Female,Summit,Mississippi,USA,39666,0,1,0,NULL,0,NULL,0,0
+1390216,60,Female,Scottsdale,Arizona,USA,85250,1,1,0,NULL,0,NULL,0,0
+1390262,61,Female,Huntingtown,Maryland,USA,20639,1,1,0,NULL,0,NULL,0,0
+1391557,64,Female,Springfield,Missouri,USA,65807,0,0,0,NULL,0,NULL,0,0
+1391675,55,Male,Fircrest,Washington,USA,98466,1,1,0,NULL,0,NULL,0,0
+1391678,55,Female,Camden,Arkansas,USA,71701,0,1,0,NULL,0,NULL,0,0
+1391802,56,Female,Bettendorf,Iowa,USA,52722,1,1,0,NULL,0,NULL,0,0
+1391899,57,Female,Vandalia,Illinois,USA,62471,0,1,0,NULL,0,NULL,0,0
+1393601,31,Female,Chicago,Illinois,USA,60625,1,0,0,1393601,4,NULL,0,0
+1401853,52,Female,Collierville,Tennessee,USA,38017,1,1,1,NULL,0,NULL,0,0
+1401958,52,Female,Auburn,Illinois,USA,62615,0,1,0,NULL,0,NULL,0,0
+1402559,26,Female,Northbrook,Illinois,USA,60062,1,1,0,NULL,0,1402559,1,1
+1402732,76,Male,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1403287,75,Female,Saint Joseph,Missouri,USA,64507,0,1,0,NULL,0,NULL,0,0
+1405897,57,Female,New Ulm,Minnesota,USA,56073,1,1,0,NULL,0,NULL,0,0
+1405944,53,Female,Fredericksburg,Virginia,USA,22408,1,1,1,NULL,0,NULL,0,0
+1405945,61,Male,Danville,Illinois,USA,61832,1,1,0,NULL,0,NULL,0,0
+1406081,62,Male,Normal,Illinois,USA,61761,0,1,0,NULL,0,NULL,0,0
+1406100,61,Female,Wheeling,Illinois,USA,60090,0,1,0,NULL,0,NULL,0,0
+1406112,60,Female,San Francisco,California,USA,94119,0,1,0,NULL,0,NULL,0,0
+1406117,60,Female,Burbank,California,USA,91506,0,1,0,NULL,0,NULL,0,0
+1406133,79,Female,Cornville,Arizona,USA,86325,0,1,1,NULL,0,NULL,0,0
+1406142,65,Male,Carterville,Illinois,USA,62918,0,1,1,NULL,0,NULL,0,0
+1406288,52,Female,Seneca,Illinois,USA,61360,1,1,0,NULL,0,NULL,0,0
+1406462,54,Female,Portland,Oregon,USA,97211,0,1,0,NULL,0,NULL,0,0
+1406463,53,Female,Quincy,Illinois,USA,62301,0,1,0,NULL,0,NULL,0,0
+1410916,56,Female,Normal,Illinois,USA,61761,1,1,0,NULL,0,NULL,0,0
+1410944,69,Female,Bartonville,Illinois,USA,61607,0,1,0,NULL,0,NULL,0,0
+1411154,63,Male,Urbana,Illinois,USA,61801,1,1,1,NULL,0,NULL,0,0
+1411255,67,Male,Murray              ,Kentucky,USA,42071,0,1,0,NULL,0,NULL,0,0
+1411283,56,Female,Seattle,Washington,USA,98117,0,1,0,NULL,0,NULL,0,0
+1411346,61,Female,Rockford,Illinois,USA,61101,0,1,0,1411346,1,NULL,0,0
+1411406,72,Female,Rockford            ,Illinois,USA,61107,1,1,0,NULL,0,NULL,0,0
+1411528,52,Female,Elmhurst,Illinois,USA,60126,1,1,0,NULL,0,NULL,0,0
+1412448,62,Female,Trabuco Canyon,California,USA,92679,0,0,1,NULL,0,NULL,0,0
+1412458,65,Female,Saint Paul,Minnesota,USA,55104,1,1,1,NULL,0,NULL,0,0
+1412460,69,Male,Oak Park,Illinois,USA,60304,1,1,1,NULL,0,NULL,0,0
+1412537,73,Female,Nashville,Tennessee,USA,37215,0,1,0,NULL,0,NULL,0,0
+1412541,67,Female,South Holland,Illinois,USA,60473,0,1,0,1412541,2,NULL,0,0
+1412724,63,Female,Downers Grove,Illinois,USA,60516,0,1,1,NULL,0,NULL,0,0
+1412778,63,Male,Spring Grove,Illinois,USA,60081,0,1,0,NULL,0,NULL,0,0
+1414502,38,Female,Geneva,Illinois,USA,60134,1,1,0,NULL,0,NULL,0,0
+1414735,58,Male,Champaign,Illinois,USA,61821,1,1,0,NULL,0,1414735,350,1
+1414791,65,Female,Champaign,Illinois,USA,61821,1,1,1,1414791,4,1414791,10,1
+1414961,68,Female,Lincoln,Illinois,USA,62656,1,1,1,1414961,1,1414961,425,1
+1414965,66,Female,Champaign,Illinois,USA,61825,1,1,0,NULL,0,NULL,0,0
+1416142,57,Female,Fletcher,North Carolina,USA,28732,0,1,1,NULL,0,NULL,0,0
+1416340,63,Male,Rockford,Illinois,USA,61107,1,1,0,NULL,0,NULL,0,0
+1416353,53,Female,Oak Lawn,Illinois,USA,60453,1,1,0,NULL,0,NULL,0,0
+1416511,40,Male,Wilmette,Illinois,USA,60091,1,0,0,NULL,0,NULL,0,0
+1416616,58,Female,Saint Charles,Illinois,USA,60175,1,1,0,NULL,0,NULL,0,0
+1416664,61,Male,Urbana,Illinois,USA,61801,1,1,1,NULL,0,1416664,30,1
+1416747,41,Female,Bolingbrook,Illinois,USA,60490,1,1,1,1416747,1,NULL,0,0
+1416915,65,Female,Mansfield,Illinois,USA,61854,1,1,1,NULL,0,1416915,195,1
+1417017,57,Female,Clementon,New Jersey,USA,8021,1,1,0,1417017,2,NULL,0,0
+1417369,50,Female,Hamel,Minnesota,USA,55340,0,1,0,NULL,0,NULL,0,0
+1417409,65,Female,Hickory,North Carolina,USA,28601,1,1,0,NULL,0,NULL,0,0
+1417441,53,Female,Monticello,Illinois,USA,61856,1,1,1,1417441,1,NULL,0,0
+1417761,57,Male,Springfield,Illinois,USA,62711,1,1,0,1417761,2,NULL,0,0
+1417996,48,Female,Mc Farland,Wisconsin,USA,53558,0,1,0,NULL,0,NULL,0,0
+1418661,72,Female,Vancleave,Mississippi,USA,39565,1,1,1,1418661,2,NULL,0,0
+1418969,76,Male,Lawrence,Kansas,USA,66044,1,1,1,1418969,9,1418969,152218.2299,1
+1418994,73,Female,Princeton,New Jersey,USA,8540,1,1,1,1418994,2,NULL,0,0
+1419106,55,Female,Champaign,Illinois,USA,61822,1,1,0,1419106,25,NULL,0,0
+1419162,74,Female,Chandler,Arizona,USA,85248,1,1,1,NULL,0,1419162,30,1
+1419310,63,Female,Lexington,Kentucky,USA,40509,1,1,1,1419310,1,1419310,75,1
+1419321,64,Female,Belleville,Illinois,USA,62223,1,1,0,NULL,0,NULL,0,0
+1419339,46,Female,East Peoria,Illinois,USA,61611,0,1,0,NULL,0,NULL,0,0
+1419395,69,Female,Champaign,Illinois,USA,61821,1,1,1,1419395,37,1419395,11260,1
+14199,24,Female,Encino,California,USA,91316,1,0,0,NULL,0,NULL,0,0
+1420122,67,Female,Gilman,Illinois,USA,60938,1,1,0,NULL,0,NULL,0,0
+1420140,64,Female,Forsyth,Illinois,USA,62535,0,1,0,NULL,0,NULL,0,0
+1420462,51,Female,Saint Louis         ,Missouri,USA,63122,0,1,0,NULL,0,NULL,0,0
+1420463,50,Female,Asheville,North Carolina,USA,28806,0,1,0,NULL,0,NULL,0,0
+1420846,60,Female,,No State,USA,,1,1,0,NULL,0,NULL,0,0
+1420984,0,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1421181,42,Female,Bastrop,Texas,USA,78602,0,1,0,NULL,0,NULL,0,0
+1421196,45,Female,Olathe,Kansas,USA,66062,0,1,0,NULL,0,NULL,0,0
+1421206,85,Female,Champaign,Illinois,USA,61820,0,1,1,1421206,1,1421206,155,1
+1422065,63,Male,Frankfort,Illinois,USA,60423,1,1,0,NULL,0,NULL,0,0
+1422204,64,Male,St Charles,Illinois,USA,60174,1,1,0,NULL,0,NULL,0,0
+1423279,44,Female,Edwardsville,Illinois,USA,62025,1,1,0,NULL,0,NULL,0,0
+1423405,47,Female,Bloomington,Illinois,USA,61705,1,1,0,NULL,0,NULL,0,0
+1423482,57,Female,Cuba,Illinois,USA,61427,1,0,0,NULL,0,NULL,0,0
+1423515,44,Female,Olney,Illinois,USA,62450,1,1,1,NULL,0,NULL,0,0
+1423523,42,Female,Tuscola,Illinois,USA,61953,0,1,1,NULL,0,NULL,0,0
+1423546,55,Male,Bloomington,Illinois,USA,61705,0,1,0,NULL,0,NULL,0,0
+1423626,45,Female,Hawthorn Woods,Illinois,USA,60047,1,1,0,NULL,0,NULL,0,0
+1423708,50,Female,Dunlap,Illinois,USA,61525,1,1,1,NULL,0,NULL,0,0
+1423797,40,Female,Chatham,Illinois,USA,62629,1,1,1,NULL,0,NULL,0,0
+1423842,44,Female,Effingham,Illinois,USA,62401,0,1,1,NULL,0,NULL,0,0
+1423874,46,Female,West Lafayette,Indiana,USA,47906,0,1,0,NULL,0,NULL,0,0
+1423918,47,Female,Bloomington,Illinois,USA,61702,0,0,0,1423918,1,NULL,0,0
+1423956,52,Female,Effingham,Illinois,USA,62401,1,1,1,NULL,0,NULL,0,0
+1423965,56,Female,Davenport,Iowa,USA,52803,1,1,0,NULL,0,NULL,0,0
+1423974,42,Female,Savoy,Illinois,USA,61874,0,0,1,NULL,0,1423974,125,1
+1423975,68,Female,Woodson,Illinois,USA,62695,0,1,0,1423975,1,NULL,0,0
+1424018,66,Female,Galesburg,Illinois,USA,61401,1,1,0,NULL,0,NULL,0,0
+1424083,61,Male,Macomb,Illinois,USA,61455,0,1,0,NULL,0,NULL,0,0
+1424101,39,Female,Mount Vernon,Illinois,USA,62864,1,1,0,NULL,0,NULL,0,0
+1424105,44,Female,Indian Trail,North Carolina,USA,28079,0,1,0,NULL,0,NULL,0,0
+1424177,46,Female,Chatham,Illinois,USA,62629,0,1,0,NULL,0,NULL,0,0
+1424259,61,Male,Evanston,Illinois,USA,60203,1,1,1,1424259,1,1424259,1200,1
+1425607,42,Female,Lebanon,Maine,USA,4027,0,1,1,NULL,0,NULL,0,0
+1425621,69,Female,East Moline,Illinois,USA,61244,1,1,0,NULL,0,NULL,0,0
+1425628,52,Female,Cape Coral,Florida,USA,33990,1,1,0,NULL,0,NULL,0,0
+1425858,63,Male,Westmont,Illinois,USA,60559,0,1,0,NULL,0,NULL,0,0
+1425972,45,Female,Cherry Valley,Illinois,USA,61016,1,1,1,NULL,0,NULL,0,0
+1426034,54,Female,Chicago,Illinois,USA,60618,1,1,1,NULL,0,1426034,350,1
+1426143,60,Female,Portland,Oregon,USA,97202,0,1,0,NULL,0,NULL,0,0
+1426191,51,Female,Hickory,North Carolina,USA,28601,0,1,0,NULL,0,NULL,0,0
+1426194,74,Male,Valdosta,Georgia,USA,31602,0,1,0,NULL,0,NULL,0,0
+1426208,51,Female,Westchester,Illinois,USA,60154,0,1,0,NULL,0,NULL,0,0
+1426238,59,Female,Ottawa,Illinois,USA,61350,1,1,1,NULL,0,1426238,50,1
+1426478,56,Female,Dunkirk,New York,USA,14048,1,1,0,NULL,0,1426478,2945,1
+1426570,44,Male,Loves Park,Illinois,USA,61111,0,1,0,NULL,0,NULL,0,0
+1426577,47,Female,Eureka,Illinois,USA,61530,0,1,0,NULL,0,NULL,0,0
+1426579,47,Female,Loves Park,Illinois,USA,61111,0,1,0,NULL,0,NULL,0,0
+1427432,56,Male,Oro Valley,Arizona,USA,85755,1,1,0,NULL,0,NULL,0,0
+1427436,51,Female,Fort Jones,California,USA,96032,0,1,0,NULL,0,NULL,0,0
+1427452,53,Female,Weaverville,North Carolina,USA,28787,0,1,1,NULL,0,NULL,0,0
+1427491,50,Female,Wheaton,Illinois,USA,60187,0,1,0,NULL,0,NULL,0,0
+1427532,57,Male,Rockford,Illinois,USA,61114,1,1,1,1427532,1,NULL,0,0
+1427540,52,Female,Champaign,Illinois,USA,61820,1,1,0,1427540,3,NULL,0,0
+1427541,69,Female,Canton,Illinois,USA,61520,1,1,0,NULL,0,NULL,0,0
+1427583,64,Female,Pella,Iowa,USA,50219,1,1,0,NULL,0,NULL,0,0
+1427676,52,Female,Rockford,Illinois,USA,61108,0,1,1,1427676,1,NULL,0,0
+1427689,61,Female,Newton,Illinois,USA,62448,1,1,0,NULL,0,NULL,0,0
+1427753,49,Female,Springfield,Illinois,USA,62711,0,1,0,1427753,2,NULL,0,0
+1428039,96,Female,Fayetteville,Georgia,USA,30214,0,1,0,NULL,0,1428039,220,1
+1428042,49,Male,Berkeley,California,USA,94705,1,1,0,1428042,1,NULL,0,0
+14291,24,Female,Champaign,Illinois,USA,61820,1,1,0,NULL,0,NULL,0,0
+1429133,53,Female,Bloomington,Illinois,USA,61705,0,1,1,NULL,0,NULL,0,0
+1429284,50,Female,Trenton,Illinois,USA,62293,0,1,0,NULL,0,NULL,0,0
+1429348,52,Female,Chicago,Illinois,USA,60657,0,1,0,NULL,0,NULL,0,0
+1431540,49,Female,Hoopeston,Illinois,USA,60942,1,1,1,NULL,0,NULL,0,0
+1431584,63,Male,"Taichung, Taiwan",No State,TW,400,0,0,0,NULL,0,NULL,0,0
+1431595,51,Female,Diamond Bar,California,USA,91765,0,1,0,NULL,0,NULL,0,0
+1431695,49,Female,Scottsdale,Arizona,USA,85262,1,1,0,NULL,0,NULL,0,0
+1431696,49,Male,Chicago,Illinois,USA,60611,1,1,0,NULL,0,1431696,65,1
+1431768,57,Female,Helotes,Texas,USA,78023,0,1,0,NULL,0,NULL,0,0
+1431843,49,Female,Neptune Beach,Florida,USA,32266,1,1,0,NULL,0,NULL,0,0
+1432382,70,Male,Mundingburra,No State,AU,Q 481,1,1,1,1432382,1,NULL,0,0
+1438953,51,Male,Chicago,Illinois,USA,60613,0,1,0,NULL,0,NULL,0,0
+1439402,48,Female,Naperville,Illinois,USA,60564,0,1,0,1439402,1,NULL,0,0
+1439425,52,Male,Fishers,Indiana,USA,46038,0,1,0,NULL,0,NULL,0,0
+1439464,48,Female,Chicago,Illinois,USA,60634,0,1,0,NULL,0,NULL,0,0
+1439521,46,Female,Lakewood,Colorado,USA,80228,1,1,0,1439521,1,NULL,0,0
+1439661,84,Male,Austin,Texas,USA,78753,1,1,1,NULL,0,NULL,0,0
+1439961,0,Female,Palm Desert,California,USA,92211,0,1,1,NULL,0,NULL,0,0
+1440165,72,Female,,No State,USA,,0,1,0,NULL,0,NULL,0,0
+1440902,52,Female,Peoria,Illinois,USA,61614,1,1,1,NULL,0,NULL,0,0
+1441928,66,Female,Mahomet,Illinois,USA,61853,1,1,1,1441928,109,1441928,200,1
+1442365,0,Female,Minneapolis,Minnesota,USA,55410,0,0,0,NULL,0,NULL,0,0
+1442455,44,Female,Champaign,Illinois,USA,61821,0,1,1,1442455,2,NULL,0,0
+1442981,62,Female,Champaign,Illinois,USA,61822,1,1,1,1442981,1,NULL,0,0
+1443901,55,Female,Bainbridge Island,Washington,USA,98110,0,1,1,NULL,0,NULL,0,0
+1443935,52,Female,Springfield,Illinois,USA,62711,0,1,0,NULL,0,NULL,0,0
+1443982,52,Female,Urbana              ,Illinois,USA,61801,0,0,0,NULL,0,NULL,0,0
+1443988,50,Female,Chicago,Illinois,USA,60640,0,1,0,NULL,0,NULL,0,0
+1444106,52,Male,Rockford,Illinois,USA,61108,1,1,1,NULL,0,NULL,0,0
+1444146,47,Female,Chicago,Illinois,USA,60608,0,1,0,NULL,0,NULL,0,0
+1444186,61,Female,Champaign,Illinois,USA,61820,1,1,0,1444186,2,NULL,0,0
+1444347,73,Female,Lafayette,Indiana,USA,47901,1,1,1,1444347,2,1444347,95,1
+1444426,57,Male,Springfield,Illinois,USA,62704,1,1,1,1444426,1,NULL,0,0
+1444475,73,Female,Urbana,Illinois,USA,61802,1,1,1,1444475,19,1444475,1850,1
+1444498,59,Female,Coeur D Alene,Idaho,USA,83814,1,1,1,1444498,1,1444498,1050,1
+1444577,58,Male,Princeton,Illinois,USA,61356,1,1,1,NULL,0,1444577,1385,1
+1444622,54,Female,Springfield,Illinois,USA,62704,1,1,0,1444622,4,1444622,475,1
+1444703,61,Female,Springfield,Illinois,USA,62704,1,1,0,NULL,0,NULL,0,0
+1444761,47,Male,La Grange Park,Illinois,USA,60526,0,1,1,1444761,1,NULL,0,0
+1444827,61,Male,Decatur,Illinois,USA,62522,1,1,0,1444827,4,NULL,0,0
+1444859,49,Female,Mahomet,Illinois,USA,61853,1,1,1,1444859,4,1444859,1200,1
+1444860,46,Male,Spearfish,South Dakota,USA,57783,0,1,1,1444860,2,NULL,0,0
+1444998,54,Male,Chicago,Illinois,USA,60626,1,1,1,1444998,2,NULL,0,0
+1445208,60,Female,Madison,Wisconsin,USA,53705,1,1,1,1445208,34,1445208,21000,1
+1445258,53,Female,Galesburg,Illinois,USA,61401,1,1,0,1445258,1,1445258,130,1
+1445549,56,Female,Saint Peters,Missouri,USA,63376,0,1,1,NULL,0,NULL,0,0
+1445597,68,Male,North Terre Haute,Indiana,USA,47805,1,1,0,NULL,0,NULL,0,0
+1445750,60,Male,Olympia,Washington,USA,98501,1,1,0,NULL,0,NULL,0,0
+1445840,52,Female,Huntersville,North Carolina,USA,28078,0,1,1,NULL,0,NULL,0,0
+1445841,53,Female,Clemson,South Carolina,USA,29631,0,1,0,NULL,0,NULL,0,0
+1445842,63,Female,Oxford,North Carolina,USA,27565,0,1,0,NULL,0,NULL,0,0
+1446527,62,Male,Savoy,Illinois,USA,61874,1,1,0,1446527,1,NULL,0,0
+1446579,53,Female,Bloomington,Illinois,USA,61704,1,1,0,NULL,0,1446579,25,1
+1446673,74,Female,Boca Raton,Florida,USA,33433,0,1,0,1446673,2,NULL,0,0
+1446765,60,Female,Champaign,Illinois,USA,61821,1,1,0,1446765,1,NULL,0,0
+1446804,66,Male,East Lansing,Michigan,USA,48823,1,1,1,1446804,1,1446804,15740,1
+1446926,63,Female,Champaign,Illinois,USA,61821,1,1,1,1446926,1,NULL,0,0
+1447484,44,Female,Bloomington,Illinois,USA,61705,1,1,1,NULL,0,NULL,0,0
+1447578,69,Female,Champaign,Illinois,USA,61821,1,1,1,1447578,1,1447578,225,1
+1448959,58,Male,Edwardsville,Illinois,USA,62025,1,1,0,NULL,0,NULL,0,0
+1449070,49,Female,Chicago,Illinois,USA,60646,0,1,0,NULL,0,NULL,0,0
+1449071,46,Female,Oak Park,Illinois,USA,60304,0,1,0,NULL,0,NULL,0,0
+1449096,55,Female,Bloomington,Illinois,USA,61705,1,1,0,NULL,0,NULL,0,0
+1449106,69,Female,Bloomington,Illinois,USA,61701,0,1,0,NULL,0,NULL,0,0
+1449348,46,Female,Bartonville,Illinois,USA,61607,1,1,0,NULL,0,NULL,0,0
+1449545,84,Male,Champaign,Illinois,USA,61821,1,1,1,1449545,20,1449545,9000,1
+1449709,45,Female,Warrensburg,Illinois,USA,62573,0,1,0,NULL,0,NULL,0,0
+1449861,72,Male,Oakland Park,Florida,USA,33334,1,1,1,NULL,0,NULL,0,0
+1449934,59,Male,Lyman,South Carolina,USA,29365,1,1,1,NULL,0,1449934,1750,1
+1449949,70,Female,Teaneck,New Jersey,USA,7666,0,1,0,NULL,0,1449949,875,1
+1450074,48,Female,Champaign,Illinois,USA,61821,1,1,1,1450074,2,NULL,0,0
+1450085,46,Female,Glenwood,Illinois,USA,60425,0,1,0,NULL,0,NULL,0,0
+1450086,47,Female,Lombard,Illinois,USA,60148,0,1,0,NULL,0,NULL,0,0
+1450118,81,Female,Rockford,Illinois,USA,61107,0,1,1,NULL,0,NULL,0,0
+1450123,68,Female,Normal,Illinois,USA,61761,0,1,0,NULL,0,NULL,0,0
+1450211,61,Female,Urbana,Illinois,USA,61801,0,1,0,NULL,0,NULL,0,0
+1450345,54,Female,APO,Armed Forces Europe/Canada/Middle East/Africa,USA,9468,0,1,1,NULL,0,NULL,0,0
+1450676,56,Female,Springfield,Illinois,USA,62703,1,1,0,NULL,0,NULL,0,0
+1450729,50,Female,Chicago,Illinois,USA,60630,0,1,0,NULL,0,NULL,0,0
+1450733,60,Female,Loves Park,Illinois,USA,61111,0,1,1,NULL,0,NULL,0,0
+1450803,61,Male,Rock Island,Illinois,USA,61201,0,1,0,NULL,0,NULL,0,0
+1450806,63,Female,Bloomington,Illinois,USA,61704,0,1,0,NULL,0,NULL,0,0
+1450831,49,Female,Bloomington,Illinois,USA,61704,0,1,1,NULL,0,NULL,0,0
+1450906,53,Female,Freeport,Illinois,USA,61032,0,0,0,NULL,0,NULL,0,0
+1450916,53,Female,Freeport,Illinois,USA,61032,1,1,0,NULL,0,NULL,0,0
+1451126,84,Female,Alameda,New Mexico,USA,87114,0,1,1,NULL,0,NULL,0,0
+1451290,70,Female,Friday Harbor,Washington,USA,98250,1,1,1,NULL,0,NULL,0,0
+1451348,43,Female,Davidson,North Carolina,USA,28036,1,1,0,NULL,0,NULL,0,0
+1451488,69,Female,Ann Arbor,Michigan,USA,48105,1,1,1,1451488,65,1451488,3050,1
+1451554,54,Male,Columbia,Missouri,USA,65202,1,1,0,NULL,0,1451554,175,1
+1451555,79,Female,Mattoon,Illinois,USA,61938,0,1,0,NULL,0,1451555,55,1
+1451575,80,Female,Brighton,Michigan,USA,48114,1,1,1,NULL,0,1451575,200,1
+1451576,71,Female,Bloomington,Illinois,USA,61701,1,1,0,NULL,0,1451576,100,1
+1451579,73,Female,Auburn,Washington,USA,98092,1,1,1,NULL,0,1451579,100,1
+1451713,71,Female,Denver,Colorado,USA,80209,0,1,0,NULL,0,1451713,200,1
+1451795,99,Female,Littleton,Colorado,USA,80124,1,1,1,NULL,0,1451795,415,1
+1451823,45,Female,Durham,North Carolina,USA,27707,1,1,1,NULL,0,1451823,700,1
+1451857,72,Female,Owings Mills,Maryland,USA,21117,0,1,0,NULL,0,1451857,465,1
+1451977,0,Female,Murray,Kentucky,USA,42071,0,1,1,NULL,0,NULL,0,0
+1452153,70,Male,Branchville,New Jersey,USA,7826,1,1,1,NULL,0,1452153,45,1
+1452179,61,Female,Baltimore,Maryland,USA,21207,1,1,0,NULL,0,1452179,110,1
+1452229,61,Male,Saint Paul,Minnesota,USA,55102,0,1,0,NULL,0,NULL,0,0
+1453404,67,Female,San Marcos,Texas,USA,78666,1,1,1,NULL,0,1453404,20,1
+1453507,52,Female,Chattanooga,Tennessee,USA,37411,0,1,0,NULL,0,NULL,0,0
+1453519,63,Female,Bakersville,North Carolina,USA,28705,0,1,0,NULL,0,1453519,80,1
+1453562,59,Female,Tampa,Florida,USA,33647,1,1,1,NULL,0,1453562,1900,1
+1453644,68,Female,Brookfield,Illinois,USA,60513,0,0,1,NULL,0,NULL,0,0
+1453712,76,Female,Aurora,Illinois,USA,60502,1,1,1,NULL,0,NULL,0,0
+1453760,91,Female,,No State,USA,,1,1,1,1453760,20,1453760,425,1
+1453785,66,Male,Kamrar,Iowa,USA,50132,0,1,1,NULL,0,1453785,750,1
+1453983,64,Female,Spotsylvania,Virginia,USA,22551,1,1,1,NULL,0,1453983,535,1
+1454015,67,Female,Jacksonville,Florida,USA,32210,0,1,0,NULL,0,NULL,0,0
+1454122,69,Female,Bunker Hill,Illinois,USA,62014,0,1,0,NULL,0,NULL,0,0
+1454233,48,Female,Canton,Illinois,USA,61520,1,1,0,NULL,0,NULL,0,0
+1454509,52,Female,Stone Mountain,Georgia,USA,30083,1,1,0,NULL,0,NULL,0,0
+1455088,48,Male,Eureka,Illinois,USA,61530,1,1,1,NULL,0,NULL,0,0
+1455238,51,Female,Danvers,Illinois,USA,61732,0,1,0,NULL,0,NULL,0,0
+1455367,75,Female,Rochester,Illinois,USA,62563,1,1,0,NULL,0,NULL,0,0
+1455370,48,Female,Jasper,Indiana,USA,47546,0,1,0,NULL,0,NULL,0,0
+1455382,51,Female,Tucker,Georgia,USA,30084,0,1,0,NULL,0,NULL,0,0
+1455390,50,Female,Saint Louis,Missouri,USA,63146,0,1,0,NULL,0,NULL,0,0
+1455397,48,Female,Bloomington,Indiana,USA,47401,1,1,0,1455397,3,NULL,0,0
+1455409,61,Male,Indialantic,Florida,USA,32903,0,1,0,NULL,0,NULL,0,0
+1455413,58,Female,Jackson,Tennessee,USA,38308,0,1,0,NULL,0,NULL,0,0
+1455471,53,Female,Verona,Wisconsin,USA,53593,0,1,0,NULL,0,NULL,0,0
+1455548,50,Male,Pawnee,Illinois,USA,62558,1,1,0,NULL,0,NULL,0,0
+1455592,46,Female,Aurora,Illinois,USA,60506,1,1,1,NULL,0,NULL,0,0
+1455685,75,Male,Beloit,Wisconsin,USA,53511,0,1,0,NULL,0,NULL,0,0
+1455692,60,Male,Mahomet,Illinois,USA,61853,0,1,1,1455692,1,NULL,0,0
+1455780,42,Female,Champaign,Illinois,USA,61821,1,1,1,1455780,1,NULL,0,0
+1455909,65,Female,Collinsville,Illinois,USA,62234,0,1,0,NULL,0,NULL,0,0
+1455924,43,Female,Moline,Illinois,USA,61265,0,1,0,NULL,0,NULL,0,0
+1456233,44,Female,Normal,Illinois,USA,61761,0,1,0,NULL,0,NULL,0,0
+1456878,55,Female,Charleston,Illinois,USA,61920,0,1,1,NULL,0,NULL,0,0
+1456891,51,Female,Rockton,Illinois,USA,61072,0,1,0,NULL,0,NULL,0,0
+1456986,47,Female,Gendros Swansea,No State,GB,SAS8E,0,1,1,NULL,0,NULL,0,0
+1456987,46,Female,Freeburg,Illinois,USA,62243,1,1,0,NULL,0,NULL,0,0
+1458067,70,Female,Danville,California,USA,94526,0,1,0,NULL,0,1458067,10,1
+1458115,64,Female,Vergennes,Vermont,USA,5491,0,1,1,NULL,0,1458115,580,1
+1458180,66,Female,Springfield,Illinois,USA,62704,0,1,1,NULL,0,1458180,45,1
+1458225,58,Female,Cambridge,Massachusetts,USA,2139,1,1,0,NULL,0,1458225,250,1
+1458238,77,Female,Champaign,Illinois,USA,61821,1,1,1,1458238,6,NULL,0,0
+1458304,66,Female,Lexington,Kentucky,USA,40503,0,1,1,1458304,1,1458304,110,1
+1458317,79,Female,Chicago,Illinois,USA,60610,1,1,0,NULL,0,1458317,465,1
+1458359,60,Female,Baltimore,Maryland,USA,21208,0,1,0,NULL,0,NULL,0,0
+1458375,64,Female,Wilmette,Illinois,USA,60091,1,1,1,1458375,1,1458375,145,1
+1458376,60,Male,North Port,Florida,USA,34289,1,1,1,NULL,0,1458376,65,1
+1458389,98,Female,Tucson,Arizona,USA,85737,0,1,1,NULL,0,1458389,1150,1
+1458650,89,Male,,No State,USA,,0,1,0,NULL,0,1458650,410,1
+1458717,73,Male,Silverton,Colorado,USA,81433,0,1,1,NULL,0,1458717,650,1
+1458728,59,Female,Jamestown,Rhode Island,USA,2835,1,1,1,NULL,0,1458728,50,1
+1458845,75,Male,Naples,Florida,USA,34119,1,1,1,NULL,0,1458845,660,1
+1458849,73,Female,Richmond,Virginia,USA,23222,1,1,0,NULL,0,1458849,100,1
+1458859,60,Female,Rensselaer,New York,USA,12144,0,1,1,NULL,0,1458859,150,1
+1459179,71,Male,Eagle,Idaho,USA,83616,1,1,1,NULL,0,1459179,145,1
+1460292,87,Female,Longview,Texas,USA,75604,0,1,1,NULL,0,1460292,295,1
+1460432,62,Female,Andover,Massachusetts,USA,1810,1,1,1,NULL,0,NULL,0,0
+1460502,77,Female,Sun City,California,USA,92585,0,1,1,NULL,0,NULL,0,0
+1460570,71,Female,Urbana,Illinois,USA,61801,1,1,1,1460570,2,1460570,4100,1
+1460721,74,Female,Glenview,Illinois,USA,60025,1,1,1,NULL,0,1460721,325,1
+1460759,66,Female,Albuquerque,New Mexico,USA,87106,0,1,1,NULL,0,1460759,390,1
+1460771,92,Female,,No State,USA,,1,1,1,NULL,0,1460771,180,1
+1460985,70,Female,Potomac,Maryland,USA,20854,0,1,1,NULL,0,NULL,0,0
+1461056,57,Male,Louisville,Kentucky,USA,40206,0,1,0,NULL,0,1461056,25,1
+1461105,65,Male,Decatur,Georgia,USA,30030,1,1,1,NULL,0,1461105,50,1
+1461135,67,Female,North Chesterfield,Virginia,USA,23234,1,1,0,NULL,0,1461135,50,1
+1461365,46,Female,Chicago,Illinois,USA,60624,1,1,1,1461365,4,1461365,390,1
+1461371,63,Female,Urbana,Illinois,USA,61802,1,0,0,NULL,0,NULL,0,0
+1461425,59,Female,Lecanto,Florida,USA,34461,1,1,1,NULL,0,1461425,575,1
+1462214,48,Female,Champaign,Illinois,USA,61820,0,1,0,NULL,0,NULL,0,0
+1462650,71,Female,Savoy,Illinois,USA,61874,1,1,1,1462650,2,1462650,1400,1
+1462690,53,Female,San Antonio,Texas,USA,78209,0,1,1,NULL,0,1462690,185,1
+1462785,58,Female,Reno,Nevada,USA,89519,1,1,1,1462785,2,1462785,25,1
+1462816,70,Male,,No State,USA,,1,1,1,NULL,0,1462816,400,1
+1462819,84,Female,,No State,USA,,1,1,0,NULL,0,1462819,50,1
+1462848,58,Female,Champaign,Illinois,USA,61821,1,1,1,1462848,1,1462848,100,1
+1462911,92,Female,,Washington,USA,,1,1,1,1462911,20,1462911,1800,1
+1463057,80,Female,Springfield,Illinois,USA,62704,1,1,1,1463057,6,1463057,535,1
+1463100,63,Male,,No State,USA,,0,1,1,NULL,0,1463100,50,1
+1463482,62,Female,Charleston,Illinois,USA,61920,1,1,1,1463482,2,1463482,100,1
+1463569,75,Female,Freehold,New Jersey,USA,7728,0,1,0,NULL,0,1463569,25,1
+1464908,58,Female,Menlo Park,California,USA,94025,1,1,1,NULL,0,1464908,450,1
+1464915,59,Female,"Berks, Windsor Uk",No State,GB,,1,1,1,NULL,0,1464915,195,1
+1465410,71,Female,New Berlin,Illinois,USA,62670,0,1,0,1465410,4,1465410,400,1
+1465447,42,Female,Arlington Heights,Illinois,USA,60005,0,1,1,NULL,0,1465447,15,1
+1465741,42,Female,Peoria,Illinois,USA,61604,0,1,1,NULL,0,1465741,365,1
+1465869,53,Female,Quincy,Illinois,USA,62301,1,1,1,1465869,1,1465869,1850,1
+1467209,71,Male,Springfield,Illinois,USA,62704,1,1,1,1467209,11,1467209,475,1
+1467259,73,Female,Oak Park,Illinois,USA,60302,1,1,0,NULL,0,1467259,5,1
+1467361,55,Female,Andover,Minnesota,USA,55304,0,1,0,NULL,0,1467361,25,1
+1467677,64,Male,Verona,Wisconsin,USA,53593,1,1,1,NULL,0,1467677,60,1
+1467823,49,Female,Edwards,Illinois,USA,61528,0,1,1,1467823,4,1467823,725,1
+1467828,56,Female,Milwaukee,Wisconsin,USA,53222,0,1,1,NULL,0,1467828,20,1
+1468119,45,Female,Downers Grove,Illinois,USA,60515,1,1,0,NULL,0,1468119,15,1
+1468290,59,Female,Omaha,Nebraska,USA,68116,1,1,1,NULL,0,1468290,115,1
+1469785,80,Female,Metamora,Illinois,USA,61548,1,1,1,NULL,0,1469785,305,1
+1469946,55,Female,Newbern,Tennessee,USA,38059,1,1,1,NULL,0,1469946,475,1
+1469962,50,Female,Washington,Illinois,USA,61571,1,1,0,NULL,0,1469962,400,1
+1470020,60,Female,Buffalo Grove,Illinois,USA,60089,1,1,1,1470020,2,1470020,175,1
+1470199,63,Female,Alton,Illinois,USA,62002,1,1,1,NULL,0,1470199,935,1
+1470341,45,Female,Oakton,Virginia,USA,22124,1,1,0,NULL,0,1470341,75,1
+1470633,81,Female,Champaign,Illinois,USA,61820,1,1,0,1470633,7,1470633,620,1
+1470634,67,Female,Lombard,Illinois,USA,60148,1,1,1,NULL,0,1470634,395,1
+1470669,59,Female,Gulfport,Mississippi,USA,39507,1,1,1,NULL,0,1470669,50,1
+1470732,51,Female,Normal,Illinois,USA,61761,1,1,0,NULL,0,1470732,25,1
+1471249,65,Female,Indianapolis,Indiana,USA,46228,1,1,0,1471249,1,1471249,490,1
+1472167,55,Female,Monroe,Wisconsin,USA,53566,1,1,1,NULL,0,1472167,75,1
+1472298,60,Female,Oak Park,Illinois,USA,60302,1,1,1,NULL,0,1472298,45,1
+1472410,64,Male,Champaign,Illinois,USA,61822,1,1,1,1472410,3,1472410,325,1
+1472477,65,Female,Batavia,Illinois,USA,60510,0,1,1,1472477,1,1472477,310,1
+1472922,74,Female,Huntley,Illinois,USA,60142,1,1,1,1472922,1,1472922,1600,1
+1474114,62,Female,Miccosukee,Florida,USA,32309,1,1,1,NULL,0,1474114,40,1
+1474318,69,Female,Berryville,Virginia,USA,22611,1,1,1,NULL,0,1474318,775,1
+1474402,56,Female,Glenview,Illinois,USA,60026,1,1,0,NULL,0,1474402,1350,1
+1474587,57,Female,Doraville,Georgia,USA,30340,1,1,1,NULL,0,1474587,25,1
+1474634,58,Female,Brookfield,Wisconsin,USA,53005,1,1,1,NULL,0,1474634,65,1
+1474716,73,Female,Hilliard,Ohio,USA,43026,0,1,1,NULL,0,1474716,25,1
+1474797,63,Female,Lansing,Michigan,USA,48933,1,1,1,NULL,0,1474797,215,1
+1474854,64,Female,Wilmette,Illinois,USA,60091,1,1,1,1474854,16,1474854,1625,1
+1475095,66,Male,Chicago,Illinois,USA,60631,1,1,0,1475095,8,1475095,1095,1
+1475190,51,Female,Palatine,Illinois,USA,60074,0,1,0,NULL,0,1475190,225,1
+1475603,49,Female,Champaign,Illinois,USA,61820,1,1,0,NULL,0,1475603,50,1
+147588,68,Female,Washington,District of Columbia,USA,20012,1,1,1,147588,1,147588,50,1
+147593,53,Male,Danville,Illinois,USA,61832,1,1,0,NULL,0,147593,250,1
+147605,57,Female,Indianapolis,Indiana,USA,46226,1,1,1,NULL,0,147605,50,1
+147633,55,Female,Schaumburg,Illinois,USA,60193,0,1,0,NULL,0,147633,75,1
+1476502,42,Female,Homewood,Illinois,USA,60430,0,1,0,NULL,0,1476502,30,1
+1476714,46,Female,Littleton,Colorado,USA,80127,1,1,1,NULL,0,1476714,800,1
+1476730,67,Male,Tinley Park,Illinois,USA,60477,1,1,1,NULL,0,1476730,90,1
+147680,58,Female,Iowa City,Iowa,USA,52246,1,1,1,NULL,0,147680,160,1
+1476832,58,Male,Quincy,Illinois,USA,62301,1,1,0,1476832,4,1476832,1330,1
+147690,62,Female,Humboldt,Illinois,USA,61931,1,1,0,147690,2,147690,100,1
+147703,85,Female,Walnut Creek,California,USA,94595,0,1,1,147703,2,147703,1205,1
+1477096,62,Male,Carlinville,Illinois,USA,62626,1,1,1,1477096,2,1477096,1060,1
+1477105,62,Female,Northbrook,Illinois,USA,60062,1,1,1,NULL,0,1477105,325,1
+1477123,50,Female,Naperville,Illinois,USA,60564,1,1,1,NULL,0,1477123,150,1
+1477240,50,Male,Mahomet,Illinois,USA,61853,1,1,1,1477240,1,1477240,350,1
+147738,61,Female,Olney,Illinois,USA,62450,1,1,0,147738,15,147738,835,1
+1477449,54,Female,Oviedo,Florida,USA,32765,0,1,1,NULL,0,1477449,40,1
+147817,62,Male,Oak Park,Illinois,USA,60302,1,1,1,147817,3,147817,675,1
+147857,84,Male,Belleville,Illinois,USA,62223,0,1,0,NULL,0,147857,10,1
+147865,56,Female,Hoffman Estates,Illinois,USA,60169,0,1,0,NULL,0,147865,25,1
+1478772,60,Female,Lincoln,Nebraska,USA,68516,0,1,1,NULL,0,1478772,55,1
+1478993,72,Female,Fort Myers,Florida,USA,33908,0,1,1,1478993,2,1478993,350,1
+1479006,65,Female,Effingham,Illinois,USA,62401,1,1,0,1479006,2,1479006,100,1
+1479033,52,Female,Champaign,Illinois,USA,61821,1,1,1,1479033,1,1479033,345,1
+147932,46,Female,Charlotte,North Carolina,USA,28211,1,0,1,NULL,0,147932,325,1
+1479344,49,Female,Geneseo,Illinois,USA,61254,1,1,1,NULL,0,1479344,185,1
+147946,72,Female,Springfield,Illinois,USA,62704,1,1,1,147946,5,147946,250,1
+147959,64,Male,Virginia Beach,Virginia,USA,23451,1,1,1,NULL,0,147959,75,1
+1479605,74,Female,,No State,USA,,0,1,1,NULL,0,1479605,250,1
+1479641,62,Male,Reno,Nevada,USA,89511,1,1,1,NULL,0,1479641,40,1
+147968,74,Female,Edwardsville,Illinois,USA,62025,1,1,0,NULL,0,147968,100,1
+1479750,66,Female,Rockford,Illinois,USA,61107,1,1,1,NULL,0,1479750,160,1
+147984,68,Male,Mount Pleasant,South Carolina,USA,29466,1,1,1,NULL,0,147984,50,1
+1480919,69,Female,Dunlap,Illinois,USA,61525,1,1,1,NULL,0,1480919,250,1
+1481000,53,Female,Normal,Illinois,USA,61761,1,1,1,1481000,1,1481000,460,1
+1481068,66,Female,Chillicothe,Illinois,USA,61523,1,1,1,NULL,0,1481068,20,1
+1481088,68,Male,Springfield,Illinois,USA,62704,1,1,1,NULL,0,1481088,1055,1
+1481099,65,Female,Chapel Hill,North Carolina,USA,27517,1,1,1,NULL,0,1481099,9889.110352,1
+1481211,59,Female,Buffalo Grove,Illinois,USA,60089,0,1,1,NULL,0,1481211,20,1
+1481451,54,Female,Chana,Illinois,USA,61015,0,1,1,NULL,0,1481451,175,1
+1481484,52,Female,Roswell,Georgia,USA,30076,0,1,1,NULL,0,1481484,385,1
+1481511,56,Female,Urbana,Illinois,USA,61801,1,1,1,1481511,3,1481511,315,1
+1481933,52,Female,Mahomet,Illinois,USA,61853,0,1,1,NULL,0,1481933,110,1
+1481944,58,Female,Tucson,Arizona,USA,85737,1,1,0,1481944,4,1481944,1420,1
+1482011,76,Female,San Pedro,California,USA,90732,0,1,1,NULL,0,1482011,91.25,1
+1483241,69,Male,Springfield,Illinois,USA,62711,0,1,1,NULL,0,1483241,90,1
+1483275,68,Male,Benicia,California,USA,94510,1,1,1,NULL,0,1483275,200,1
+1483503,59,Female,Decatur,Illinois,USA,62521,0,1,0,NULL,0,1483503,75,1
+1483635,61,Female,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,1483635,155,1
+1483718,68,Male,Carbondale,Illinois,USA,62902,1,1,1,NULL,0,1483718,600,1
+1483850,60,Female,Aurora,Illinois,USA,60506,1,1,1,NULL,0,1483850,25,1
+1484027,70,Female,Lake Forest,Illinois,USA,60045,0,1,1,NULL,0,1484027,1325,1
+1484055,42,Male,Milwaukee,Wisconsin,USA,53222,0,1,1,NULL,0,1484055,50,1
+1484124,68,Male,Marion,Illinois,USA,62959,1,1,1,NULL,0,1484124,10,1
+1484196,59,Female,Highland,Illinois,USA,62249,1,1,1,NULL,0,1484196,51,1
+1484328,49,Female,Sycamore,Illinois,USA,60178,1,1,1,NULL,0,1484328,75,1
+1485564,52,Female,Springfield,Illinois,USA,62702,1,1,1,NULL,0,1485564,150,1
+1485772,63,Female,Hanna City,Illinois,USA,61536,1,1,1,1485772,1,1485772,665,1
+1485857,69,Female,Lincoln,Illinois,USA,62656,1,1,1,NULL,0,1485857,320,1
+1485957,46,Female,Greenup,Illinois,USA,62428,1,1,1,NULL,0,1485957,25,1
+1486547,80,Female,Rockford,Illinois,USA,61107,0,1,1,NULL,0,1486547,10,1
+1488053,59,Female,Highland Park,Illinois,USA,60035,1,1,1,NULL,0,1488053,625,1
+1488090,48,Female,Savoy,Illinois,USA,61874,1,1,1,1488090,1,1488090,550,1
+1488191,66,Male,Urbana,Illinois,USA,61801,1,1,1,1488191,1,1488191,175,1
+1488434,52,Female,Peachtree City,Georgia,USA,30269,1,1,1,NULL,0,1488434,25,1
+1488484,47,Female,Normal,Illinois,USA,61761,1,1,1,1488484,1,1488484,410,1
+1488600,71,Male,Chicago,Illinois,USA,60646,0,1,0,NULL,0,1488600,2010,1
+1488677,60,Male,Buffalo Grove,Illinois,USA,60089,1,1,1,NULL,0,1488677,330,1
+1490063,60,Female,Wilmette,Illinois,USA,60091,1,1,1,1490063,2,1490063,720,1
+1490133,62,Female,Chicago,Illinois,USA,60657,1,1,0,NULL,0,1490133,70,1
+1490264,66,Female,Salem,Wisconsin,USA,53168,0,1,1,NULL,0,1490264,760,1
+1490359,58,Female,Hudson,Illinois,USA,61748,1,1,1,1490359,1,1490359,125,1
+1490396,56,Female,Aurora,Illinois,USA,60506,1,1,1,NULL,0,1490396,75,1
+1490620,71,Male,Seattle,Washington,USA,98126,1,1,0,NULL,0,1490620,100,1
+1490687,52,Male,Chatham,Illinois,USA,62629,1,1,1,NULL,0,1490687,50,1
+1490689,48,Female,Batavia,Illinois,USA,60510,1,1,1,1490689,2,1490689,480,1
+1490814,56,Female,Phoenix,Arizona,USA,85022,0,1,1,NULL,0,1490814,80,1
+1490918,84,Female,Champaign,Illinois,USA,61822,1,1,1,1490918,8,1490918,2125,1
+149164,70,Male,Lowell,Indiana,USA,46356,0,1,1,NULL,0,149164,350,1
+1492460,50,Female,Reston,Virginia,USA,20191,1,1,1,1492460,2,1492460,100,1
+149251,46,Female,Plano,Texas,USA,75093,0,1,0,NULL,0,149251,25,1
+1492637,75,Female,Carmel,Indiana,USA,46033,1,1,1,NULL,0,1492637,585,1
+1492652,73,Female,Belvidere,Illinois,USA,61008,1,1,0,NULL,0,1492652,200,1
+1492797,75,Female,Rockford,Illinois,USA,61114,1,1,0,1492797,1,1492797,1085,1
+1492885,59,Female,Normal,Illinois,USA,61761,0,1,0,NULL,0,1492885,250,1
+1493033,63,Female,Bloomington,Illinois,USA,61705,1,1,1,NULL,0,1493033,100,1
+149319,69,Male,Washington,District of Columbia,USA,20008,0,1,0,149319,1,149319,745,1
+1493254,62,Female,Thousand Oaks,California,USA,91320,1,1,0,NULL,0,1493254,60,1
+1493426,61,Male,Englewood,Colorado,USA,80113,1,1,1,NULL,0,1493426,200,1
+1493453,70,Male,Brimfield,Illinois,USA,61517,1,1,1,NULL,0,1493453,265,1
+149422,75,Male,                    ,No State,AU,     ,0,0,1,NULL,0,149422,25,1
+149472,60,Male,Champaign,Illinois,USA,61822,1,1,0,149472,3,149472,845,1
+1494747,70,Female,Hilton Head Island,South Carolina,USA,29926,1,1,0,NULL,0,1494747,1165,1
+1494840,68,Female,Bolingbrook,Illinois,USA,60440,1,1,1,NULL,0,1494840,685,1
+1494951,74,Female,Springfield,Illinois,USA,62704,0,1,1,1494951,11,1494951,125,1
+1494968,69,Female,Morgantown,Indiana,USA,46160,1,1,1,1494968,6,1494968,1700,1
+1495003,58,Female,Chicago,Illinois,USA,60657,0,1,1,NULL,0,1495003,60,1
+1495051,39,Female,Quincy,Illinois,USA,62305,1,1,1,NULL,0,1495051,30,1
+1495079,67,Male,Spokane,Washington,USA,99203,0,1,1,NULL,0,1495079,30,1
+1495164,65,Male,Congerville,Illinois,USA,61729,1,0,0,NULL,0,1495164,2260,1
+1495213,66,Female,Oak Forest,Illinois,USA,60452,1,1,1,NULL,0,1495213,25,1
+1495488,71,Male,Lexington,North Carolina,USA,27292,0,1,1,NULL,0,1495488,125,1
+1495629,63,Female,Wilmette,Illinois,USA,60091,1,1,1,NULL,0,1495629,485,1
+149597,58,Female,Branford,Connecticut,USA,6405,1,1,0,NULL,0,149597,100,1
+1497139,72,Female,Prescott,Arizona,USA,86305,0,1,0,NULL,0,1497139,625,1
+1497315,75,Female,,No State,USA,,0,1,0,NULL,0,1497315,25,1
+1497714,65,Male,Reno,Nevada,USA,89519,1,1,1,1497714,1,1497714,50,1
+1497797,69,Male,Chicago,Illinois,USA,60626,0,1,0,NULL,0,1497797,75,1
+1497810,62,Female,Boulder,Colorado,USA,80302,0,1,0,NULL,0,1497810,10,1
+1499174,65,Female,Shelbyville,Illinois,USA,62565,1,1,1,NULL,0,1499174,65,1
+1499232,67,Female,Hannibal,Missouri,USA,63401,1,1,0,1499232,1,1499232,15,1
+1499402,49,Female,Chicago,Illinois,USA,60618,0,1,0,NULL,0,1499402,110,1
+1499408,50,Female,Champaign,Illinois,USA,61822,1,1,0,1499408,4,1499408,1080,1
+1499560,53,Female,Villa Park,Illinois,USA,60181,1,1,0,NULL,0,1499560,75,1
+1499657,65,Female,Bolingbrook,Illinois,USA,60440,1,1,1,NULL,0,1499657,325,1
+1499661,67,Female,Urbana,Illinois,USA,61801,0,1,1,NULL,0,1499661,25,1
+1499716,66,Male,Annandale,Virginia,USA,22003,1,1,1,NULL,0,1499716,50,1
+1499756,61,Male,Champaign,Illinois,USA,61820,0,1,1,1499756,1,1499756,15,1
+1499783,63,Female,Elk Grove Village,Illinois,USA,60007,1,1,0,NULL,0,1499783,25,1
+1499861,64,Female,Galesburg,Illinois,USA,61401,1,1,0,NULL,0,1499861,20,1
+1500010,55,Female,Kirkland,Washington,USA,98034,1,1,1,NULL,0,1500010,5,1
+1500022,52,Female,Geneva,Illinois,USA,60134,0,1,0,NULL,0,1500022,20,1
+1500109,64,Female,Springfield,Illinois,USA,62712,1,1,1,1500109,1,1500109,210,1
+1500115,62,Female,Springfield,Illinois,USA,62704,1,1,1,NULL,0,1500115,10,1
+1501478,79,Female,,No State,USA,,0,1,0,1501478,3,1501478,100,1
+1501669,71,Female,Santa Cruz          ,California,USA,95062,1,1,1,NULL,0,1501669,1300,1
+1501710,73,Female,Palm Bay,Florida,USA,32908,1,1,1,NULL,0,1501710,40,1
+1501823,37,Male,Glenshaw,Pennsylvania,USA,15116,1,1,0,NULL,0,1501823,1000,1
+1502038,56,Female,Naperville,Illinois,USA,60565,0,1,1,NULL,0,1502038,250,1
+1502256,85,Female,Dekalb,Illinois,USA,60115,1,1,1,1502256,2,1502256,125,1
+1502327,54,Female,Wichita,Kansas,USA,67226,1,1,0,NULL,0,1502327,40,1
+1502497,84,Female,,No State,USA,,0,1,0,NULL,0,1502497,200,1
+1503865,45,Female,Chicago,Illinois,USA,60623,1,1,1,NULL,0,1503865,75,1
+1503875,52,Male,"Chia-Yi, Taiwan",No State,TW,621,1,0,1,NULL,0,1503875,100,1
+1504095,62,Female,Springfield,Illinois,USA,62702,1,1,1,1504095,1,1504095,90,1
+1504099,66,Female,Springfield,Illinois,USA,62704,0,1,1,NULL,0,1504099,100,1
+1504283,47,Female,Springfield,Illinois,USA,62762,0,1,0,NULL,0,1504283,10,1
+1504317,47,Female,Champaign,Illinois,USA,61821,1,1,1,NULL,0,1504317,70,1
+1504620,54,Female,Bloomington,Illinois,USA,61705,1,1,1,NULL,0,1504620,20,1
+1505985,70,Female,Chicago,Illinois,USA,60643,1,1,1,NULL,0,1505985,15,1
+1506237,0,Female,Boulder,Colorado,USA,80304,1,1,1,1506237,1,1506237,25,1
+1506240,76,Female,Rockford,Illinois,USA,61103,1,1,1,NULL,0,1506240,2535,1
+1506258,70,Female,Chicago             ,Illinois,USA,60615,1,1,1,NULL,0,1506258,30,1
+1506594,64,Female,Bloomington,Illinois,USA,61705,0,1,1,NULL,0,1506594,210,1
+1508593,64,Male,Saint Louis,Missouri,USA,63108,0,1,0,NULL,0,1508593,425,1
+1508748,63,Male,Buffalo Grove,Illinois,USA,60089,1,1,0,NULL,0,1508748,165,1
+1508941,85,Female,Port Charlotte,Florida,USA,33952,0,1,0,1508941,1,1508941,150,1
+1510447,52,Female,Gifford,Illinois,USA,61847,0,1,1,NULL,0,1510447,10,1
+1510500,60,Female,Thompsons Station,Tennessee,USA,37179,1,1,0,NULL,0,1510500,185,1
+1510588,49,Male,Roscoe,Illinois,USA,61073,1,1,1,NULL,0,1510588,460,1
+1510640,51,Female,Maroa,Illinois,USA,61756,0,1,1,1510640,1,1510640,50,1
+1510651,62,Female,Northbrook,Illinois,USA,60062,1,1,0,NULL,0,1510651,100,1
+1510770,70,Female,,No State,USA,,0,1,0,NULL,0,1510770,20,1
+1511042,67,Male,Urbana,Illinois,USA,61801,1,1,1,1511042,9,1511042,170,1
+1511148,60,Female,Peoria,Illinois,USA,61614,1,1,0,NULL,0,1511148,45,1
+1511289,64,Female,Northwoods,Illinois,USA,60185,1,1,1,1511289,6,1511289,300,1
+1511372,62,Female,Moline,Illinois,USA,61265,1,1,1,NULL,0,1511372,800,1
+1512528,55,Male,Alton,Illinois,USA,62002,1,1,1,NULL,0,1512528,440,1
+1512665,62,Male,Ormond Beach,Florida,USA,32174,0,1,1,NULL,0,1512665,520,1
+1512855,53,Female,Homer,Illinois,USA,61849,1,1,1,1512855,1,1512855,165,1
+1512856,59,Female,Reedsburg,Wisconsin,USA,53959,0,1,0,NULL,0,1512856,40,1
+1512949,86,Female,Urbana,Illinois,USA,61801,1,1,0,1512949,6,1512949,850,1
+1513281,67,Female,Marion,Illinois,USA,62959,1,1,0,1513281,1,1513281,25,1
+1513551,61,Female,Gurnee,Illinois,USA,60031,0,1,0,NULL,0,1513551,90,1
+1514269,44,Female,Evanston,Illinois,USA,60203,0,1,0,NULL,0,1514269,25,1
+1514992,61,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,1514992,20,1
+1515066,61,Female,Danville,Illinois,USA,61832,0,1,1,NULL,0,1515066,1380,1
+1515125,86,Female,,No State,USA,,0,1,1,NULL,0,1515125,390,1
+1515157,59,Female,Denver,Colorado,USA,80247,1,1,0,NULL,0,1515157,5,1
+1515212,58,Female,Orlando,Florida,USA,32867,1,1,1,NULL,0,1515212,30,1
+1515221,59,Male,Ottawa,Illinois,USA,61350,1,1,1,NULL,0,1515221,235,1
+1515242,62,Female,Ballwin,Missouri,USA,63021,0,1,1,NULL,0,1515242,50,1
+1515441,67,Female,Bloomington,Illinois,USA,61701,1,1,1,NULL,0,1515441,25,1
+1515598,67,Female,Olympia,Washington,USA,98513,0,1,0,NULL,0,1515598,25,1
+1515626,72,Male,Cincinnati,Ohio,USA,45229,1,1,1,NULL,0,1515626,1500,1
+1515848,59,Female,Los Angeles,California,USA,90066,1,1,1,NULL,0,1515848,524.9199982,1
+1515914,51,Female,Aurora,Illinois,USA,60504,1,1,1,NULL,0,1515914,145,1
+1517611,69,Female,Sarasota,Florida,USA,34232,1,1,1,NULL,0,1517611,550,1
+1517698,67,Female,Oak Forest,Illinois,USA,60452,1,1,0,NULL,0,1517698,50,1
+1517796,59,Female,Iowa City,Iowa,USA,52245,1,1,1,NULL,0,1517796,825,1
+1517799,67,Female,Reno,Nevada,USA,89511,1,1,1,1517799,1,1517799,115,1
+1517803,69,Male,Saint Cloud,Florida,USA,34772,1,1,1,NULL,0,1517803,85,1
+1518059,66,Female,Rockford,Illinois,USA,61108,1,1,1,NULL,0,1518059,225,1
+1518115,67,Female,Chicago,Illinois,USA,60610,0,1,1,NULL,0,1518115,10,1
+1519300,62,Male,Metropolis,Illinois,USA,62960,1,1,1,NULL,0,1519300,20,1
+1519434,68,Female,Shumway,Illinois,USA,62461,1,1,1,1519434,1,1519434,195,1
+1519529,65,Female,Champaign,Illinois,USA,61822,1,1,1,NULL,0,1519529,250,1
+1519542,63,Female,Towanda,Illinois,USA,61776,1,1,1,1519542,1,1519542,575,1
+1519629,63,Female,Forest Park,Illinois,USA,60130,1,1,0,1519629,1,1519629,35,1
+1519863,57,Female,Northbrook,Illinois,USA,60062,1,1,1,NULL,0,1519863,250,1
+1520065,38,Female,Gibson City,Illinois,USA,60936,1,1,1,NULL,0,1520065,175,1
+1520297,0,Female,Chicago,Illinois,USA,60626,0,1,0,NULL,0,1520297,10,1
+1520321,36,Female,Chicago,Illinois,USA,60642,1,1,0,NULL,0,1520321,1000,1
+1521481,63,Female,Glencoe,Illinois,USA,60022,1,1,1,1521481,1,1521481,1180,1
+1521600,69,Female,Urbana,Illinois,USA,61802,1,1,1,1521600,2,1521600,340,1
+1521826,72,Female,Chicago,Illinois,USA,60610,1,1,0,1521826,2,1521826,625,1
+1521832,69,Female,Urbana,Illinois,USA,61802,1,1,0,1521832,1,1521832,100,1
+1521944,60,Female,Joliet,Illinois,USA,60434,1,1,1,1521944,2,1521944,1163,1
+1522042,59,Female,Princeton,Illinois,USA,61356,0,1,0,NULL,0,1522042,25,1
+1522048,65,Female,Wexford,Pennsylvania,USA,15090,1,1,1,NULL,0,1522048,50,1
+1522142,63,Male,San Jose,California,USA,95117,1,1,1,NULL,0,1522142,450,1
+1522234,58,Female,Santa Barbara,California,USA,93109,0,1,1,NULL,0,1522234,225,1
+1522278,60,Female,Glenview,Illinois,USA,60026,1,1,1,1522278,3,1522278,1000,1
+1522429,64,Female,Kankakee,Illinois,USA,60901,1,1,1,NULL,0,1522429,100,1
+1523801,65,Female,Maryville,Tennessee,USA,37803,1,1,1,NULL,0,1523801,850,1
+1523810,58,Female,Washington,Illinois,USA,61571,1,1,1,1523810,1,1523810,145,1
+1523850,50,Female,Mount Auburn,Illinois,USA,62547,0,1,1,NULL,0,1523850,50,1
+1523979,65,Male,Elgin,Illinois,USA,60123,0,1,0,NULL,0,1523979,10,1
+1523996,66,Female,Rochester,Illinois,USA,62563,0,1,1,NULL,0,1523996,230,1
+1524155,68,Female,San Jose,California,USA,95123,1,1,1,NULL,0,1524155,260,1
+1524223,51,Female,Perrysburg,Ohio,USA,43551,0,1,1,NULL,0,1524223,135,1
+1524280,61,Female,Livermore,California,USA,94550,0,1,1,NULL,0,1524280,25,1
+1524454,51,Female,Wheaton,Illinois,USA,60187,0,1,0,NULL,0,1524454,50,1
+1524579,43,Female,Lincoln,Illinois,USA,62656,1,1,1,NULL,0,1524579,60,1
+1526011,60,Male,Huntley,Illinois,USA,60142,0,1,1,NULL,0,1526011,85,1
+1526068,75,Female,Normal,Illinois,USA,61761,1,1,1,1526068,1,1526068,215,1
+1526145,71,Female,Chicago,Illinois,USA,60660,1,1,0,NULL,0,1526145,10,1
+1526260,74,Female,Mason,Illinois,USA,62443,1,1,1,1526260,8,1526260,2110,1
+1526285,73,Female,Tinley Park,Illinois,USA,60477,1,1,0,NULL,0,1526285,1255,1
+1526304,73,Female,Kankakee,Illinois,USA,60901,1,1,0,NULL,0,1526304,60,1
+1526326,66,Female,Saint Louis,Missouri,USA,63112,1,1,0,NULL,0,1526326,175,1
+1526337,65,Female,Tacoma,Washington,USA,98407,1,1,0,NULL,0,1526337,600,1
+1526388,52,Female,Lincoln,Illinois,USA,62656,0,1,1,1526388,1,1526388,50,1
+1526405,56,Male,Cameron             ,Illinois,USA,61423,0,1,0,NULL,0,1526405,10,1
+1526610,0,Male,Skokie,Illinois,USA,60076,0,1,1,NULL,0,1526610,25,1
+1526630,64,Female,Champaign,Illinois,USA,61822,1,1,1,1526630,4,1526630,30,1
+1526671,56,Female,Thomson,Illinois,USA,61285,0,1,0,NULL,0,1526671,375,1
+1526678,62,Female,Western Springs,Illinois,USA,60558,0,1,0,NULL,0,1526678,10,1
+1526763,75,Female,Metairie,Louisiana,USA,70001,1,1,0,NULL,0,1526763,10,1
+1526869,64,Female,Ellicott City,Maryland,USA,21043,1,1,1,1526869,1,1526869,2875,1
+1526943,48,Male,Scottsdale,Arizona,USA,85254,0,1,1,NULL,0,1526943,25,1
+1527006,45,Female,Paxton,Illinois,USA,60957,1,1,1,NULL,0,1527006,80,1
+1528241,72,Female,Rockford,Illinois,USA,61107,0,1,1,NULL,0,1528241,275,1
+1528365,66,Male,Chicago,Illinois,USA,60660,1,1,0,NULL,0,1528365,75,1
+1528431,78,Male,Rochester,Illinois,USA,62563,0,1,1,1528431,1,1528431,135,1
+1528589,63,Female,Evanston,Illinois,USA,60201,1,1,0,1528589,1,1528589,15,1
+1528600,54,Female,Dublin,Ohio,USA,43017,1,1,1,NULL,0,1528600,20,1
+1528735,64,Male,Gainesville,Florida,USA,32606,1,1,0,NULL,0,1528735,1275,1
+1530718,55,Female,Dekalb,Illinois,USA,60115,1,1,0,1530718,4,1530718,170,1
+1530761,53,Female,Newark,Delaware,USA,19711,1,1,1,NULL,0,1530761,25,1
+1530854,56,Female,Western Springs,Illinois,USA,60558,1,1,1,NULL,0,1530854,2600,1
+1530927,59,Female,Hanna City,Illinois,USA,61536,1,1,1,NULL,0,1530927,560,1
+1531120,79,Male,Arcola,Illinois,USA,61910,0,1,1,NULL,0,1531120,25,1
+1532860,48,Female,Caledonia,Illinois,USA,61011,1,1,1,1532860,3,1532860,215,1
+1532878,83,Male,Beaverville,Illinois,USA,60912,1,1,1,NULL,0,1532878,1125,1
+1532987,60,Female,Palo Alto,California,USA,94306,0,1,1,NULL,0,1532987,200,1
+1533112,74,Female,Urbana,Illinois,USA,61802,1,1,1,1533112,8,1533112,155,1
+1533146,41,Male,Arlington Heights,Illinois,USA,60005,1,1,0,NULL,0,1533146,50,1
+1533386,71,Male,Bend,Oregon,USA,97703,0,1,1,1533386,2,1533386,40,1
+1533489,76,Male,Richmond,Virginia,USA,23221,1,1,0,NULL,0,1533489,25,1
+1533543,49,Female,Bartlett,Illinois,USA,60103,1,1,1,NULL,0,1533543,200,1
+1533589,59,Male,Lincoln,Illinois,USA,62656,1,1,0,1533589,3,1533589,605,1
+1534813,54,Female,Ypsilanti,Michigan,USA,48197,0,1,1,NULL,0,1534813,125,1
+1534891,66,Female,Glencoe,Illinois,USA,60022,0,1,1,NULL,0,1534891,30,1
+1535209,62,Male,San Antonio,Texas,USA,78240,1,1,0,NULL,0,1535209,60,1
+1535289,63,Female,Galesburg,Illinois,USA,61401,1,1,0,NULL,0,1535289,45,1
+1535339,75,Female,Rockford,Illinois,USA,61107,1,1,0,NULL,0,1535339,15,1
+1535343,55,Female,Rockford,Illinois,USA,61107,1,1,0,NULL,0,1535343,75,1
+1535371,70,Male,Lincoln,Illinois,USA,62656,1,1,1,1535371,2,1535371,555,1
+1535440,40,Female,Two Rivers,Wisconsin,USA,54241,1,1,1,NULL,0,1535440,50,1
+1535500,75,Female,Denver,Colorado,USA,80247,1,1,1,NULL,0,1535500,50,1
+153552,52,Female,Morris,Illinois,USA,60450,0,1,0,153552,1,153552,100,1
+1535796,53,Female,Mahomet,Illinois,USA,61853,1,1,1,NULL,0,1535796,55,1
+1535804,76,Male,Murray,Kentucky,USA,42071,1,1,1,1535804,2,1535804,2075,1
+153586,46,Female,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,153586,150,1
+1535917,63,Female,231 Roc             ,No State,TW,     ,1,1,0,NULL,0,1535917,400,1
+153646,62,Female,Rockford,Illinois,USA,61103,1,1,1,NULL,0,153646,75,1
+1537116,77,Female,Baton Rouge,Louisiana,USA,70817,0,1,1,NULL,0,1537116,25,1
+153713,72,Female,Boynton Beach,Florida,USA,33435,0,1,1,NULL,0,153713,30,1
+1537133,59,Female,Urbana,Illinois,USA,61801,1,1,1,1537133,1,1537133,370,1
+1537207,61,Female,Collegeville,Pennsylvania,USA,19426,0,1,0,NULL,0,1537207,400,1
+1537208,73,Female,Minneapolis,Minnesota,USA,55417,1,1,0,NULL,0,1537208,415,1
+1537215,72,Male,San Antonio,Texas,USA,78216,0,1,1,NULL,0,1537215,10,1
+1537228,67,Male,Johnstown,Pennsylvania,USA,15905,0,1,1,NULL,0,1537228,750,1
+1537262,65,Male,Montgomery,Illinois,USA,60538,1,1,1,NULL,0,1537262,650,1
+1537313,80,Male,,No State,USA,,0,1,0,NULL,0,1537313,280,1
+1537524,66,Female,Urbana,Illinois,USA,61802,1,1,1,NULL,0,1537524,750,1
+1537608,49,Female,Troy,Illinois,USA,62294,1,1,0,NULL,0,1537608,75,1
+1537636,45,Female,Waukee,Iowa,USA,50263,1,1,1,NULL,0,1537636,20,1
+1537699,63,Female,Elmhurst,Illinois,USA,60126,1,1,1,NULL,0,1537699,50,1
+1537704,71,Female,Little River,California,USA,95456,0,1,0,NULL,0,1537704,5,1
+1537741,86,Female,Camarillo,California,USA,93012,1,1,1,NULL,0,1537741,175,1
+1537900,74,Male,Manchester,Iowa,USA,52057,1,1,1,NULL,0,1537900,100,1
+1537939,72,Female,Muskegon,Michigan,USA,49441,0,1,1,NULL,0,1537939,75,1
+1538137,77,Male,Springfield,Illinois,USA,62704,1,1,1,1538137,2,1538137,450,1
+1538204,61,Female,Overland Park,Kansas,USA,66209,1,1,1,NULL,0,1538204,490,1
+153911,71,Female,Chatham,Illinois,USA,62629,1,1,1,NULL,0,153911,850,1
+1539373,68,Male,Wheaton,Illinois,USA,60189,1,1,1,NULL,0,1539373,40,1
+1539517,66,Female,Roseville,California,USA,95747,1,1,1,NULL,0,1539517,1012.5,1
+1539586,84,Female,Savoy,Illinois,USA,61874,1,1,1,1539586,2,1539586,435,1
+154007,70,Female,Ashland,Oregon,USA,97520,1,1,0,NULL,0,154007,5,1
+154061,80,Male,,No State,USA,,0,1,0,NULL,0,154061,50,1
+154094,75,Female,Dover,Tennessee,USA,37058,1,1,1,NULL,0,154094,75,1
+154314,87,Female,Evanston,Illinois,USA,60201,1,1,0,154314,2,154314,1815,1
+154351,44,Female,Naperville,Illinois,USA,60563,0,1,1,NULL,0,154351,20,1
+1550624,62,Female,New Providence,New Jersey,USA,7974,0,1,0,NULL,0,1550624,100,1
+1551498,61,Female,Chicago,Illinois,USA,60654,0,1,1,NULL,0,1551498,30,1
+1555472,73,Female,Macon,Georgia,USA,31211,1,1,1,NULL,0,1555472,775,1
+1555507,63,Female,Chicago,Illinois,USA,60605,1,1,1,1555507,2,1555507,25,1
+1555870,62,Female,Memphis,Tennessee,USA,38125,0,1,0,NULL,0,1555870,140,1
+1555874,64,Female,Long Beach,California,USA,90807,1,1,1,NULL,0,1555874,75,1
+1556052,64,Male,McHenry,Illinois,USA,60050,1,1,1,NULL,0,1556052,55,1
+1556123,62,Female,Vicksburg,Mississippi,USA,39180,1,1,1,NULL,0,1556123,150,1
+1556138,63,Female,Independence,Missouri,USA,64052,1,1,0,NULL,0,1556138,150,1
+1557185,74,Female,Peoria,Illinois,USA,61603,0,1,0,NULL,0,1557185,50,1
+1557215,62,Male,Washington,Illinois,USA,61571,0,1,1,NULL,0,1557215,100,1
+1557263,69,Male,Peoria,Illinois,USA,61615,1,1,1,1557263,1,1557263,885,1
+1557549,72,Female,Danville,Illinois,USA,61834,0,1,1,NULL,0,1557549,70,1
+1557866,61,Male,Kenner,Louisiana,USA,70062,1,1,0,NULL,0,1557866,25,1
+1557888,72,Female,Phoenix,Arizona,USA,85016,0,1,0,NULL,0,1557888,155,1
+1558043,60,Female,Chicago,Illinois,USA,60626,1,1,0,NULL,0,1558043,50,1
+1558270,75,Female,Castro Valley,California,USA,94552,1,1,1,NULL,0,1558270,2800,1
+1558296,70,Male,Springfield,Illinois,USA,62704,1,1,1,1558296,1,1558296,450,1
+15591,73,Female,Champaign,Illinois,USA,61821,1,1,0,15591,2,15591,390,1
+1559467,61,Male,Bismarck,North Dakota,USA,58504,1,1,1,NULL,0,1559467,1660,1
+1560005,73,Male,Bellingham,Washington,USA,98226,1,1,1,NULL,0,1560005,30,1
+1561660,70,Female,Pleasanton,California,USA,94588,0,1,1,NULL,0,1561660,1260,1
+1561686,85,Female,,No State,USA,,0,1,0,NULL,0,1561686,20,1
+1561948,54,Female,Manchester,New Hampshire,USA,3104,1,1,0,NULL,0,1561948,800,1
+1564044,76,Male,,No State,USA,,0,1,0,NULL,0,1564044,50,1
+1564472,69,Female,Scranton,Pennsylvania,USA,18509,1,1,0,NULL,0,1564472,300,1
+1574736,36,Female,Chicago Heights,Illinois,USA,60411,1,1,1,1574736,1,1574736,75,1
+1576270,38,Female,Maywood,Illinois,USA,60153,1,1,0,NULL,0,1576270,300,1
+15869,74,Male,Milwaukee,Wisconsin,USA,53213,1,1,1,NULL,0,15869,70,1
+1588801,54,Male,Lynwood,Illinois,USA,60411,1,1,0,1588801,1,1588801,860,1
+1590677,57,Female,Des Plaines,Illinois,USA,60016,1,1,1,NULL,0,1590677,260,1
+15967,55,Female,Champaign,Illinois,USA,61822,1,1,0,15967,9,15967,10,1
+1600212,49,Female,Fairbury,Illinois,USA,61739,1,1,1,NULL,0,1600212,115,1
+1600468,60,Female,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,1600468,150,1
+1608658,44,Female,Homewood,Illinois,USA,60430,1,1,1,NULL,0,1608658,125,1
+1608853,44,Female,Roswell,Georgia,USA,30075,1,1,1,1608853,1,1608853,320,1
+1609384,48,Female,Carthage,Tennessee,USA,37030,0,1,1,NULL,0,1609384,25,1
+1610273,48,Male,Kew Gardens,New York,USA,11415,1,1,1,NULL,0,1610273,650,1
+16125,68,Male,Springfield,Illinois,USA,62702,1,1,1,NULL,0,16125,125,1
+1613337,44,Male,Elgin,Illinois,USA,60123,1,1,0,NULL,0,1613337,15,1
+1619924,59,Female,Charleston,Illinois,USA,61920,1,1,0,NULL,0,1619924,50,1
+1620112,53,Female,Evanston,Illinois,USA,60201,1,1,1,NULL,0,1620112,65,1
+162587,63,Female,Missoula,Montana,USA,59801,1,1,0,NULL,0,162587,105,1
+1626084,45,Female,Hayward,California,USA,94542,1,1,1,1626084,2,1626084,1600,1
+162612,55,Female,Darien,Illinois,USA,60561,1,1,1,162612,1,162612,75,1
+162624,45,Female,Gainesville,Virginia,USA,20155,1,1,1,162624,1,162624,65,1
+162651,57,Male,Rantoul,Illinois,USA,61866,1,0,1,NULL,0,162651,255,1
+162667,72,Female,Shenton Park Wa,No State,AU,6010,1,1,0,NULL,0,162667,25,1
+162689,57,Female,Weatogue,Connecticut,USA,6089,1,1,1,NULL,0,162689,310,1
+1627098,51,Female,Austin,Texas,USA,78733,1,1,1,NULL,0,1627098,100,1
+1627585,52,Female,Mackinaw,Illinois,USA,61755,0,1,0,NULL,0,1627585,25,1
+162808,60,Female,Skokie,Illinois,USA,60076,1,1,1,NULL,0,162808,662,1
+162871,69,Female,Marshall,Illinois,USA,62441,1,1,1,NULL,0,162871,1200,1
+162936,67,Male,Hartford,Connecticut,USA,6105,0,1,1,NULL,0,162936,250,1
+162966,64,Female,Champaign,Illinois,USA,61822,0,1,0,NULL,0,162966,625,1
+1631101,55,Female,Fithian,Illinois,USA,61844,1,1,1,1631101,4,1631101,1050,1
+1633393,46,Male,O Fallon,Illinois,USA,62269,1,1,1,NULL,0,1633393,100,1
+1646644,41,Female,Urbana,Illinois,USA,61801,1,1,1,1646644,1,1646644,110,1
+165267,60,Female,Rockford,Illinois,USA,61107,0,1,0,NULL,0,165267,200,1
+165354,58,Female,Paxton,Illinois,USA,60957,0,1,1,165354,1,165354,100,1
+165485,63,Male,,No State,USA,,1,1,0,NULL,0,165485,220,1
+1664302,67,Female,Baltimore,Maryland,USA,21209,1,1,1,NULL,0,1664302,162,1
+1664601,76,Male,Stockbridge,Georgia,USA,30281,1,1,0,NULL,0,1664601,300,1
+1665031,62,Male,Silver Spring,Maryland,USA,20905,1,1,0,NULL,0,1665031,25,1
+166622,66,Female,Normal,Illinois,USA,61761,0,1,0,NULL,0,166622,20,1
+166628,63,Female,Houston,Texas,USA,77096,1,1,0,NULL,0,166628,20,1
+166656,62,Female,Peoria,Illinois,USA,61603,1,1,0,NULL,0,166656,275,1
+166768,58,Female,Lexington,Illinois,USA,61753,1,1,1,166768,14,166768,200,1
+166791,59,Male,Oak Forest,Illinois,USA,60452,1,1,1,NULL,0,166791,30,1
+166820,52,Male,Reno,Nevada,USA,89521,1,1,1,NULL,0,166820,50,1
+167029,55,Male,Germantown Hills,Illinois,USA,61548,1,1,0,NULL,0,167029,10,1
+167135,52,Female,Sycamore,Illinois,USA,60178,1,1,1,167135,1,167135,20,1
+167166,68,Male,Odin,Illinois,USA,62870,1,1,1,NULL,0,167166,350,1
+1671907,55,Female,Champaign,Illinois,USA,61822,1,1,1,1671907,3,1671907,345,1
+1673380,53,Female,Mahwah,New Jersey,USA,7430,1,1,0,NULL,0,1673380,20,1
+1676033,47,Female,Le Roy,Illinois,USA,61752,0,1,0,1676033,1,1676033,20,1
+1676245,46,Female,Lawrence,Kansas,USA,66049,1,1,0,1676245,1,1676245,100,1
+1682021,62,Female,Glasford,Illinois,USA,61533,0,1,0,NULL,0,1682021,350,1
+1682045,65,Female,Las Vegas,Nevada,USA,89130,0,1,0,NULL,0,1682045,50,1
+1693596,77,Female,Chatham,Illinois,USA,62629,1,1,0,1693596,1,1693596,25,1
+1693969,48,Female,Oak Creek,Wisconsin,USA,53154,1,1,0,NULL,0,1693969,50,1
+1700154,44,Female,Milford             ,Illinois,USA,60953,1,1,1,NULL,0,1700154,25,1
+1706922,40,Female,Rockford,Illinois,USA,61104,1,1,0,NULL,0,1706922,210,1
+1709405,42,Female,Danville,Illinois,USA,61832,1,1,1,NULL,0,1709405,130,1
+1710970,38,Male,Chicago,Illinois,USA,60656,1,1,0,NULL,0,1710970,25,1
+1713430,40,Male,Pekin,Illinois,USA,61554,1,1,1,NULL,0,1713430,25,1
+1713680,51,Female,Rantoul,Illinois,USA,61866,1,1,1,NULL,0,1713680,735,1
+1713693,68,Female,Castle Rock,Colorado,USA,80104,1,1,0,NULL,0,1713693,60,1
+1713751,45,Female,Plainfield,Illinois,USA,60586,1,1,0,NULL,0,1713751,95,1
+1720492,50,Male,Urbana,Illinois,USA,61802,1,1,1,NULL,0,1720492,170,1
+1720711,48,Female,Machesney Park,Illinois,USA,61115,0,1,1,NULL,0,1720711,50,1
+1726789,61,Female,Urbana,Illinois,USA,61803,1,1,0,1726789,1,1726789,205,1
+1729351,65,Female,Northville,Michigan,USA,48167,1,1,0,NULL,0,1729351,1175,1
+1735970,43,Female,Caledonia,Illinois,USA,61011,1,1,1,NULL,0,1735970,625,1
+1736194,39,Female,Rockford,Illinois,USA,61114,1,1,1,NULL,0,1736194,50,1
+1740074,35,Male,Chicago,Illinois,USA,60640,1,1,0,1740074,1,1740074,50,1
+174067,53,Female,North Providence,Rhode Island,USA,2904,1,1,1,NULL,0,174067,750,1
+1740679,67,Female,Chattanooga,Tennessee,USA,37411,0,1,0,NULL,0,1740679,100,1
+174103,50,Female,Glenview,Illinois,USA,60026,0,1,1,NULL,0,174103,195,1
+1745084,64,Female,Tacoma,Washington,USA,98445,1,1,0,1745084,1,1745084,800,1
+1745788,60,Female,,No State,USA,,1,1,1,NULL,0,1745788,50,1
+1745976,70,Female,Rockford,Illinois,USA,61107,1,1,1,NULL,0,1745976,450,1
+1747712,70,Male,,No State,USA,,0,1,0,NULL,0,1747712,15,1
+1749658,94,Female,,No State,USA,,0,1,1,NULL,0,1749658,50,1
+1750427,77,Male,Brooklyn,New York,USA,11215,1,1,1,NULL,0,1750427,50,1
+175305,70,Female,Galesburg,Illinois,USA,61401,0,1,1,NULL,0,175305,50,1
+175315,70,Female,Freeport,Illinois,USA,61032,0,1,0,NULL,0,175315,60,1
+175469,68,Female,Northbrook,Illinois,USA,60062,1,1,1,175469,1,175469,10,1
+1755939,95,Female,,No State,USA,,0,1,0,NULL,0,1755939,20,1
+1756235,76,Male,,No State,USA,,0,1,0,NULL,0,1756235,25,1
+1756328,65,Female,,No State,USA,,0,1,0,1756328,1,1756328,75,1
+1756336,63,Female,,No State,USA,,0,1,0,NULL,0,1756336,45,1
+175640,62,Male,Champaign,Illinois,USA,61820,1,1,1,175640,3,175640,200,1
+1756807,94,Female,,No State,USA,,0,1,1,1756807,78,1756807,5900,1
+175744,46,Female,Bartonville,Illinois,USA,61607,1,1,1,NULL,0,175744,55,1
+175746,45,Female,Crown Point,Indiana,USA,46307,1,1,0,NULL,0,175746,25,1
+175789,67,Male,Dixon,Illinois,USA,61021,0,1,1,NULL,0,175789,50,1
+1757944,76,Male,,No State,USA,,0,1,0,NULL,0,1757944,25,1
+1758000,67,Male,,No State,USA,,0,1,0,NULL,0,1758000,25,1
+175843,64,Female,Sun City West,Arizona,USA,85375,1,1,1,NULL,0,175843,100,1
+175874,64,Female,Peru,Illinois,USA,61354,1,1,1,NULL,0,175874,1200,1
+175879,65,Female,Annawan,Illinois,USA,61234,1,1,1,NULL,0,175879,45,1
+1759004,71,Female,Herrick             ,Illinois,USA,62431,0,1,1,NULL,0,1759004,95,1
+175933,66,Female,Indialantic,Florida,USA,32903,0,1,1,NULL,0,175933,470,1
+175991,64,Male,Springfield,Illinois,USA,62711,1,1,1,175991,5,175991,425,1
+176019,57,Female,Rock Island,Illinois,USA,61201,1,1,1,176019,1,176019,670,1
+1760574,86,Female,Daphne,Alabama,USA,36526,0,1,1,1760574,3,1760574,1100,1
+1761121,72,Female,,No State,USA,,0,1,0,NULL,0,1761121,195,1
+1766497,74,Female,Tallahassee,Florida,USA,32301,0,1,1,NULL,0,1766497,200,1
+1795299,57,Female,Hereford,Arizona,USA,85615,1,1,1,1795299,2,1795299,50,1
+1802065,62,Male,West Peoria,Illinois,USA,61604,1,1,1,NULL,0,1802065,0,0
+181105,25,Female,River Forest,Illinois,USA,60305,1,1,0,NULL,0,181105,1,1
+181646,27,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,181646,2,1
+181791,24,Female,Chicago,Illinois,USA,60613,1,1,0,NULL,0,181791,2,1
+1821469,49,Male,Champaign,Illinois,USA,61821,1,1,1,NULL,0,1821469,300,1
+182156,62,Female,Woodbridge,Virginia,USA,22191,0,1,0,NULL,0,182156,85,1
+1822941,68,Female,Danville,Illinois,USA,61832,0,1,0,NULL,0,1822941,50,1
+1822947,45,Female,Savoy,Illinois,USA,61874,1,1,0,NULL,0,1822947,50,1
+182429,61,Female,Heyworth,Illinois,USA,61745,1,1,1,NULL,0,182429,125,1
+182465,62,Female,Highland Park,Illinois,USA,60035,1,1,1,NULL,0,182465,200,1
+182589,55,Male,Rochester,Illinois,USA,62563,1,1,1,NULL,0,182589,345,1
+1833749,46,Female,Rockville,Maryland,USA,20850,1,1,0,NULL,0,1833749,50,1
+1842353,62,Female,Monticello,Illinois,USA,61856,1,1,0,1842353,1,1842353,100,1
+1842453,70,Male,Rushville,Illinois,USA,62681,1,1,1,1842453,1,1842453,175,1
+1848295,62,Female,Roscoe,Illinois,USA,61073,0,1,1,NULL,0,1848295,460,1
+1857278,41,Female,Evansville,Indiana,USA,47711,1,1,1,NULL,0,1857278,100,1
+1859604,53,Female,San Antonio,Texas,USA,78250,1,1,0,NULL,0,1859604,50,1
+1866201,52,Female,Philadelphia,Pennsylvania,USA,19115,1,1,0,1866201,1,1866201,32,1
+1873707,63,Female,Washington,District of Columbia,USA,20036,0,1,0,NULL,0,1873707,50,1
+1888659,34,Female,Mahomet,Illinois,USA,61853,1,1,1,NULL,0,1888659,150,1
+1891658,56,Female,Urbana,Illinois,USA,61801,1,1,1,NULL,0,1891658,60,1
+189255,78,Male,Mount Vernon,Illinois,USA,62864,0,1,1,NULL,0,189255,35,1
+189309,55,Female,Brimfield,Illinois,USA,61517,1,1,1,189309,1,189309,50,1
+189340,53,Female,Freeport,Illinois,USA,61032,1,1,1,NULL,0,189340,190,1
+189419,57,Female,Rantoul,Illinois,USA,61866,1,1,1,189419,1,189419,14120,1
+189518,60,Female,Neoga,Illinois,USA,62447,1,1,1,189518,1,189518,15,1
+189578,65,Female,Rockford,Illinois,USA,61104,1,1,1,NULL,0,189578,535,1
+189685,60,Female,Urbana,Illinois,USA,61801,1,1,1,189685,1,189685,800,1
+189702,61,Male,Cedar Crest,New Mexico,USA,87008,0,1,0,NULL,0,189702,20,1
+189725,75,Female,Chicago,Illinois,USA,60615,1,1,0,189725,2,189725,300,1
+189759,46,Female,Chicago,Illinois,USA,60657,0,1,1,NULL,0,189759,10,1
+189769,60,Male,Georgetown,Illinois,USA,61846,1,1,0,NULL,0,189769,10,1
+189857,65,Female,Oak Park,Illinois,USA,60302,1,1,1,189857,1,189857,400,1
+1910263,60,Female,Chicago,Illinois,USA,60610,1,1,0,NULL,0,1910263,60,1
+1925187,64,Male,Springfield,Illinois,USA,62711,1,1,1,1925187,1,1925187,25,1
+1932146,93,Female,Sun City,Arizona,USA,85351,0,1,1,NULL,0,1932146,25,1
+1939543,40,Female,Bartonville,Illinois,USA,61607,1,1,0,NULL,0,1939543,55,1
+1940732,67,Female,Gulf Shores,Alabama,USA,36542,1,1,1,NULL,0,1940732,200,1
+1942445,55,Female,Hickory,North Carolina,USA,28601,1,1,1,NULL,0,1942445,600,1
+1945849,32,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,1945849,100,1
+1950457,34,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,1950457,25,1
+1957168,37,Female,Norman,Oklahoma,USA,73072,1,1,1,NULL,0,1957168,250,1
+1958600,50,Female,Bonfield,Illinois,USA,60913,1,1,0,NULL,0,1958600,135,1
+1958661,37,Female,Savoy,Illinois,USA,61874,1,1,1,NULL,0,1958661,50,1
+1958833,36,Female,Rockford,Michigan,USA,49341,1,1,0,NULL,0,1958833,100,1
+1958907,36,Female,Naperville,Illinois,USA,60565,1,1,1,NULL,0,1958907,45,1
+1959552,53,Female,Quincy,Illinois,USA,62305,1,1,1,NULL,0,1959552,25,1
+1961013,38,Female,Fishers,Indiana,USA,46040,1,1,0,NULL,0,1961013,25,1
+1968149,33,Female,Divernon,Illinois,USA,62530,1,0,0,NULL,0,1968149,10,1
+1981679,48,Female,Harvel,Illinois,USA,62538,1,1,1,NULL,0,1981679,10,1
+1997556,44,Female,Joliet,Illinois,USA,60435,1,1,1,NULL,0,1997556,75,1
+2003961,42,Female,Sullivan,Illinois,USA,61951,1,1,1,2003961,2,2003961,10,1
+2015818,35,Female,Hibbing,Minnesota,USA,55746,1,1,0,NULL,0,2015818,10,1
+2016332,33,Female,Champaign,Illinois,USA,61821,1,1,0,NULL,0,2016332,600,1
+2022583,36,Female,San Diego,California,USA,92104,1,1,0,2022583,1,2022583,200,1
+2026821,35,Female,Chicago,Illinois,USA,60618,1,1,0,2026821,1,2026821,95,1
+2032123,47,Female,Gothenburg,Nebraska,USA,69138,1,1,1,NULL,0,2032123,50,1
+2036947,40,Male,Mahomet,Illinois,USA,61853,1,0,0,NULL,0,2036947,10,1
+2069995,39,Female,Urbana,Illinois,USA,61801,1,0,0,2069995,1,2069995,20,1
+207222,67,Male,Springfield,Illinois,USA,62704,1,1,1,NULL,0,207222,120,1
+207253,50,Female,Mapleton,Illinois,USA,61547,1,1,1,NULL,0,207253,450,1
+2073627,34,Female,Decatur,Illinois,USA,62526,1,1,0,NULL,0,2073627,10,1
+207389,62,Female,Belleville,Illinois,USA,62221,1,1,1,NULL,0,207389,55,1
+2074749,44,Female,Onarga,Illinois,USA,60955,1,1,0,NULL,0,2074749,65,1
+2074945,45,Female,Yongsan-Gu Seoul,No State,KR,140-7,1,1,0,NULL,0,2074945,300,1
+2084029,31,Female,Urbana,Illinois,USA,61801,1,1,0,NULL,0,2084029,1,1
+208581,62,Male,Bethlehem,Pennsylvania,USA,18017,1,1,1,NULL,0,208581,2995,1
+208634,59,Female,Bolingbrook,Illinois,USA,60440,1,1,1,208634,1,208634,125,1
+208703,59,Female,Bourbonnais,Illinois,USA,60914,1,1,0,NULL,0,208703,25,1
+208707,0,Female,Beloit,Wisconsin,USA,53511,1,1,0,NULL,0,208707,150,1
+2103939,64,Female,Galesburg,Illinois,USA,61401,1,1,1,NULL,0,2103939,160,1
+2105857,46,Female,Urbana,Illinois,USA,61802,1,1,0,NULL,0,2105857,300,1
+2120394,31,Male,Mahomet,Illinois,USA,61853,1,1,0,NULL,0,2120394,20,1
+2135631,28,Female,Champaign,Illinois,USA,61820,1,1,1,NULL,0,2135631,200,1
+2142870,49,Male,Saint Louis,Missouri,USA,63130,1,1,1,NULL,0,2142870,250,1
+2149841,29,Female,Morton,Illinois,USA,61550,1,1,1,2149841,1,2149841,585,1
+2151060,45,Female,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,2151060,70,1
+2151547,46,Female,Bloomington,Illinois,USA,61705,1,1,0,NULL,0,2151547,50,1
+2151573,45,Female,Pawnee,Illinois,USA,62558,1,1,0,NULL,0,2151573,20,1
+2162421,46,Female,Morton,Illinois,USA,61550,1,1,0,NULL,0,2162421,25,1
+2181671,38,Female,Urbana,Illinois,USA,61802,1,1,0,NULL,0,2181671,300,1
+2183805,69,Female,Rockford,Illinois,USA,61108,1,1,0,NULL,0,2183805,50,1
+2186592,58,Female,Jacksonville,Florida,USA,32258,1,1,1,NULL,0,2186592,50,1
+2192121,43,Female,Eagle,Colorado,USA,81631,1,1,1,2192121,1,2192121,25,1
+2192606,63,Female,Waddell,Arizona,USA,85355,0,1,0,NULL,0,2192606,10,1
+2202236,38,Female,Savoy,Illinois,USA,61874,1,1,1,NULL,0,2202236,25,1
+2202237,40,Female,Oakton,Virginia,USA,22124,1,0,0,NULL,0,2202237,100,1
+2202389,41,Female,Peoria,Illinois,USA,61604,1,1,1,2202389,2,2202389,175,1
+2202571,39,Female,Cedar Falls,Iowa,USA,50613,1,1,0,NULL,0,2202571,700,1
+2203768,64,Female,Springfield,Illinois,USA,62704,1,1,0,2203768,2,2203768,25,1
+2206339,87,Female,Phoenix,Arizona,USA,85020,1,1,0,NULL,0,2206339,20,1
+2207286,98,Female,,No State,USA,,0,1,0,NULL,0,2207286,10,1
+2207439,0,Female,,No State,USA,,0,1,0,NULL,0,2207439,200,1
+2210914,0,Female,,No State,USA,,0,1,1,NULL,0,2210914,25,1
+2211086,66,Male,Sycamore,Illinois,USA,60178,0,1,1,NULL,0,2211086,50,1
+2211498,64,Male,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,2211498,175,1
+2213220,96,Female,Corona Del Mar,California,USA,92625,0,1,0,2213220,2,2213220,6750.220215,1
+2214061,88,Male,,No State,USA,,0,1,0,NULL,0,2214061,130,1
+2214343,96,Female,,No State,USA,,0,1,0,NULL,0,2214343,20,1
+2218151,0,Male,Federal Way,Washington,USA,98023,0,1,1,NULL,0,2218151,100,1
+2220049,91,Female,Highland Park,Illinois,USA,60035,0,1,1,NULL,0,2220049,40,1
+2220658,85,Female,,No State,USA,,0,1,0,NULL,0,2220658,20,1
+2220864,0,Male,Flora,Indiana,USA,46929,0,1,0,NULL,0,2220864,25,1
+2223084,0,Female,Antigo,Wisconsin,USA,54409,0,0,0,NULL,0,2223084,25,1
+2224047,47,Female,Byron,Illinois,USA,61010,1,1,1,NULL,0,2224047,100,1
+2224212,53,Male,Apex,North Carolina,USA,27539,1,0,0,NULL,0,2224212,100,1
+2228167,39,Female,Hendersonville,Tennessee,USA,37075,1,1,1,2228167,1,2228167,175,1
+2229536,86,Male,,No State,USA,,0,1,0,NULL,0,2229536,200,1
+2231137,96,Female,Rockford            ,Illinois,USA,61114,0,1,0,2231137,3,2231137,10745,1
+2232899,57,Female,Dakota,Illinois,USA,61018,1,1,1,NULL,0,2232899,50,1
+2234076,87,Female,Boston,Massachusetts,USA,2199,1,1,1,2234076,1,2234076,225,1
+2236602,0,Male,,No State,USA,,0,0,0,NULL,0,2236602,10,1
+2242620,39,Female,Elgin,Illinois,USA,60123,0,1,1,NULL,0,2242620,25,1
+2243228,84,Female,West Lafayette,Indiana,USA,47906,0,1,1,NULL,0,2243228,10,1
+224392,67,Female,Urbana,Illinois,USA,61801,1,1,1,224392,1,224392,20,1
+224439,67,Female,Decatur,Illinois,USA,62526,1,1,1,224439,2,224439,155,1
+2245144,44,Female,Springfield,Illinois,USA,62702,1,1,0,NULL,0,2245144,50,1
+2246232,42,Male,Memphis,Tennessee,USA,38104,1,1,0,NULL,0,2246232,300,1
+2246261,70,Female,Danville,Illinois,USA,61832,1,1,0,NULL,0,2246261,50,1
+224674,63,Female,,No State,USA,,1,1,1,NULL,0,224674,10,1
+224718,58,Female,Minneapolis,Minnesota,USA,55419,0,1,1,NULL,0,224718,1300,1
+2248096,88,Female,,No State,USA,,0,1,0,NULL,0,2248096,100,1
+224847,43,Female,Mableton,Georgia,USA,30126,1,1,1,NULL,0,224847,250,1
+224860,41,Female,Venice,California,USA,90294,0,1,0,NULL,0,224860,100,1
+224878,62,Female,Wilmette,Illinois,USA,60091,1,1,1,NULL,0,224878,725,1
+2249314,0,Female,Woodbridge,Virginia,USA,22192,1,1,1,2249314,2,2249314,475,1
+2250570,94,Female,,No State,USA,,0,1,0,NULL,0,2250570,300,1
+2254901,91,Female,Champaign           ,Illinois,USA,61820,1,1,1,2254901,3,2254901,300,1
+2255983,0,Female,Chicago,Illinois,USA,60619,0,1,1,NULL,0,2255983,120,1
+2258326,46,Female,Sullivan,Illinois,USA,61951,1,1,0,2258326,2,2258326,25,1
+2258641,37,Female,San Jose,California,USA,95117,1,1,0,2258641,1,2258641,1200,1
+2260732,65,Male,San Diego,California,USA,92107,1,1,0,2260732,1,2260732,1600,1
+2263002,70,Female,Alexandria,Virginia,USA,22312,0,1,1,NULL,0,2263002,300,1
+2264602,79,Male,Decatur,Illinois,USA,62522,0,1,1,2264602,1,2264602,175,1
+2265662,69,Female,Catlin,Illinois,USA,61817,1,1,1,2265662,1,2265662,100,1
+2267271,69,Male,Middleton,Wisconsin,USA,53562,1,1,1,2267271,1,2267271,405,1
+2269174,45,Female,Lena,Illinois,USA,61048,1,1,0,2269174,2,2269174,50,1
+2269194,74,Female,Alton,Illinois,USA,62002,1,1,0,NULL,0,2269194,100,1
+2269378,63,Female,Providence,Rhode Island,USA,2906,1,1,0,NULL,0,2269378,50,1
+2269538,63,Female,Edina,Minnesota,USA,55439,1,1,0,NULL,0,2269538,300,1
+2273565,67,Female,Champaign,Illinois,USA,61821,1,1,1,NULL,0,2273565,200,1
+2275065,87,Female,,No State,USA,,1,1,0,NULL,0,2275065,225,1
+2275781,68,Male,Herrin,Illinois,USA,62948,1,1,1,2275781,6,2275781,1950,1
+2275957,37,Female,Park Ridge,Illinois,USA,60068,1,1,0,NULL,0,2275957,100,1
+2276082,68,Male,Dixon               ,Illinois,USA,61021,1,1,1,NULL,0,2276082,255,1
+2276113,56,Female,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,2276113,300,1
+2278648,45,Female,Joliet,Illinois,USA,60435,0,1,0,2278648,1,2278648,300,1
+22792,25,Female,Chicago,Illinois,USA,60605,1,1,0,NULL,0,22792,25,1
+2282999,105,Male,,No State,USA,,1,1,1,2282999,3,2282999,1260,1
+2283007,87,Male,,No State,USA,,0,1,1,NULL,0,2283007,300,1
+2284493,96,Male,Manteno,Illinois,USA,60950,0,1,1,NULL,0,2284493,75,1
+2286350,103,Male,,No State,USA,,0,1,0,NULL,0,2286350,800,1
+2288332,87,Female,Forest Grove,Oregon,USA,97116,0,1,1,NULL,0,2288332,25,1
+2289641,73,Female,,No State,USA,,0,1,0,NULL,0,2289641,150,1
+229504,29,Female,Springfield,Illinois,USA,62704,1,1,0,NULL,0,229504,300,1
+2295864,91,Male,,No State,USA,,1,1,0,NULL,0,2295864,50,1
+2297674,45,Female,Claremont,California,USA,91711,1,1,1,2297674,4,2297674,605,1
+2297751,49,Female,Champaign,Illinois,USA,61822,1,1,1,2297751,2,2297751,800,1
+2297892,37,Female,Columbus,Ohio,USA,43209,1,1,0,2297892,3,2297892,85,1
+2298204,35,Female,Saint Louis,Missouri,USA,63123,1,1,0,NULL,0,2298204,280,1
+2303719,0,Female,Champaign,Illinois,USA,61821,0,1,1,NULL,0,2303719,25,1
+2305785,80,Female,Denver,Colorado,USA,80209,1,1,1,NULL,0,2305785,775,1
+2309570,80,Female,,No State,USA,,0,1,0,2309570,2,2309570,2614,1
+2310298,96,Female,,No State,USA,,0,1,0,NULL,0,2310298,450,1
+2311861,0,Female,,No State,USA,,0,1,0,NULL,0,2311861,25,1
+2313519,54,Male,Holly Springs,North Carolina,USA,27540,0,1,0,NULL,0,2313519,25,1
+2313750,51,Female,Champaign,Illinois,USA,61821,1,1,1,NULL,0,2313750,65,1
+2313764,37,Female,Bloomington,Illinois,USA,61704,1,1,1,NULL,0,2313764,600,1
+2317361,35,Female,Champaign,Illinois,USA,61821,1,1,1,2317361,2,2317361,300,1
+2320777,105,Female,,No State,USA,,0,1,0,NULL,0,2320777,75,1
+2321739,34,Female,Elgin,Illinois,USA,60123,1,1,0,NULL,0,2321739,100,1
+2324948,99,Female,,No State,USA,,0,1,1,NULL,0,2324948,200,1
+2325328,43,Female,Mahomet,Illinois,USA,61853,0,1,1,NULL,0,2325328,80,1
+2327304,91,Female,Arlington Heights,Illinois,USA,60004,1,1,0,NULL,0,2327304,210,1
+2327871,90,Female,,No State,USA,,0,1,0,NULL,0,2327871,750,1
+2328214,65,Female,,No State,USA,,1,1,0,NULL,0,2328214,30,1
+2331463,63,Female,,No State,USA,,1,1,0,NULL,0,2331463,10,1
+2331859,67,Female,Hawthorn Woods,Illinois,USA,60047,1,1,1,NULL,0,2331859,100,1
+2332245,0,Male,Honolulu,Hawaii,USA,96816,0,1,0,NULL,0,2332245,50,1
+2332670,80,Female,,No State,USA,,0,1,1,NULL,0,2332670,30,1
+233287,23,Female,Chicago,Illinois,USA,60636,1,1,0,NULL,0,233287,1,1
+2333318,64,Female,Pekin,Illinois,USA,61554,1,1,1,NULL,0,2333318,65,1
+2333642,55,Female,Danville,Illinois,USA,61832,1,1,0,2333642,6,2333642,100,1
+2333754,51,Male,Oak Park,Illinois,USA,60302,1,1,0,2333754,4,2333754,70,1
+2334342,62,Female,,No State,USA,,0,1,0,NULL,0,2334342,65,1
+2334472,62,Male,,No State,USA,,0,1,0,NULL,0,2334472,50,1
+2334868,62,Male,,No State,USA,,0,1,0,NULL,0,2334868,15,1
+2336881,76,Female,Portales,New Mexico,USA,88130,0,1,1,NULL,0,2336881,100,1
+2338172,61,Female,,No State,USA,,0,1,0,NULL,0,2338172,115,1
+2342998,75,Male,Deerfield,Illinois,USA,60015,1,1,1,NULL,0,2342998,475,1
+2343328,35,Female,Glen Ellyn          ,Illinois,USA,60137,1,1,0,NULL,0,2343328,30,1
+2346260,0,Female,,No State,USA,,0,0,1,NULL,0,2346260,25,1
+2346443,103,Male,Chicago,Illinois,USA,60640,0,1,1,NULL,0,2346443,50,1
+2354583,104,Female,,No State,USA,,0,1,0,NULL,0,2354583,75,1
+2358415,108,Female,,No State,USA,,0,1,0,2358415,1,2358415,25000,1
+2361234,77,Female,Evanston,Illinois,USA,60201,1,1,1,2361234,1,2361234,300,1
+2361342,0,Male,Peoria,Illinois,USA,61614,0,1,0,NULL,0,2361342,50,1
+2361455,82,Male,Marion,Illinois,USA,62959,1,1,1,NULL,0,2361455,20,1
+2365535,0,Female,Colebrook,New Hampshire,USA,3576,0,1,0,NULL,0,2365535,15,1
+2368211,0,Female,Des Moines,Iowa,USA,50313,0,1,0,NULL,0,2368211,70,1
+2370871,75,Female,Rockford,Illinois,USA,61107,0,1,0,NULL,0,2370871,70,1
+237424,74,Male,Galesburg,Illinois,USA,61401,1,1,1,NULL,0,237424,575,1
+237426,66,Female,Springfield,Illinois,USA,62711,1,1,1,237426,2,237426,35,1
+237445,75,Female,Urbana,Illinois,USA,61802,1,1,1,237445,5,237445,1150,1
+2376197,0,Female,Galesburg,Illinois,USA,61401,1,1,1,NULL,0,2376197,230,1
+2376419,0,Female,Decatur,Illinois,USA,62522,0,1,1,NULL,0,2376419,25,1
+237823,74,Female,Galesburg,Illinois,USA,61401,0,1,0,NULL,0,237823,100,1
+237903,76,Female,Rock Falls,Illinois,USA,61071,1,1,1,NULL,0,237903,10,1
+2379290,74,Male,Addison,Illinois,USA,60101,0,1,1,NULL,0,2379290,100,1
+2379294,83,Female,Naperville,Illinois,USA,60563,1,1,0,NULL,0,2379294,25,1
+2379552,103,Female,,No State,USA,,0,1,0,NULL,0,2379552,51,1
+2379635,0,Male,Chicago,Illinois,USA,60610,1,1,0,NULL,0,2379635,1600,1
+2379638,0,Male,Champaign,Illinois,USA,61821,1,1,0,NULL,0,2379638,50,1
+2379708,76,Male,Waban,Massachusetts,USA,2468,1,1,1,NULL,0,2379708,285,1
+2379830,0,Female,Stockton,Illinois,USA,61085,0,1,1,NULL,0,2379830,25,1
+2379835,0,Female,Chicago,Illinois,USA,60637,0,1,0,2379835,1,2379835,100,1
+2383639,78,Female,Los Angeles,California,USA,90012,0,1,0,NULL,0,2383639,100,1
+2388426,78,Male,Melrose,New York,USA,12121,0,1,1,NULL,0,2388426,1150,1
+2388901,71,Male,,No State,USA,,1,1,0,NULL,0,2388901,1200,1
+2390202,94,Female,,No State,USA,,0,1,0,NULL,0,2390202,55,1
+2397459,92,Female,Nashville,Indiana,USA,47448,0,1,1,NULL,0,2397459,100,1
+2400235,70,Female,Naples,Florida,USA,34110,0,1,1,NULL,0,2400235,580,1
+2400473,68,Female,Overland Park,Kansas,USA,66207,0,1,1,NULL,0,2400473,15,1
+2400712,67,Female,Spokane,Washington,USA,99203,1,1,1,NULL,0,2400712,25,1
+2402831,70,Female,Schaumburg,Illinois,USA,60194,0,1,1,NULL,0,2402831,150,1
+2402908,68,Female,Chicago,Illinois,USA,60649,1,1,0,2402908,1,2402908,475,1
+2403028,68,Female,Seattle,Washington,USA,98136,1,1,0,NULL,0,2403028,25,1
+2403056,75,Female,Champaign,Illinois,USA,61820,1,1,1,2403056,17,2403056,26670,1
+2403114,0,Female,Mountain Top,Pennsylvania,USA,18707,0,1,1,NULL,0,2403114,75,1
+2403117,65,Female,Wheaton,Illinois,USA,60189,0,1,1,NULL,0,2403117,25,1
+2403314,65,Female,Rye,New York,USA,10580,1,1,1,NULL,0,2403314,100,1
+2407823,0,Female,Lakewood,Colorado,USA,80228,1,1,0,NULL,0,2407823,250,1
+2407868,62,Female,Western Springs,Illinois,USA,60558,1,1,1,NULL,0,2407868,190,1
+2408125,0,Female,Tucson,Arizona,USA,85718,1,1,1,NULL,0,2408125,20,1
+2439327,63,Male,Troy,Illinois,USA,62294,1,1,1,NULL,0,2439327,325,1
+2449177,41,Female,Germantown Hills,Illinois,USA,61548,1,1,0,NULL,0,2449177,25,1
+2456669,61,Female,New Albany,Indiana,USA,47150,1,1,1,2456669,1,2456669,635,1
+2456670,54,Male,Peoria,Illinois,USA,61601,1,1,1,NULL,0,2456670,250,1
+2477018,66,Female,Hickory,North Carolina,USA,28601,1,1,1,NULL,0,2477018,300,1
+2477079,64,Female,Springfield,Illinois,USA,62711,1,1,1,2477079,2,2477079,1275,1
+2483372,68,Female,Naperville,Illinois,USA,60563,1,1,1,2483372,2,2483372,197,1
+248604,23,Female,Joliet,Illinois,USA,60431,1,1,0,NULL,0,248604,2,1
+249037,73,Male,Warrensburg,Illinois,USA,62573,1,1,1,249037,9,249037,4005.849998,1
+2491051,45,Female,Brentwood,Tennessee,USA,37027,1,1,0,2491051,1,2491051,150,1
+2491175,46,Female,Rushville,Illinois,USA,62681,1,1,0,NULL,0,2491175,45,1
+2491376,37,Female,Springfield,Illinois,USA,62702,1,0,0,NULL,0,2491376,25,1
+2492414,38,Female,Quincy,Illinois,USA,62305,1,1,1,NULL,0,2492414,150,1
+2492622,45,Male,Urbana,Illinois,USA,61801,1,1,0,NULL,0,2492622,200,1
+249279,46,Female,Raleigh,North Carolina,USA,27614,1,1,0,NULL,0,249279,10,1
+2492880,53,Female,Charleston,Illinois,USA,61920,1,1,0,NULL,0,2492880,300,1
+2495360,44,Female,Grand Rapids,Michigan,USA,49506,1,1,0,NULL,0,2495360,700,1
+2495736,60,Female,Champaign,Illinois,USA,61822,1,1,1,2495736,7,2495736,29629.99988,1
+2495750,59,Male,Walnut Hill,Illinois,USA,62893,1,1,0,NULL,0,2495750,25,1
+2497083,62,Female,Macomb,Illinois,USA,61455,1,1,0,2497083,1,2497083,5880,1
+2497763,46,Female,Pekin,Illinois,USA,61554,1,1,0,NULL,0,2497763,25,1
+2499977,39,Female,Quincy,Illinois,USA,62301,1,1,0,NULL,0,2499977,175,1
+2500729,60,Female,Darien,Illinois,USA,60561,1,1,1,NULL,0,2500729,75,1
+2502,67,Female,Olney,Illinois,USA,62450,1,1,1,2502,8,2502,1430,1
+250596,42,Female,Kutztown,Pennsylvania,USA,19530,1,1,1,250596,2,250596,110,1
+2513354,45,Female,Los Angeles,California,USA,90007,1,1,1,NULL,0,2513354,800,1
+2514018,42,Female,Springfield,Illinois,USA,62704,1,1,0,NULL,0,2514018,295,1
+2515854,50,Male,Springfield,Illinois,USA,62704,1,0,0,2515854,1,2515854,200,1
+2517,62,Female,Peoria,Illinois,USA,61615,0,1,0,NULL,0,2517,390,1
+2517248,46,Female,Long Beach,California,USA,90802,1,1,0,NULL,0,2517248,75,1
+2522179,33,Female,Chicago,Illinois,USA,60661,1,1,0,NULL,0,2522179,95,1
+253043,61,Female,Howell,Michigan,USA,48843,1,1,1,NULL,0,253043,30,1
+253201,61,Female,Saint Louis,Missouri,USA,63123,1,1,1,NULL,0,253201,25,1
+253205,65,Female,Florence,Montana,USA,59833,1,1,0,NULL,0,253205,75,1
+253481,62,Male,Quincy,Illinois,USA,62305,1,1,1,NULL,0,253481,295,1
+253601,63,Female,Riverwoods,Illinois,USA,60015,1,1,0,NULL,0,253601,60,1
+253657,63,Female,Elmhurst,Illinois,USA,60126,0,1,1,NULL,0,253657,145,1
+2539699,89,Female,Chicago,Illinois,USA,60660,0,1,0,NULL,0,2539699,700,1
+2542573,30,Female,Hillside,Illinois,USA,60162,1,1,0,NULL,0,2542573,10,1
+254961,76,Female,,No State,USA,,0,1,0,NULL,0,254961,65,1
+2571746,34,Female,Champaign,Illinois,USA,61820,1,1,1,2571746,1,2571746,50,1
+2572406,32,Female,Chicago,Illinois,USA,60647,1,1,0,NULL,0,2572406,25,1
+257623,58,Female,Chicago,Illinois,USA,60615,1,1,0,NULL,0,257623,75,1
+257636,57,Female,Edwardsville,Illinois,USA,62025,0,1,1,NULL,0,257636,20,1
+257806,65,Female,Wilmette,Illinois,USA,60091,0,1,0,NULL,0,257806,215,1
+257926,75,Female,,No State,USA,,1,1,0,NULL,0,257926,170,1
+260005,49,Female,Metamora,Illinois,USA,61548,1,1,1,NULL,0,260005,20,1
+260097,66,Female,Tucson,Arizona,USA,85739,1,1,1,NULL,0,260097,700,1
+261462,60,Female,Burr Ridge,Illinois,USA,60527,0,1,0,NULL,0,261462,50,1
+261692,56,Female,Chicago,Illinois,USA,60624,0,1,0,NULL,0,261692,200,1
+261754,62,Female,Skokie,Illinois,USA,60077,1,1,0,NULL,0,261754,15,1
+261919,58,Female,Chicago Heights,Illinois,USA,60411,0,1,0,NULL,0,261919,85,1
+261983,84,Male,El Cerrito,California,USA,94530,0,1,1,NULL,0,261983,60,1
+262175,57,Female,Fairfax,Virginia,USA,22031,1,1,1,NULL,0,262175,1025,1
+2623142,32,Female,Urbana,Illinois,USA,61802,1,1,0,NULL,0,2623142,45,1
+263602,60,Female,Effingham,Illinois,USA,62401,1,1,1,263602,1,263602,795,1
+263712,61,Female,Urbana,Illinois,USA,61801,1,1,1,263712,5,263712,110,1
+263810,63,Female,Mount Olive,North Carolina,USA,28365,0,1,1,NULL,0,263810,370,1
+263815,61,Female,Albuquerque,New Mexico,USA,87109,0,1,0,NULL,0,263815,75,1
+2640140,61,Female,Sparland,Illinois,USA,61565,1,1,1,NULL,0,2640140,235,1
+2640154,53,Female,Orangevale,California,USA,95662,1,1,0,NULL,0,2640154,5,1
+2640287,33,Female,Paxton,Illinois,USA,60957,1,1,0,2640287,3,2640287,75,1
+2640321,46,Female,Seoul,No State,KR,137-8,1,0,0,NULL,0,2640321,1000,1
+264055,49,Female,Wheaton,Illinois,USA,60189,1,1,1,NULL,0,264055,20,1
+264109,62,Male,Buffalo Grove,Illinois,USA,60089,0,1,0,NULL,0,264109,25,1
+264248,46,Female,Sacramento,California,USA,95841,1,1,1,NULL,0,264248,75,1
+264595,66,Female,Eugene,Oregon,USA,97403,0,1,1,NULL,0,264595,500,1
+2648048,35,Female,Naperville,Illinois,USA,60540,1,1,1,NULL,0,2648048,50,1
+2648252,46,Female,Kissimmee,Florida,USA,34746,1,1,0,NULL,0,2648252,145,1
+2648275,37,Female,Madison,Wisconsin,USA,53711,1,1,0,NULL,0,2648275,790,1
+2648491,38,Female,Lillington,North Carolina,USA,27546,1,1,0,NULL,0,2648491,2400,1
+265879,65,Male,Alton,Illinois,USA,62002,0,1,1,NULL,0,265879,25,1
+2660977,32,Female,Plainfield,Indiana,USA,46168,1,1,1,NULL,0,2660977,10,1
+2669506,63,Female,Urbana,Illinois,USA,61801,1,1,0,2669506,1,2669506,150,1
+2680531,47,Female,Prescott,Arizona,USA,86303,1,1,0,NULL,0,2680531,500,1
+268117,59,Female,Peoria,Illinois,USA,61614,0,1,1,268117,2,268117,645,1
+268241,58,Female,Des Plaines,Illinois,USA,60016,0,1,1,NULL,0,268241,75,1
+268499,67,Female,Lincoln,Illinois,USA,62656,1,1,1,268499,2,268499,150,1
+268576,69,Female,Poplar Grove,Illinois,USA,61065,1,1,0,268576,1,268576,50,1
+268608,61,Female,Phoenix,Arizona,USA,85032,0,1,0,NULL,0,268608,40,1
+268698,58,Female,Monmouth,Illinois,USA,61462,0,1,1,268698,1,268698,260,1
+268775,71,Female,Paris,Illinois,USA,61944,1,1,0,NULL,0,268775,100,1
+2691325,75,Male,Harrisburg,North Carolina,USA,28075,1,1,1,2691325,2,2691325,425,1
+26930,25,Female,Chicago,Illinois,USA,60624,1,1,0,26930,1,26930,1,1
+2700,53,Male,Champaign,Illinois,USA,61821,1,1,0,2700,5,2700,400,1
